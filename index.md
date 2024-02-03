@@ -1,6 +1,6 @@
 # Nick's Notes
 ## Directories
-- [[math-class-dir]](Help)
+- [[math-class-dir]]
 - [[math-hw-notes-dir]]
 - [[writing-class-dir]]
 
