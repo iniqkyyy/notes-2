@@ -1,4 +1,4 @@
-# class-overview
+# Math Class Overview
 
 ## Class Info
 1. Info

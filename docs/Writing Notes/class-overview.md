@@ -1,4 +1,4 @@
-# General Notes
+# Writing Class Overview
 
 ## Contact Info
     Email : rikka.wommack@montana.edu
