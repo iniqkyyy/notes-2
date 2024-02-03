@@ -14,8 +14,8 @@
 
 ## Graphing
 - Terminology
-    - #Relation is the *input/output* or *mapping* of a graph, ex. $\{(2,3), (3, 4), (5,6)\}$.
-    - #Domain is the set of all *input* values, ex. $\{2, 3, 5\}$.
-    - #Range is the set of all *output* values, ex. $\{3, 4, 6\}$.
+    - #Relation is the *input/output* or *mapping* of a graph, ex. $$\{(2,3), (3, 4), (5,6)\}$$.
+    - #Domain is the set of all *input* values, ex. $$\{2, 3, 5\}$$.
+    - #Range is the set of all *output* values, ex. $$\{3, 4, 6\}$$.
 
 #math-notes
