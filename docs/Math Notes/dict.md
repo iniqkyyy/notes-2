@@ -12,14 +12,14 @@
 - #VerticalLineTest If a vertical line on a graph crosses two data points, the data points are not a result of the function.
 - #Net-Change Is the change in output between two inputs, subtracting the second value from the first.
 - #Interpret-In-English Always include input title, output title, use a word to describe the change in value ex. (increased, decreased)
-- #Set-Builder-Notation to define sets using special characters, ex. $$\{x||x \leq 6,x\neq3\}$$
+- #Set-Builder-Notation to define sets using special characters, ex. $$\{x|x \leq 6,x\neq3\}$$
 - #Piecewise-Defined-Function is a way of describing functions using rules, for example : $$f(x)=\begin{cases} x^2 & \text{if} &x<1 \\ x + 1 &\text{if}&x\geq 1\end{cases}$$
 - #Six-Basic-Functions
     - Constant Function, horizontal line ex. $$f(x) = 3$$
     - Identity Function, diagonal line ex. $$f(x)=x$$
     - Square Function, "U" shape ex. $$f(x)=x^2$$
     - Cube Function, "S" shape (negative input = exponential negative output, positive input = exponential positive output) ex. $$f(x)=x^3$$
-    - Absolute Value Function, "V" shape ex. $$\begin{eq}f(x)=|x|\end{eq}$$
+    - Absolute Value Function, "V" shape ex. $$\begin{eq} f(x)=|x| \end{eq} $$
     - Square Root Function, gentle curve, starting at 0 #Pos-Neg-Root ex. $$f(x)=\sqrt{x}$$
 - #Interval-Notation Method to show inequality (for domains, etc.). Square bracket shows "inclusive", parenthesis shows "exclusive" and infinities always get parenthesis, ex. for $$1\leq x\lt \infty$$ is the same as $$[1, \infty)$$
 - #Union The symbol for to unionize two sets is $$(1,3)\cup(5,7)$$
