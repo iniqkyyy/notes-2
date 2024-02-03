@@ -1,4 +1,4 @@
-# Math Class Dir
+# Writing Class Dir
 - [[Writing Notes/Class Notes/class-1.md]]
 - [[Writing Notes/Class Notes/class-2.md]]
 - [[Writing Notes/Class Notes/class-3.md]]
