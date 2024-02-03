@@ -1,3 +1,4 @@
+$$\begin{doc}$$
 # Dictionary
 ## Roots
 - #Even-Odd-Root even roots cannot be negative (not real), odds can be.
@@ -23,3 +24,4 @@
     - Square Root Function, gentle curve, starting at 0 #Pos-Neg-Root ex. $$f(x)=\sqrt{x}$$
 - #Interval-Notation Method to show inequality (for domains, etc.). Square bracket shows "inclusive", parenthesis shows "exclusive" and infinities always get parenthesis, ex. for $$1\leq x\lt \infty$$ is the same as $$[1, \infty)$$
 - #Union The symbol for to unionize two sets is $$(1,3)\cup(5,7)$$
+$$\end{doc}$$
