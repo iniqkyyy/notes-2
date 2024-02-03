@@ -1,4 +1,3 @@
-# Nick's Notes
 ## Directories
 - [[Math Notes/Class Notes/dir]]
 - [[Math Notes/HW Notes/dir]]
