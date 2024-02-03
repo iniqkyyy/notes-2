@@ -20,7 +20,7 @@ $$f(x)$$
 * #Interpret-In-English Always include input title, output title, use a word to describe the change in value ex. (increased, decreased)
 * #Set-Builder-Notation to define sets using special characters, ex. 
 $$\{x|;x \leq 6,x\neq3\}$$  
-* #Piecewise-Defined-Function is a way of describing functions using rules, for example : 
+* #Piecewise-Defined-Function is a way of describing functions using rules, for example :  
 $$f(x)=\begin{cases} x^2 & \text{if} &x<1 \\ x + 1 &\text{if}&x\geq 1\end{cases}$$
 * #Six-Basic-Functions
     * Constant Function, horizontal line ex. 
