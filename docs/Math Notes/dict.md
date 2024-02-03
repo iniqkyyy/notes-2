@@ -19,7 +19,7 @@
     - Identity Function, diagonal line ex. $$f(x)=x$$
     - Square Function, "U" shape ex. $$f(x)=x^2$$
     - Cube Function, "S" shape (negative input = exponential negative output, positive input = exponential positive output) ex. $$f(x)=x^3$$
-    - Absolute Value Function, "V" shape ex. $$\begin{cases} \sqrt[n]{x} = |x| & \text{if} & x \to \text{even} \\ \sqrt[n]{x} = x & \text{if} & x \to \text{odd}\end{cases}$$
+    - Absolute Value Function, "V" shape ex. $$f(x)=|x|$$
     - Square Root Function, gentle curve, starting at 0 #Pos-Neg-Root ex. $$f(x)=\sqrt{x}$$
 - #Interval-Notation Method to show inequality (for domains, etc.). Square bracket shows "inclusive", parenthesis shows "exclusive" and infinities always get parenthesis, ex. for $$1\leq x\lt \infty$$ is the same as $$[1, \infty)$$
 - #Union The symbol for to unionize two sets is $$(1,3)\cup(5,7)$$
