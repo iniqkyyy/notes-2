@@ -18,7 +18,6 @@
 - [[Math Notes/Class Notes/class-17.md]]
 - [[Math Notes/Class Notes/class-18.md]]
 - [[Math Notes/Class Notes/class-19.md]]
-- [[Math Notes/Class Notes/class-20.md]]
 
 
 
