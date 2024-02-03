@@ -1,0 +1,16 @@
+# Lesson 3
+## Class Overview
+- Video Quiz = testing if you watched, not by knowledge
+- New note pages to replace part of packet
+- Went over changed office hours noted in [[Math Notes/class-overview]] -> Office Hours
+
+## Graphing
+- How to plot
+- #test-vocab y is **always** a function of x
+- #Function-Variables Output is always a function of Input, Output (y) is dependant, Input (x) is *in*dependant.
+- Lonely variable == dependant, other is independant.
+## Describing Change
+- #Net-Change Is the change in output between two inputs, subtracting the second value from the first.
+- #Interpret-In-English Always include input title, output title, use a word to describe the change in value ex. (increased, decreased)
+
+#math-notes
