@@ -41,5 +41,5 @@ $$f(x)=\begin{cases} x^2 & \text{if} &x<1 \\ x + 1 &\text{if}&x\geq 1\end{cases}
 $$[1, \infty)$$  
 $$(1,3)\cup(5,7)$$  
 * #Average-Rate-Of-Change describes how *quickly* the function increases or decreases over an interval. Also shown as the slope between two points. e.g: 
-$$\frac{\text{net change in y}}{\text{change in x}}= \frac{f(b) - f(a)}{b-a}=\frac{y_2-y_1}{x_2-x_1}$$
+$$\newline\frac{\text{net change in y}}{\text{change in x}}= \frac{f(b) - f(a)}{b-a}=\frac{y_2-y_1}{x_2-x_1}$$
 * #Secant-Line is the #Average-Rate-Of-Change in an interval. Draw a triangle showing rise/run in the interval and the hypotenuse will be the secant line.
