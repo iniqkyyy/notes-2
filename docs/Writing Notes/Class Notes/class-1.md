@@ -1,4 +1,4 @@
-# Class 1
+# Lesson 1
 
 ## Intro
 1. Teacher == Rikka Wommack
