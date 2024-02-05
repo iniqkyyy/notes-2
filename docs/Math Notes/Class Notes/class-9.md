@@ -7,10 +7,10 @@
   - Exam is Feb 14th in classroom same time.
 
 ## Story Problem Group Work
-- Problem : $330ft = 4x + 2L$
-  - Work in Green Notebook
-  - Solution:
-    - $x=41.25 \; y=82.5$
+  - Problem :
+$$330ft = 4x + 2L$$
+  - Solution (work in Green Notebook) :
+$$x=41.25 \; y=82.5$$
 
 ## Chapter 1 Section 9 Part 1 You Try
 -
