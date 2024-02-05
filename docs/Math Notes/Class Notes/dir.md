@@ -1,4 +1,4 @@
-# Math Class Dir
+# Math Class Directory
 - [[docs/Math Notes/Class Notes/class-1.md]]
 - [[docs/Math Notes/Class Notes/class-2.md]]
 - [[docs/Math Notes/Class Notes/class-3.md]]

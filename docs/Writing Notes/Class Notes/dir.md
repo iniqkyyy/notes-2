@@ -1,4 +1,4 @@
-# Writing Class Dir
+# Writing Class Directory
 - [[docs/Writing Notes/Class Notes/class-1.md]]
 - [[docs/Writing Notes/Class Notes/class-2.md]]
 - [[docs/Writing Notes/Class Notes/class-3.md]]
