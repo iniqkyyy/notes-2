@@ -7,7 +7,7 @@ $$\begin{cases} \sqrt[n]{x} = |x| & \text{if} & x \to \text{even} \\ \sqrt[n]{x}
 ## Notation
 * #Interpret-In-English Always include input title, output title, use a word to describe the change in value ex. (increased, decreased)
 * #Union The symbol for to unionize two sets is : 
-$$\cup$$
+"$$\cup$$"
 for example : 
 $$(1,3)\cup(5,7)$$ 
 * #Interval-Notation Method to show inequality (for domains, etc.). Square bracket shows "inclusive", parenthesis shows "exclusive" and infinities always get parenthesis, ex.
