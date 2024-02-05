@@ -29,7 +29,7 @@ $$f(x) \; \text{will **never** be multiplication. Say "f of x".}$$
 * #Set-Builder-Notation to define sets using special characters, ex. 
 $$\{x|;x \leq 6,x\neq3\}$$  
 * #Piecewise-Defined-Function is a way of describing functions using rules, for example :  
-$$f(x)=\begin{cases} x^2 & \text{if} &x<1 \\ x + 1 &\text{if}&x\geq 1\end{cases}$$
+$$\begin{gathered}f(x)=\begin{cases} x^2 & \text{if} &x<1 \\ x + 1 &\text{if}&x\geq 1\end{cases}\end{gathered}$$
 * #Six-Basic-Functions
     * Constant Function, horizontal line ex. 
     $$f(x) = 3$$  
@@ -43,5 +43,5 @@ $$f(x)=\begin{cases} x^2 & \text{if} &x<1 \\ x + 1 &\text{if}&x\geq 1\end{cases}
     * Square Root Function, gentle curve, starting at 0 #Pos-Neg-Root ex. 
     $$f(x)=\sqrt{x}$$  
 * #Average-Rate-Of-Change describes how *quickly* the function increases or decreases over an interval. Also shown as the slope between two points. e.g: 
-$$\large\newline\frac{\text{net change in y}}{\text{change in x}}= \frac{f(b) - f(a)}{b-a}=\frac{y_2-y_1}{x_2-x_1}$$
+$$\LARGE\begin{gathered}\newline\frac{\text{net change in y}}{\text{change in x}}= \frac{f(b) - f(a)}{b-a}=\frac{y_2-y_1}{x_2-x_1}\end{gathered}$$
 * #Secant-Line is the #Average-Rate-Of-Change in an interval. Draw a triangle showing rise/run in the interval and the hypotenuse will be the secant line.
