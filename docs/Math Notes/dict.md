@@ -2,11 +2,13 @@
 ## Roots
 * #Even-Odd-Root even roots cannot be negative (not real), odds can be.
 * #Pos-Neg-Root when solving roots 
-$$\begin{cases} \sqrt[n]{x} = |x| & \text{if} & x \to \text{even} \\ \sqrt[n]{x} = x & \text{if} & x \to \text{odd}\end{cases}$$  
+$$\begin{cases} \sqrt[n]{x} = |x| & \text{if} & x \to \text{even} \\ \sqrt[n]{x} = x & \text{if} & x \to \text{odd}\end{cases}$$
+
 ## Notation
 * #Interpret-In-English Always include input title, output title, use a word to describe the change in value ex. (increased, decreased)
 * #Union The symbol for to unionize two sets is 
 * #Interval-Notation Method to show inequality (for domains, etc.). Square bracket shows "inclusive", parenthesis shows "exclusive" and infinities always get parenthesis, ex. for $$1\leq x\lt \infty$$ is the same as 
+
 ## Graphing
 * #Relation is the *input/output* or *mapping* of a graph, ex. 
 $$\{(2,3), (3, 4), (5,6)\}$$  
