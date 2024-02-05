@@ -6,8 +6,12 @@ $$\begin{cases} \sqrt[n]{x} = |x| & \text{if} & x \to \text{even} \\ \sqrt[n]{x}
 
 ## Notation
 * #Interpret-In-English Always include input title, output title, use a word to describe the change in value ex. (increased, decreased)
-* #Union The symbol for to unionize two sets is 
-* #Interval-Notation Method to show inequality (for domains, etc.). Square bracket shows "inclusive", parenthesis shows "exclusive" and infinities always get parenthesis, ex. for $$1\leq x\lt \infty$$ is the same as 
+* #Union The symbol for to unionize two sets is : 
+$$\cup$$
+for example : 
+$$(1,3)\cup(5,7)$$ 
+* #Interval-Notation Method to show inequality (for domains, etc.). Square bracket shows "inclusive", parenthesis shows "exclusive" and infinities always get parenthesis, ex.
+$$(1\leq x\lt \infty)\to[1, \infty)$$ 
 
 ## Graphing
 * #Relation is the *input/output* or *mapping* of a graph, ex. 
@@ -38,8 +42,6 @@ $$f(x)=\begin{cases} x^2 & \text{if} &x<1 \\ x + 1 &\text{if}&x\geq 1\end{cases}
     $$f(x)=|x|$$  
     * Square Root Function, gentle curve, starting at 0 #Pos-Neg-Root ex. 
     $$f(x)=\sqrt{x}$$  
-$$[1, \infty)$$  
-$$(1,3)\cup(5,7)$$  
 * #Average-Rate-Of-Change describes how *quickly* the function increases or decreases over an interval. Also shown as the slope between two points. e.g: 
 $$\newline\frac{\text{net change in y}}{\text{change in x}}= \frac{f(b) - f(a)}{b-a}=\frac{y_2-y_1}{x_2-x_1}$$
 * #Secant-Line is the #Average-Rate-Of-Change in an interval. Draw a triangle showing rise/run in the interval and the hypotenuse will be the secant line.
