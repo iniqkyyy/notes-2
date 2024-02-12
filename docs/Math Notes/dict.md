@@ -49,6 +49,8 @@ $$\large\newline\frac{\text{net change in y}}{\text{change in x}}= \frac{f(b) - 
 * #Point-Slope-Form is the equation behind a #Linear-Function given a point on the line and the slope of the line. $$y-y_1=m(x-x_1)\;\text{where the point is}\;(x_1, y_1)\;\text{and the slope is}\;m$$
 * #Slope-Intercept-Form is the equation behind a #Linear-Function given the slope and y-intercept of the line. $$y=mx+b$$ where $$m$$ is the slope and $$b$$ is the y-intercept.
 * #Interpret-Yint-Slope y-intercept and slope in English.
-  - Y-int : *When [x value] is 0, [y value] is [y-intercept]*
-  - Slope : *When [x value] increases by 1, [y value] [increases|decreases] by [slope]*
+  * Y-int : *When [x value] is 0, [y value] is [y-intercept]*
+
+  * Slope : *When [x value] increases by 1, [y value] [increases|decreases] by [slope]*
+
 * #Horizontal-Vertical-Line the function to show a Horizontal line is $$x = a$$ and a Vertical line is $$y = b$$.

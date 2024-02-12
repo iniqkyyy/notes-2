@@ -17,8 +17,26 @@
 - Writing #Point-Slope-Form and #Slope-Intercept-Form and converting between them.
 - Careful with signs when distributing in parenthesis.
 
-## Topic4
-- 
+## Exam Review
+- Solving equations w/ fractions
+  - Use #Eliminate-Fractions
+- Square roots/cube roots
+  - Remember #Even-Odd-Root #Pos-Neg-Root
+  - When solving for a variable, +-, when plain number it's only positive
+- Domain/Range
+  - Remember #Domain is x-values, #Range is y-values
+  - #Set-Builder-Notation *or* #Interval-Notation
+- #Function
+  - Use #VerticalLineTest
+  - Every input has one output
+- Independant/Dependant variables.
+  - #Function-Variables lone variable is *dependant*, other is *independant*.
+- Solving for variables
+- #Average-Rate-Of-Change
+- #Net-Change
+- #Function-Notation important
+- Plotting #Piecewise-Defined-Function
+- Story problems are present in the exam
 
 ## Ending
 - 
