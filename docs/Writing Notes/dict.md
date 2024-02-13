@@ -3,3 +3,22 @@
 - #Important important topics.
 - #Rhetoric is the art, theory, and practice of ethical communication.
 - #Analyzing is breaking down something into its components and thinking about them methodically in an attempt to understand it.
+- #Me-Myself-I
+  - people get incorrect everywhere
+  - "She asked Anna and [me, myself, I] for the wifi password"
+    - answer is "me", because if you remove other people it is: "She asked [me, myself, I] for the wifi password"
+  - "massage the conjugation"
+  - "myself" can only appear if you have already appeared in the sentence
+    - "*I* can buy _myself_ flowers"
+    - "*I myself* prefer this"
+- #Passive-Voice
+  - conjugations of "to be" (is, are, am, will, were, could have, has been, etc.) followed by the past-participle of a verb (jumped, sailed, awoke, etc.)
+  - In journalism
+    - "Shots *were fired*..."
+    - "A car *was abandoned*..."
+    - "Mistakes *were made*..."
+  - Passive construction
+    - "3 jars of cookies *were eaten* by her dog"
+  - Active construction
+    - "*Her dog* ate 3 jars of cookies"
+  - If it is longer and passive then it feels more professional (this is a misconception)
