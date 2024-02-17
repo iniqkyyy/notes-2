@@ -61,3 +61,10 @@ $$\large\newline\frac{\text{net change in y}}{\text{change in x}}= \frac{f(b) - 
   * For $$x^2 + c$$, a change in $$c$$ changes the location of the vertex of the parabola along the y-axis.  
   * For $$(x + b)^2$$, a change in $$b$$ moves the parabola along the x-axis, however a positive increase in $$b$$ moves the parabola in the **negative** direction, and a negative increase in $$b$$ moves the parabola in the **positive** direction.  
   * For $$ax^2$$, a change in $$a$$ changes the steepness of the parabola, alternatively $$a=f(x)$$ where $$x$$ is 1 $$x$$ unit away from the vertex.
+* #Quadratic-Forms
+  * #General-Form is the form $$ax^2+bx+c$$ where $$(0,c)$$ is the y-intercept of the parabola. 
+  * #Factored-Form is the form $$a(x-m)(x-n)$$ where $$m$$ and $$n$$ are the x-intercepts of the parabola.
+  * #Standard-Form is the form $$a(x-h)^2+k$$ where $$(h, k)$$ is the #Vertex of the parabola.
+* #Vertex is the maximum (or minimum) of a parabola, depending on which way it opens.
+* #Stretch-Compression-Factor is $$a$$ in a quadratic equation, and defines how stretched or compressed the parabola is. ex. a quadratic with $$a=2$$ would be four times as steep as one with $$a=1/2$$.
+
