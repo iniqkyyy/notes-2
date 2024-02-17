@@ -51,6 +51,13 @@ $$\large\newline\frac{\text{net change in y}}{\text{change in x}}= \frac{f(b) - 
 * #Interpret-Yint-Slope y-intercept and slope in English.
   * Y-int : *When [x value] is 0, [y value] is [y-intercept]*
 
-  * Slope : *When [x value] increases by 1, [y value] [increases|decreases] by [slope]*
+  * Slope : *When [x value] increases by 1, [y value] [increases/decreases] by [slope]*
 
 * #Horizontal-Vertical-Line the function to show a Horizontal line is $$x = a$$ and a Vertical line is $$y = b$$.
+
+## Quadratics and Parabolas
+
+* #Quadratics 
+  * For $$x^2 + c$$, a change in $$c$$ changes the location of the vertex of the parabola along the y-axis.  
+  * For $$(x + b)^2$$, a change in $$b$$ moves the parabola along the x-axis, however a positive increase in $$b$$ moves the parabola in the **negative** direction, and a negative increase in $$b$$ moves the parabola in the **positive** direction.  
+  * For $$ax^2$$, a change in $$a$$ changes the steepness of the parabola, alternatively $$a=f(x)$$ where $$x$$ is 1 $$x$$ unit away from the vertex.

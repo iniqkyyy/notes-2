@@ -11,7 +11,7 @@
 ## C2S2P2
 - #Interpret-Yint-Slope y-intercept and slope in English.
   - Y-int : *When [x value] is 0, [y value] is [y-intercept]*
-  - Slope : *When [x value] increases by 1, [y value] [increases|decreases] by [slope]*
+  - Slope : *When [x value] increases by 1, [y value] [increases/decreases] by [slope]*
 
 ## C2S3P1
 - Writing #Point-Slope-Form and #Slope-Intercept-Form and converting between them.
