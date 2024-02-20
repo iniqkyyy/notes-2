@@ -14,5 +14,6 @@
 1. meta-ethics or ethics
 2. philosophy
 3. western and eastern
-4. plato and socrates and homer and confucius and sun tzu and lao tzu
+4. plato or socrates or homer or confucius or sun tzu or lao tzu or laotzi
 5. morality
+6. history
