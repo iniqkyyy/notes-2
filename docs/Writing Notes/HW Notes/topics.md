@@ -18,3 +18,6 @@
 
 ## Eastern Philosophical approach to ethics
 1. maybe even specifically daoism?
+
+## Maybe final: What philosophical beliefs make up Egoism and how does it differ to other popular schools of thought in philosophy?
+1. egoism

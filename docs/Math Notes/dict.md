@@ -58,8 +58,8 @@ $$\large\newline\frac{\text{net change in y}}{\text{change in x}}= \frac{f(b) - 
 ## Quadratics and Parabolas
 
 * #Quadratics 
-  * For $$x^2 + c$$, a change in $$c$$ changes the location of the vertex of the parabola along the y-axis.  
-  * For $$(x + b)^2$$, a change in $$b$$ moves the parabola along the x-axis, however a positive increase in $$b$$ moves the parabola in the **negative** direction, and a negative increase in $$b$$ moves the parabola in the **positive** direction.  
+  * For $$x^2 + k$$, a change in $$k$$ changes the location of the vertex of the parabola along the y-axis.  
+  * For $$(x + h)^2$$, a change in $$h$$ moves the parabola along the x-axis, however a positive increase in $$h$$ moves the parabola in the **negative** direction, and a negative increase in $$b$$ moves the parabola in the **positive** direction.  
   * For $$ax^2$$, a change in $$a$$ changes the steepness of the parabola, alternatively $$a=f(x)$$ where $$x$$ is 1 $$x$$ unit away from the vertex.
 * #Quadratic-Forms
   * #General-Form is the form $$ax^2+bx+c$$ where $$(0,c)$$ is the y-intercept of the parabola. 
