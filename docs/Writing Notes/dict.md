@@ -22,3 +22,9 @@
   - Active construction
     - "*Her dog* ate 3 jars of cookies"
   - If it is longer and passive then it feels more professional (this is a misconception)
+- #CRAAP
+  - C - Currency, is it current?
+  - R - Relevancy, is it even relevant to your paper?
+  - A - Accuracy, is it true?
+  - A - Authority, is the author credible?
+  - P - Purpose, why did the author write this?
