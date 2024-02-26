@@ -65,6 +65,6 @@ $$\large\newline\frac{\text{net change in y}}{\text{change in x}}= \frac{f(b) - 
   * #General-Form is the form $$ax^2+bx+c$$ where $$(0,c)$$ is the y-intercept of the parabola. 
   * #Factored-Form is the form $$a(x-m)(x-n)$$ where $$m$$ and $$n$$ are the x-intercepts of the parabola.
   * #Standard-Form is the form $$a(x-h)^2+k$$ where $$(h, k)$$ is the #Vertex of the parabola.
-* #Vertex is the maximum (or minimum) of a parabola, depending on which way it opens.
+* #Vertex is the maximum (or minimum) of a parabola, depending on which way it opens. The equation for finding the vertex from #General-Form is $$(\frac{-b}{2a}, f(\frac{-b}{2a}))$$
 * #Stretch-Compression-Factor is $$a$$ in a quadratic equation, and defines how stretched or compressed the parabola is. ex. a quadratic with $$a=2$$ would be four times as steep as one with $$a=1/2$$.
 * #First-Second-Differences first differences is the change in $$y$$ when $$x$$ increases by 1, second differences is the change in first differences. Quadratic functions has a non-linear first difference, but a linear second difference.
