@@ -57,14 +57,23 @@ $$\large\newline\frac{\text{net change in y}}{\text{change in x}}= \frac{f(b) - 
 
 ## Quadratics and Parabolas
 
-* #Quadratics 
-  * For $$x^2 + k$$, a change in $$k$$ changes the location of the vertex of the parabola along the y-axis.  
-  * For $$(x + h)^2$$, a change in $$h$$ moves the parabola along the x-axis, however a positive increase in $$h$$ moves the parabola in the **negative** direction, and a negative increase in $$b$$ moves the parabola in the **positive** direction.  
-  * For $$ax^2$$, a change in $$a$$ changes the steepness of the parabola, alternatively $$a=f(x)$$ where $$x$$ is 1 $$x$$ unit away from the vertex.
+* #Quadratic is a function that produces a parabola (a mirrored curve), has three forms but is generally $$f(x)=ax^2+bx^1+cx^0$$
+* #First-Second-Differences first differences is the change in $$y$$ when $$x$$ increases by 1, second differences is the change in first differences. Quadratic functions has a non-linear first difference (cannot cross the vertex during this comparison), but a linear second difference.
 * #Quadratic-Forms
   * #General-Form is the form $$ax^2+bx+c$$ where $$(0,c)$$ is the y-intercept of the parabola. 
   * #Factored-Form is the form $$a(x-m)(x-n)$$ where $$m$$ and $$n$$ are the x-intercepts of the parabola.
   * #Standard-Form is the form $$a(x-h)^2+k$$ where $$(h, k)$$ is the #Vertex of the parabola.
-* #Vertex is the maximum (or minimum) of a parabola, depending on which way it opens. The equation for finding the vertex from #General-Form is $$(\frac{-b}{2a}, f(\frac{-b}{2a}))$$
-* #Stretch-Compression-Factor is $$a$$ in a quadratic equation, and defines how stretched or compressed the parabola is. ex. a quadratic with $$a=2$$ would be four times as steep as one with $$a=1/2$$.
-* #First-Second-Differences first differences is the change in $$y$$ when $$x$$ increases by 1, second differences is the change in first differences. Quadratic functions has a non-linear first difference, but a linear second difference.
+* #Vertex is the maximum or minimum of a parabola, depending on which way it opens.
+  * #Factored-Form-Vertex the vertex of a #Quadratic in #Factored-Form is $$a(x-m)(x-n) \to (m, n)$$
+  * #General-Form-Vertex the vertex of a #Quadratic in #General-Form is $$(\frac{-b}{2a},f(\frac{-b}{2a}))$$
+  * Standard-Form-Vertex the vertex of a #Quadratic in #Standard-Form is $$(h,k)$$
+* #Stretch-Compression-Factor is $$a$$ in a #Quadratic, and defines how stretched or compressed the parabola is. ex. a quadratic with $$a=2$$ would be four times as steep as one with $$a=1/2$$.
+* #Standard-Form-Graphing
+  * For $$a(x-h)+k$$
+    * Change in $$a$$ changes the #Stretch-Compression-Factor.
+    * Change in $$h$$ moves the #Vertex of the parabola horizontally (opposite to intuition, since formula is $$x-h$$).
+    * Change in $$k$$ moves the #Vertex of the parabola vertically (same as intuition, since fornula is $$+k$$).
+* #General-Form-Graphing
+  * 
+* #Factored-Form-Graphing
+  * 

@@ -16,7 +16,17 @@
 - [[docs/Math Notes/Class Notes/class-15.md]]
 - [[docs/Math Notes/Class Notes/class-16.md]]
 - [[docs/Math Notes/Class Notes/class-17.md]]
-- [[docs/Math Notes/Class Notes/class-18.md]]
+- [[docs/Math Notes/Class Notes/class-19.md]]
+- [[docs/Math Notes/Class Notes/class-21.md]]
+- [[docs/Math Notes/Class Notes/class-22.md]]
+- [[docs/Math Notes/Class Notes/class-23.md]]
+- [[docs/Math Notes/Class Notes/class-24.md]]
+- [[docs/Math Notes/Class Notes/class-25.md]]
+- [[docs/Math Notes/Class Notes/class-26.md]]
+- [[docs/Math Notes/Class Notes/class-27.md]]
+- [[docs/Math Notes/Class Notes/class-28.md]]
+- [[docs/Math Notes/Class Notes/class-29.md]]
+2
 
 
 
