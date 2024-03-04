@@ -88,4 +88,11 @@ $$\large\newline\frac{\text{net change in y}}{\text{change in x}}= \frac{f(b) - 
 * #Polynomial-Degree is the largest exponent of $$x$$ in a #Polynomial-Function.
 * #Leading-Coefficient is the coefficient of the largest exponent of $$x$$.
 * #Polynomial-X-Intercepts a polynomial of degree $$n$$ can have up to $$n$$ x-intercepts.
-* #Graping-Polynomial unexplained so far.
+* #Graping-Polynomial is based on the #Polynomial-Degree and the #Leading-Coefficient. If the LC is positive, both ends want to open up, if the Degree is odd it will swap the left opening.
+  * Degree is even :
+    * Leading Coefficient is positive : Both ends open up.
+    * Leading Coefficient is negative : Left end is flipped, opens down.
+  * Degree is odd :
+    * Leading Coefficient is positive : Both ends open down.
+    * Leading Coefficient is negative : Left end is flipped, opens up.
+
