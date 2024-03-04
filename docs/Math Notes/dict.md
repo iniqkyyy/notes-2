@@ -71,9 +71,21 @@ $$\large\newline\frac{\text{net change in y}}{\text{change in x}}= \frac{f(b) - 
 * #Standard-Form-Graphing
   * For $$a(x-h)+k$$
     * Change in $$a$$ changes the #Stretch-Compression-Factor.
-    * Change in $$h$$ moves the #Vertex of the parabola horizontally (opposite to intuition, since formula is $$x-h$$).
-    * Change in $$k$$ moves the #Vertex of the parabola vertically (same as intuition, since fornula is $$+k$$).
+    * Change in $$h$$ moves the #Vertex of the parabola horizontally from $$(0, 0)$$ (opposite to intuition, since formula is $$x-h$$).
+    * Change in $$k$$ moves the #Vertex of the parabola vertically from $$(0, 0)$$ (same as intuition, since fornula is $$+k$$).
 * #General-Form-Graphing
-  * 
+  * For $$ax^2+bx^1+cx^0$$
+    * Use the #General-Form-Vertex to plot the #Vertex of the parabola.
+    * If $$b^2-4ac \geq 0$$ then find the x-intercepts and plot them.
 * #Factored-Form-Graphing
-  * 
+  * For $$a(x-m)(x-n)$$
+    * Use the #Factored-Form-Vertex to plot the #Vertex of the parabola.
+    * Plot the x-intercepts using $$m$$ and $$n$$.
+
+## Polynomials
+
+* #Polynomial-Function is a sum of monomials e.g : $$a_n x^n$$ where $$n$$ is a positive whole number.
+* #Polynomial-Degree is the largest exponent of $$x$$ in a #Polynomial-Function.
+* #Leading-Coefficient is the coefficient of the largest exponent of $$x$$.
+* #Polynomial-X-Intercepts a polynomial of degree $$n$$ can have up to $$n$$ x-intercepts.
+* #Graping-Polynomial unexplained so far.
