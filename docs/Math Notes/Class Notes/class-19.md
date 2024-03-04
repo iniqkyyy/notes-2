@@ -23,7 +23,7 @@
     - Leading Coefficient is negative : Left end is flipped, opens up.
 
 ## Rational Equations P1
-- 
+- Expression has no equal sign, equation has one.
 
 ## Ending
 - 
