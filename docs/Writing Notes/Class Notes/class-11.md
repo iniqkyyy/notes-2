@@ -27,6 +27,13 @@
   - "To all the people whose feelings got hurt by the Burn Book, I'm really sorry"
   - Cady goes around the room, first finding Jessica Lopez and complimenting her dress.
   - Cady goes up on stage to accept a "trophy" but instead apologizes to her peers and compliments everyone's appearances, going as far as to break apart her "trophy" and throw the broken pieces to everyone to signify that everyone is a winner in their own right.
+- You don't have to cite public knowledge. "I have a dream...", "I pledge allegiance to the flag", etc.
+- Don't have to cite broad ideas that nobody actually owns like the definition of a word.
+- In text citation : 
+  - Swap the period at the end of a citation for a comma, then put the period after the citation.
+  - **"Quote," (Thomas,16).**
+  - If there are no listed authors for a piece.
+  - **"Quote," ("Title of the Article").**
 
 ## Ending
 - 
