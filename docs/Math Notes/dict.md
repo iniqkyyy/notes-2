@@ -64,7 +64,7 @@ $$\large\newline\frac{\text{net change in y}}{\text{change in x}}= \frac{f(b) - 
   * #Factored-Form is the form $$a(x-m)(x-n)$$ where $$m$$ and $$n$$ are the x-intercepts of the parabola.
   * #Standard-Form is the form $$a(x-h)^2+k$$ where $$(h, k)$$ is the #Vertex of the parabola.
 * #Vertex is the maximum or minimum of a parabola, depending on which way it opens.
-  * #Factored-Form-Vertex the vertex of a #Quadratic in #Factored-Form is $$a(x-m)(x-n) \to (m, n)$$
+  * #Factored-Form-Vertex the vertex of a #Quadratic in #Factored-Form is $$a(x-m)(x-n) \to (\frac{m+n}{2}, f(\frac{m+n}{2}))$$
   * #General-Form-Vertex the vertex of a #Quadratic in #General-Form is $$(\frac{-b}{2a},f(\frac{-b}{2a}))$$
   * Standard-Form-Vertex the vertex of a #Quadratic in #Standard-Form is $$(h,k)$$
 * #Stretch-Compression-Factor is $$a$$ in a #Quadratic, and defines how stretched or compressed the parabola is. ex. a quadratic with $$a=2$$ would be four times as steep as one with $$a=1/2$$.
@@ -95,4 +95,9 @@ $$\large\newline\frac{\text{net change in y}}{\text{change in x}}= \frac{f(b) - 
   * Degree is odd :
     * Leading Coefficient is positive : Both ends open down.
     * Leading Coefficient is negative : Left end is flipped, opens up.
+* #Asymptote a Horizontal or Vertical asymptote is a line that the graph of a function gets closer and closer to (vertical cannot cross, horizonal can cross). A function has a Vertical Asymptote $$x=a$$ if $$y\to\inf\lor-\inf$$ as $$x\to a$$ from either side.
+* Solving-Vertical-Asymptotes factor the polynomials, simplify if possible, then find values of $$x$$ that make the denominator = 0. x-intercepts can also be solved as only the numerator = 0 since the denominator cannot equal 0.
+* #Solving-Horizonal-Asymptotes if the #Polynomial-Degree of the numerator is **equal to** the degree of the denominator, the Horizontal #Asymptote is equal to the ratio between the #Leading-Coefficient of the top and bottom polynomials. 
+  * When the degree of the numerator is **less than** the degree of the denominator, the horizontal asymptote is at $$y=0$$.
+  * When the degree of the numerator is **greater than** the degree of the denominator, there is *no* horizontal asymptote.
 
