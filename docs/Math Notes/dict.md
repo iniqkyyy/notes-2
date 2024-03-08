@@ -100,4 +100,6 @@ $$\large\newline\frac{\text{net change in y}}{\text{change in x}}= \frac{f(b) - 
 * #Solving-Horizonal-Asymptotes if the #Polynomial-Degree of the numerator is **equal to** the degree of the denominator, the Horizontal #Asymptote is equal to the ratio between the #Leading-Coefficient of the top and bottom polynomials. 
   * When the degree of the numerator is **less than** the degree of the denominator, the horizontal asymptote is at $$y=0$$.
   * When the degree of the numerator is **greater than** the degree of the denominator, there is *no* horizontal asymptote.
-
+* #Solving-Negative-Exponent rational equations.
+  * Try to clear the fraction by making a common denominator and/or making the whole thing equal 0.
+  * $$5x^-2+x^-3=0 \;\;\to \;\;\frac{5}{x^2}(\frac{x}{x}) + \frac{1}{x^3} = 0 \;\;\to\;\; \frac{5x+1}{x^3}=0$$
