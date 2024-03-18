@@ -87,7 +87,8 @@ $$\large\newline\frac{\text{net change in y}}{\text{change in x}}= \frac{f(b) - 
 * #Polynomial-Function is a sum of monomials e.g : $$a_n x^n$$ where $$n$$ is a positive whole number.
 * #Polynomial-Degree is the largest exponent of $$x$$ in a #Polynomial-Function.
 * #Leading-Coefficient is the coefficient of the largest exponent of $$x$$.
-* #Polynomial-X-Intercepts a polynomial of degree $$n$$ can have up to $$n$$ x-intercepts.
+* #Polynomial-X-Intercepts a polynomial of degree $$n$$ can have up to $$n$$ x-intercepts, solved by setting numerator equal to 0.
+* #Polynomial-Y-Intercepts a polynomial's y-intercepts are found by setting $$x=0$$ and solving for $$f(x)$$.
 * #Graping-Polynomial is based on the #Polynomial-Degree and the #Leading-Coefficient. If the LC is positive, both ends want to open up, if the Degree is odd it will swap the left opening.
   * Degree is even :
     * Leading Coefficient is positive : Both ends open up.
@@ -96,7 +97,7 @@ $$\large\newline\frac{\text{net change in y}}{\text{change in x}}= \frac{f(b) - 
     * Leading Coefficient is positive : Both ends open down.
     * Leading Coefficient is negative : Left end is flipped, opens up.
 * #Asymptote a Horizontal or Vertical asymptote is a line that the graph of a function gets closer and closer to (vertical cannot cross, horizonal can cross). A function has a Vertical Asymptote $$x=a$$ if $$y\to\inf\lor-\inf$$ as $$x\to a$$ from either side.
-* Solving-Vertical-Asymptotes factor the polynomials, simplify if possible, then find values of $$x$$ that make the denominator = 0. x-intercepts can also be solved as only the numerator = 0 since the denominator cannot equal 0.
+* #Solving-Vertical-Asymptotes factor the polynomials, simplify if possible, then find values of $$x$$ that make the denominator = 0. x-intercepts can also be solved as only the numerator = 0 since the denominator cannot equal 0.
 * #Solving-Horizonal-Asymptotes if the #Polynomial-Degree of the numerator is **equal to** the degree of the denominator, the Horizontal #Asymptote is equal to the ratio between the #Leading-Coefficient of the top and bottom polynomials. 
   * When the degree of the numerator is **less than** the degree of the denominator, the horizontal asymptote is at $$y=0$$.
   * When the degree of the numerator is **greater than** the degree of the denominator, there is *no* horizontal asymptote.
