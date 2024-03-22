@@ -59,6 +59,7 @@ $$\large\newline\frac{\text{net change in y}}{\text{change in x}}= \frac{f(b) - 
 
 * #Quadratic is a function that produces a parabola (a mirrored curve), has three forms but is generally $$f(x)=ax^2+bx^1+cx^0$$
 * #First-Second-Differences first differences is the change in $$y$$ when $$x$$ increases by 1, second differences is the change in first differences. Quadratic functions has a non-linear first difference (cannot cross the vertex during this comparison), but a linear second difference.
+* #Discriminant is the section of the quadratic formula underneath the square root, if the discriminant is positive then there are two x-intercepts, if it is 0 then there is one x-intercept, and if it is negative there are no real solutions. $$D = b^2-4ac$$
 * #Quadratic-Forms
   * #General-Form is the form $$ax^2+bx+c$$ where $$(0,c)$$ is the y-intercept of the parabola. 
   * #Factored-Form is the form $$a(x-m)(x-n)$$ where $$m$$ and $$n$$ are the x-intercepts of the parabola.
@@ -66,7 +67,7 @@ $$\large\newline\frac{\text{net change in y}}{\text{change in x}}= \frac{f(b) - 
 * #Vertex is the maximum or minimum of a parabola, depending on which way it opens.
   * #Factored-Form-Vertex the vertex of a #Quadratic in #Factored-Form is $$a(x-m)(x-n) \to (\frac{m+n}{2}, f(\frac{m+n}{2}))$$
   * #General-Form-Vertex the vertex of a #Quadratic in #General-Form is $$(\frac{-b}{2a},f(\frac{-b}{2a}))$$
-  * Standard-Form-Vertex the vertex of a #Quadratic in #Standard-Form is $$(h,k)$$
+  * #Standard-Form-Vertex the vertex of a #Quadratic in #Standard-Form is $$(h,k)$$
 * #Stretch-Compression-Factor is $$a$$ in a #Quadratic, and defines how stretched or compressed the parabola is. ex. a quadratic with $$a=2$$ would be four times as steep as one with $$a=1/2$$.
 * #Standard-Form-Graphing
   * For $$a(x-h)+k$$
@@ -89,7 +90,7 @@ $$\large\newline\frac{\text{net change in y}}{\text{change in x}}= \frac{f(b) - 
 * #Leading-Coefficient is the coefficient of the largest exponent of $$x$$.
 * #Polynomial-X-Intercepts a polynomial of degree $$n$$ can have up to $$n$$ x-intercepts, solved by setting numerator equal to 0.
 * #Polynomial-Y-Intercepts a polynomial's y-intercepts are found by setting $$x=0$$ and solving for $$f(x)$$.
-* #Graping-Polynomial is based on the #Polynomial-Degree and the #Leading-Coefficient. If the LC is positive, both ends want to open up, if the Degree is odd it will swap the left opening.
+* #Graphing-Polynomial is based on the #Polynomial-Degree and the #Leading-Coefficient. If the LC is positive, both ends want to open up, if the Degree is odd it will swap the left opening.
   * Degree is even :
     * Leading Coefficient is positive : Both ends open up.
     * Leading Coefficient is negative : Left end is flipped, opens down.
