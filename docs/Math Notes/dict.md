@@ -104,4 +104,9 @@ $$\large\newline\frac{\text{net change in y}}{\text{change in x}}= \frac{f(b) - 
   * When the degree of the numerator is **greater than** the degree of the denominator, there is *no* horizontal asymptote.
 * #Solving-Negative-Exponent rational equations.
   * Try to clear the fraction by making a common denominator and/or making the whole thing equal 0.
-  * $$5x^-2+x^-3=0 \;\;\to \;\;\frac{5}{x^2}(\frac{x}{x}) + \frac{1}{x^3} = 0 \;\;\to\;\; \frac{5x+1}{x^3}=0$$
+  * $$5x^{-2}+x^{-3}=0 \;\;\to \;\;\frac{5}{x^2}(\frac{x}{x}) + \frac{1}{x^3} = 0 \;\;\to\;\; \frac{5x+1}{x^3}=0$$
+
+## Last Chapters?
+
+* #Difference-Quotient is the formula to calculate the #Average-Rate-Of-Change of $$f(x)$$ over the period $$h$$. $$\frac{f(x+h)-f(x)}{h}$$
+* #Exponential-Growth is the formula of growth when the variable $$x$$ is in the exponent. $$f(x)=Ca^x$$ where $$C$$ is the initial value of $$x$$, $$a$$ is the growth factor, and $$x$$ is the number of time periods that have passed.
