@@ -106,7 +106,10 @@ $$\large\newline\frac{\text{net change in y}}{\text{change in x}}= \frac{f(b) - 
   * Try to clear the fraction by making a common denominator and/or making the whole thing equal 0.
   * $$5x^{-2}+x^{-3}=0 \;\;\to \;\;\frac{5}{x^2}(\frac{x}{x}) + \frac{1}{x^3} = 0 \;\;\to\;\; \frac{5x+1}{x^3}=0$$
 
-## Last Chapters?
+## Exponential Growth
 
 * #Difference-Quotient is the formula to calculate the #Average-Rate-Of-Change of $$f(x)$$ over the period $$h$$. $$\frac{f(x+h)-f(x)}{h}$$
-* #Exponential-Growth is the formula of growth when the variable $$x$$ is in the exponent. $$f(x)=Ca^x$$ where $$C$$ is the initial value of $$x$$, $$a$$ is the growth factor, and $$x$$ is the number of time periods that have passed.
+* #Exponential-Growth is the formula of growth when the variable $$x$$ is in the exponent. $$f(x)=Ca^x$$ where $$C$$ is the initial value of $$x$$, $$a>1$$ is the growth factor, and $$x$$ is the number of time periods that have passed.
+* #Exponential-Decay is the same formula and values as #Exponential-Growth except $$a<1$$ so instead of growing it decays.
+* #Calculating-Exponential-Growth-Decay for $$f(x)=Ca^x$$, $$C$$ is the initial value or $$f(0)$$, $$a$$ is calculated with either #Growth-Rate or $$a=1+r$$ with $$r=\frac{2nd-1st}{1st}$$
+* #Growth-Rate is the percent growth between time $$n$$ and time $$n+1$$. Where $$g$$ is the first value and $$h$$ is the second value $$\frac{h-g}{g}$$
