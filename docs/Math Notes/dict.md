@@ -112,4 +112,6 @@ $$\large\newline\frac{\text{net change in y}}{\text{change in x}}= \frac{f(b) - 
 * #Exponential-Growth is the formula of growth when the variable $$x$$ is in the exponent. $$f(x)=Ca^x$$ where $$C$$ is the initial value of $$x$$, $$a>1$$ is the growth factor, and $$x$$ is the number of time periods that have passed.
 * #Exponential-Decay is the same formula and values as #Exponential-Growth except $$a<1$$ so instead of growing it decays.
 * #Calculating-Exponential-Growth-Decay for $$f(x)=Ca^x$$, $$C$$ is the initial value or $$f(0)$$, $$a$$ is calculated with either #Growth-Rate or $$a=1+r$$ with $$r=\frac{2nd-1st}{1st}$$
-* #Growth-Rate is the percent growth between time $$n$$ and time $$n+1$$. Where $$g$$ is the first value and $$h$$ is the second value $$\frac{h-g}{g}$$
+* #Growth-Rate is the percent growth between time $$n$$ and time $$n+1$$. Where $$g$$ is the first value and $$h$$ is the second value $$r=\frac{h-g}{g}$$
+* #Growth-Factor is $$a$$ in the #Exponential-Growth formula, represented as $$a=1+r$$ where $$r$$ is the #Growth-Rate. Easier to understand as if the growth rate is 20%, multiplying a number by 20% makes it smaller, you need to add the base 100% to make it 120% to make the function grow rather than shrink.
+* #Solving-Exponential-Graph solve the equation $$f(x)=Ca^x$$ by plugging in the inital value ($$C$$) and a point ($$x,f(x)$$) and solving for $$a$$.
