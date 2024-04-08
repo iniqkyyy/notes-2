@@ -113,3 +113,10 @@ $$\large\newline\frac{\text{net change in y}}{\text{change in x}}= \frac{f(b) - 
 * #Exponential-Decay is the same formula and values as #Exponential-Growth except $$a<1$$ so instead of growing it decays.
 * #Calculating-Exponential-Growth-Decay for $$f(x)=Ca^x$$, $$C$$ is the initial value or $$f(0)$$, $$a$$ is calculated with either #Growth-Rate or $$a=1+r$$ with $$r=\frac{2nd-1st}{1st}$$
 * #Growth-Rate is the percent growth between time $$n$$ and time $$n+1$$. Where $$g$$ is the first value and $$h$$ is the second value $$\frac{h-g}{g}$$
+* #Relate-The-Bases use the base number $$b$$ to refactor exponential equations, eg.
+  * $$b^{n}b^{m}=b^{n+m}$$
+  * $$\frac{b^{n}}{b^{m}}=b^{n-m}=\frac{1}{b^{n-m}}$$
+  * $$(b^n)^m=b^{nm}$$
+  * $$b^{-n}=\frac{1}{b^n}\;\;\&\;\;\frac{1}{b^{-n}}=b^n$$
+  * $$(ab)^n=a^{n}b^{n}\;\;\&\;\;\bigg(\frac{a}{b}\bigg)^{n}=\frac{a^n}{b^n}$$
+  * $$\sqrt[n]{b}=b^{1/n}$$
