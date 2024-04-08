@@ -115,3 +115,10 @@ $$\large\newline\frac{\text{net change in y}}{\text{change in x}}= \frac{f(b) - 
 * #Growth-Rate is the percent growth between time $$n$$ and time $$n+1$$. Where $$g$$ is the first value and $$h$$ is the second value $$r=\frac{h-g}{g}$$
 * #Growth-Factor is $$a$$ in the #Exponential-Growth formula, represented as $$a=1+r$$ where $$r$$ is the #Growth-Rate. Easier to understand as if the growth rate is 20%, multiplying a number by 20% makes it smaller, you need to add the base 100% to make it 120% to make the function grow rather than shrink.
 * #Solving-Exponential-Graph solve the equation $$f(x)=Ca^x$$ by plugging in the inital value ($$C$$) and a point ($$x,f(x)$$) and solving for $$a$$.
+* #Relate-The-Bases use the base number $$b$$ to refactor exponential equations, eg.
+  * $$b^{n}b^{m}=b^{n+m}$$
+  * $$\frac{b^{n}}{b^{m}}=b^{n-m}=\frac{1}{b^{n-m}}$$
+  * $$(b^n)^m=b^{nm}$$
+  * $$b^{-n}=\frac{1}{b^n}\;\;\&\;\;\frac{1}{b^{-n}}=b^n$$
+  * $$(ab)^n=a^{n}b^{n}\;\;\&\;\;\bigg(\frac{a}{b}\bigg)^{n}=\frac{a^n}{b^n}$$
+  * $$\sqrt[n]{b}=b^{1/n}$$
