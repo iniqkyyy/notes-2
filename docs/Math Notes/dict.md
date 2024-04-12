@@ -122,3 +122,9 @@ $$\large\newline\frac{\text{net change in y}}{\text{change in x}}= \frac{f(b) - 
   * $$b^{-n}=\frac{1}{b^n}\;\;\&\;\;\frac{1}{b^{-n}}=b^n$$
   * $$(ab)^n=a^{n}b^{n}\;\;\&\;\;\bigg(\frac{a}{b}\bigg)^{n}=\frac{a^n}{b^n}$$
   * $$\sqrt[n]{b}=b^{1/n}$$
+
+## Function Notation?
+* #Compositional-Functions using a function output within a second function, eg. if $$f(x)=x-2$$ and $$g(x)=x^2$$, then $$g(f(x))=(x^2)-2$$.
+* #Inverse-Function the inverse of a function, solve function for $$x$$ eg. $$f(x)=ax \to f^{-1}(ax)=x$$, where the function and inverse function cancel eachother out eg.$$f(f^{-1}(x))=f^{-1}(f(x))=x$$.
+* #One-To-One every input has a unique output and every output has a unique input, if the #Inverse-Function of a #Function passes the #Horizontal-Line-Test then the function is one-to-one.
+* #Horizontal-Line-Test if *no* horizontal lines drawn through a graph intersect the graph more than once, then the function is #One-To-One.

@@ -27,7 +27,7 @@
 - [[class-28]]
 - [[class-29]]
 - [[class-30]]
-- [[docs/Math Notes/Class Notes/class-31]]
+- [[class-31]]
 - [[docs/Math Notes/Class Notes/class-32]]
 - [[docs/Math Notes/Class Notes/class-33]]
 - [[docs/Math Notes/Class Notes/class-34]]
