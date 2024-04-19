@@ -128,3 +128,9 @@ $$\large\newline\frac{\text{net change in y}}{\text{change in x}}= \frac{f(b) - 
 * #Inverse-Function the inverse of a function, solve function for $$x$$ eg. $$f(x)=ax \to f^{-1}(ax)=x$$, where the function and inverse function cancel eachother out eg.$$f(f^{-1}(x))=f^{-1}(f(x))=x$$.
 * #One-To-One every input has a unique output and every output has a unique input, if the #Inverse-Function of a #Function passes the #Horizontal-Line-Test then the function is one-to-one.
 * #Horizontal-Line-Test if *no* horizontal lines drawn through a graph intersect the graph more than once, then the function is #One-To-One.
+* #Solving-Inverse-Function Check solution of #Inverse-Function by plugging into and evaluating $$f(f^{-1}(x))=x$$.
+
+## Logarithms
+* #Logarithm the logarithm function denoted as $$f(x)=log_n(x)$$ is equal to $$n^y=x$$ and $$x>0$$. It is the #Inverse-Function of an exponential function.
+* #Natural-Exponential-Function the function of $$e^x$$ where $$e$$ is the irrational number. Crosses points $$(0,1)$$ & $$(1,e)$$.
+* #Natural-Logarithm-Function the function of $$log_{e}(x)$$ where $$log_e$$ can be rewritten as $$ln$$. Crosses points $$(1,0)$$ & $$(e,1)$$.
