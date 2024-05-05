@@ -134,4 +134,5 @@ $$\large\newline\frac{\text{net change in y}}{\text{change in x}}= \frac{f(b) - 
 * #Logarithm the logarithm function denoted as $$f(x)=log_n(x)$$ is equal to $$n^y=x$$ and $$x>0$$. It is the #Inverse-Function of an exponential function.
 * #Natural-Exponential-Function the function of $$e^x$$ where $$e$$ is the irrational number. Crosses points $$(0,1)$$ & $$(1,e)$$.
 * #Natural-Logarithm-Function the function of $$log_{e}(x)$$ where $$log_e$$ can be rewritten as $$ln$$. Crosses points $$(1,0)$$ & $$(e,1)$$.
+* #Cat-vs-Cert the function $$Ca^t$$ is more useful for things that grow/decay at the end of a time period. The function $$Ce^{rt}$$ is more useful for things that grow/decay all the time.
 * #Solving-Variable-In-Exponent move everything away from the exponent, then take the log of both sides with the same base, to cancel the base and get the exponent. $$5e^{3x}=92 \; \to \; e^{3x}=\frac{92}{5} \; \to \; 3x=\ln{\frac{92}{5}}$$
