@@ -23,6 +23,6 @@
   - constant velocity would require both constant speed *and* direction
 - #Acceleration
   - is a quantity of motion change expressed as a rate, acceleration is constant and increases velocity linearly
-  - #Delta $$\delta$$ means "a change in"
-  - Acceleration is defined as $$a = \frac{\delta V}{\delta t}$$ where $$V = \text{Velocity and} t = \text{time}$$
+  - #Delta $$\Delta$$ means "a change in"
+  - Acceleration is defined as $$a = \frac{\Delta V}{\Delta t}$$ where $$V = \text{Velocity and} t = \text{time}$$
 - #Free-Fall
