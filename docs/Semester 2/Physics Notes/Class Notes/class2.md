@@ -24,5 +24,11 @@
 - #Acceleration
   - is a quantity of motion change expressed as a rate, acceleration is constant and increases velocity linearly
   - #Delta $$\Delta$$ means "a change in"
-  - Acceleration is defined as $$a = \frac{\Delta V}{\Delta t}$$ where $$V = \text{Velocity and} t = \text{time}$$
+  - Acceleration is defined as $$a = \frac{\Delta V}{\Delta t}$$ where $$V = \text{Velocity and } t = \text{time}$$
+  - Sometimes shown as $$m/s^2$$ but really means $$(m/s)/s$$ or "change in velocity each second"
+  - acceleration is the slope of velocity and time
 - #Free-Fall
+  - an object accelerating *exclusively* under the influence of gravity is in "Free fall" and are called "projectiles"
+  - free falling objects accelerate at ~$$10m/s^2$$ (more like 9.8) and is referred to as $$g$$.
+ - #Distance
+   - distance = $$\frac{1}{2}at^2$$ or $$\frac{1}{2}gt^2$$
