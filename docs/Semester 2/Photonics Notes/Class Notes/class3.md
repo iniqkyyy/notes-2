@@ -20,3 +20,4 @@
 - motion of electrons through a wire 
 - buying energy from northwestern energy is measured in "kilowatt hours"
   - watts are a rate of energy consumption/gain, the transfer rate, measured in Joules per Second
+- 1__c__al is approx 4.18 joules
