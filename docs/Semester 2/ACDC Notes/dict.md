@@ -37,3 +37,5 @@
 |pico|p|$$10^{-12}$$|
 |femto|f|$$10^{-15}$$|
 |atto|a|$$10^{-18}$$|
+
+#Round-To-Even if rounding w/ a 5, round only if it will make the number even
