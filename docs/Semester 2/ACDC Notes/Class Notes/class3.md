@@ -16,6 +16,7 @@
   - smaller slit is "Hot"
   - bottom is ground
 - bonus credit career fair
+  - October 2nd and 3rd
   - anything that says "tech" is a job i can get
   - big important day for career
   - ask for jobs, everything
