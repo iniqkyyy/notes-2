@@ -8,3 +8,5 @@
 - #Free-Fall an object accelerating *exclusively* (no air resistance) under the influence of gravity is in "Free fall" and are called "projectiles"
 - #g free falling objects accelerate at ~$$10m/s^2$$ (more like 9.8) and is referred to as $$g$$.
 - #Distance = $$\frac{1}{2}at^2$$ or $$\frac{1}{2}gt^2$$
+- #Vectors are an arrow describing a physical property, velocity vector has direction (arrow) and speed (length of arrow)
+  - #Result is the length of the hypotenuse of horizontal and vertical components
