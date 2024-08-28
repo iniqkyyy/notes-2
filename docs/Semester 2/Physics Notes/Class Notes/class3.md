@@ -1,4 +1,4 @@
-# Physics Lesson 2
+# Physics Lesson 3
 ## Part 1
 - friend in engineering meetings with elon musk
 - speeding up downwards is the same as slowing down upwards
