@@ -10,4 +10,4 @@
  - 45deg furthest horizontally, see after class for explanation
    - calculate range knowing starting velocity and angle
  - #Complimentary-Angles add up to 90deg and will travel the same distance horizontally, e.g 15deg & 75deg
- - Simulator tool [https://phet.colorado.edu/](here)
+ - Simulator tool [here](https://phet.colorado.edu/)
