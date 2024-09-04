@@ -10,3 +10,6 @@
 - #Distance = $$\frac{1}{2}at^2$$ or $$\frac{1}{2}gt^2$$
 - #Vectors are an arrow describing a physical property, velocity vector has direction (arrow) and speed (length of arrow)
   - #Result is the length of the hypotenuse of horizontal and vertical components
+- Galileo's #Independence-of-Motion
+    - How an object moves or is affected by forces in one direction has no effect
+ on how the object moves in another direction.
