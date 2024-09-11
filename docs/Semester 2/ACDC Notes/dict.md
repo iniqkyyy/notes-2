@@ -39,3 +39,6 @@
 |atto|a|$$10^{-18}$$|
 
 #Round-To-Even if rounding w/ a 5, round only if it will make the number even
+- #Conductors have high current flow, used in wires, large number of free electrons, characterized by 1-3 valence electrons
+- #Semiconductors are characterized by having exactly four valence electrons, Silicon, Boron, etc. can be manipulated to be an insulator or conductor.
+- #Insulators have no free electrons, their valence electrons are bound to the atoms, does not allow electric current to pass through.

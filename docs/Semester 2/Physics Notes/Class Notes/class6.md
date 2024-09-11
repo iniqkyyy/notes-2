@@ -1,0 +1,28 @@
+# Physics Lesson 6
+## Part 1
+- Chapter 4
+- Newton's First Law (last class) states an object will stay where it is unless there is a net force acting upon it $$\neq 0$$
+- Newton's Second Law if there *is* a non-zeo net force on an object, the object will accelerate. $$F\sub{net}=ma$$ where $$m$$ = mass and $$a$$ = acceleration.
+- net force creates acceleration
+- Friction is determined by roughness and how hard they are pressed together.
+- static equilibrium or dynamic equilibrium
+  - static equilibrium is when an object is unmoving
+  - dynamic equilibrium is when all forces are equal and the object is moving at a constant speed
+- engineer students going back to their countries and building their own economy, america is experiencing a "brain drain"
+- Friction always acts opposite to "would-be" motion.
+- Is friction the only reason I cannot push my car sideways across the ground?
+- 2 Types of Friction ($\Mu$ = Roughness Coefficient (bigger = rougher), $$F_{N}$$ = Normal Force)
+  - Kinetic
+    - frictional force when the object is moving $$F_{K}=\Mu_{K}F_{N}$$
+  - Static
+    - object not moving, at rest $$F_{S}=\Mu_{S}F_{N}$$
+    - When a pulling force is equal to friction pulling back, i.e unmoving
+    - sometimes called cold fusion, or cold welding
+- Normal Force is the perpendicular reaction to force applied to an object.
+  - The harder you press on a table and slide your hand, the more friction is  created due to an increase in Normal Force
+- $$\Mu_{S} > \Mu_{K}$$
+- Mass is the quantity of matter in an object, it can also be the measure of the inertia that an object exhibits in response to any effor made to start, stop, or change its state of motion in any way. Measured in kg (kilograms).
+- Weight is the force upon an object due to gravity. Measured in N (Newtons) or Pounds (like PSI).
+- Inertia is the reluctance for an object to move.
+- Acceleration is *inversely* proportional to mass. $$A=\frac{\text{net force}}{\text{mass}}$$
+- 
