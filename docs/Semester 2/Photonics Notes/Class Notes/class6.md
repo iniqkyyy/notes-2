@@ -16,3 +16,5 @@
 - Force an object through a distance and you're giving it Kinetic Energy
 - Work Energy Theorem
 - $$\Delta\text{KE}=W=Fd$$
+- plot work vs velocity, exponential outcome, can you extrapolate 1/2mass without linearizing the data? is it the derivative?
+- 

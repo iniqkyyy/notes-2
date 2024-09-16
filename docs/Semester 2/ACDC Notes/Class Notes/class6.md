@@ -6,7 +6,39 @@
 ## Chapter 2 Begin
 - Atoms
 - Periodic table will be used often
+- electrons# Lesson 6 AC/DC Electronics
+- Chapter 1 done
+- Lab 1 done, write Lab Report due Monday 16th @ Midnight
+- No class on 25th and 30th
+- October 2nd starts career fair
+## Chapter 2 Begin
+- Atoms
+- Periodic table will be used often
 - electrons outside, proton and neutron inside, pro=pos charge + electrons = neg charge
+- periodic number is how many protons your element has
+- electrons orbit in shells, layers like an onion
+- shells have $$2n^2$$ electrons, 1st layer = 2, 2nd layer = 8, 3rd layer = 18
+- outer ring is called the valence shell, manipulate valence shell with low connectivity to atoms
+- #Conductors have high current flow, used in wires, large number of free electrons, characterized by 1-3 valence electrons
+- #Semiconductors are characterized by having exactly four valence electrons, Silicon, Boron, etc. can be manipulated to be an insulator or conductor.
+- #Insulators have no free electrons, their valence electrons are bound to the atoms, does not allow electric current to pass through.
+- atoms are trying to equalize their electrons to either a full shell or empty
+- Charge = Q
+- Equal charge repels, opposite charge attracts
+- Coulomb's Law says that the force between charges is inversely proportional to the radius between electrons.
+- Lightning is a previous connection of electrons from the clouds and ground.
+- #Coulomb a coulomb $$C$$ is the total charge possessed by $$6.25x10^{18}$$ electrons. A single electron has a charge of $$e=1.6x10^{-19}$$. The total charge of someting is $$Q=\text{(# of Electrons)/}(6.25x10^{18}/C)$$1
+- Electric field atoms with arrows pointing away are pushing away, arrows pointing inwards are pulling in.
+- Voltage is the force required to move a charge agaisnt the electric field.
+- EMF = Voltage = Electric Potential
+- #Voltage is the equation $$V=\frac{W}{Q}$$ where $$W$$ = the energy in Joules and $$Q$$ = the charge in Coulombs (C).
+- Voltage is the push or pressure applied to electrons. Like water pressure.
+- All circular batteries have 1.5V
+- Align batteries in Parallel (connect all pos and all neg to same side) will stay at 1.5V.
+- Align batteries in Series (pos to neg ad infinitum) adds/subtracts 1.5V each time.
+- Solar cell, light comes in through safety glass, reflects to stay in the system, then uses heat (light) to vcreate Power
+- 
+ outside, proton and neutron inside, pro=pos charge + electrons = neg charge
 - periodic number is how many protons your element has
 - electrons orbit in shells, layers like an onion
 - shells have $$2n^2$$ electrons, 1st layer = 2, 2nd layer = 8, 3rd layer = 18

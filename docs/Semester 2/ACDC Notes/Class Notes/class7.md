@@ -1,0 +1,11 @@
+# Lesson 7 AC/DC Electronics
+- current is cuolomb
+- electron flow is opposite current
+- resistance is like a squiggly line, longer path to go through
+- conductance is the reciprocal of resistance $$G=1/R$$
+- resistance can limit current, divide voltage, generate heat/light 
+- decode resistor:
+  - first band is first digit
+  - second band is the second digit
+  - third band is multiplier
+  - fourth band is percent tolerance (gold is +- 5% tolerance, silver is +- 10% tolerance)
