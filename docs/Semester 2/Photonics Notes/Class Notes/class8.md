@@ -1,0 +1,40 @@
+# Photonics Lesson 8
+- October 10th, Thursday, professional forum in bozeman
+  - norm hall
+  - discuss what's going on at montana state in various optics, photonics, and quantum research
+  - morning is technical talks by various grad students, physicists, etc.
+  - afternoon is a forum with local industry (maybe 2-4pm)
+  - last year was CACI, hyperspectral imagers
+  - end is a social put on by Montana Photonics and Quantum Alliance (MPAC)
+    - founded by several prominent people in the area, funded by consortiuum of companies in the area
+    - MPAC is raising awareness of the photonics and optics and quantum industry
+  - OPTEC is the name of the forum
+  - mark will register you and msu will pay for the student fee
+- mark's goal:
+  - begin getting involved in the technical community of our region
+  - get professionally involved
+- almost all students are able to do some level of pre-professional, pre-graduation work
+- Company Names and people, explore them
+  - Advr (research and development, fabrication of optical elements, making things) might have someone come and talk from here
+  - Resonon (hyperspectral imagery, more electronics)
+  - Quantum Composers (electronic equipment, laser systems, low weight low formfactor systems, more electronics)
+  - Bridger Photonics (don't sell systems, sell data, methane gas mapping)
+  - Teledyne/Flir (laser crystal fabrication, one of most advanced plants in country, make designators for military, both electronics and fabrication)
+  - Aurora (autonomous driving systems, LIDAR techs, more electronics debugging)
+  - Lumibird (largest laser manufacturer in town, more building laser systems for others)
+- Student led group Optical and Photonics Society
+  - lead by couple grad students in EE
+  - recently had a speaker for salary negotiating
+- Performance Enhancement Advanced Transistor MOS (PeatMOS)
+- More involved with vectors in this class than physics
+- Vectors
+  - Mathematical construct that denotes something about a "quantity" that is "directed" in some way
+  - Vectors include an angle relative to a coordinate system
+  - Speed is a scalar, only describes a quantity
+  - examples of vectors (velocity, momentum, electric field, magnetic field, gravitational field, force)
+  - momentum is $$\vec{P}=mv$$
+  - all vectors include an arrow above them, such as $$\vec{P}$$
+  - you can connect any number of vectors, from nose to tail, and the connecting line will be the resultant always.
+- Net
+  - Physics and engineering uses the term "net" often
+- 

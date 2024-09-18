@@ -1,0 +1,16 @@
+# Physics Lesson 8
+- Everything up to next Wednesday is new and will be on exam 1
+- Mark will always show his solutions 3-ish days after HW is due.
+- Newton's Third Law
+  - forces exist in "pairs"
+  - when a force is exerted, an equal and opposite force will be created
+  - one force is the action force, the other is a reaction force, always exist equal and opposite to eachother acting on **different** object
+  - reaction force is relative to mass of the objects
+  - action and reaction do not cancel eachother because they are separate objects
+- how does a rocket thruster work if there's no atmosphere to push back on the rocket
+- lol i wrote that before you explained that
+- does the atmosphere decrease or increase the fuel efficiency? if the atmosphere is doing the equal and opposite force instead of the fuel then does less fuel need to be burned to force it out? or does the air resistance make it a moot point?
+- acceleration is *inverseley* proportionate to the mass of the object, if equal forces always push against eachother then the mass of the objects is the only thing that is different and one will "win" because of the mass difference
+- Newton's Second Law
+  - how much an object accelerates is determined by its mass, inertia
+- system of objects, red arrow is force, dotted line creates a "system"

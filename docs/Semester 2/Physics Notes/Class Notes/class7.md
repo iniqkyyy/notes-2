@@ -1,4 +1,4 @@
-# Physics Lesson 6
+# Physics Lesson 7
 # Part 1
 - First test is in two weeks
 - passcodes for the week show up on exam
