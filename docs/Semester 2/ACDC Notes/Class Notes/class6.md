@@ -27,7 +27,7 @@
 - Equal charge repels, opposite charge attracts
 - Coulomb's Law says that the force between charges is inversely proportional to the radius between electrons.
 - Lightning is a previous connection of electrons from the clouds and ground.
-- #Coulomb a coulomb $$C$$ is the total charge possessed by $$6.25x10^{18}$$ electrons. A single electron has a charge of $$e=1.6x10^{-19}$$. The total charge of someting is $$Q=\text{(# of Electrons)/}(6.25x10^{18}/C)$$1
+- #Coulomb a coulomb $$C$$ is the total charge possessed by $$6.25x10^{18}$$ electrons. A single electron has a charge of $$e=1.6x10^{-19}$$. The total charge of someting is $$Q=\text{(# of Electrons)/}(6.25x10^{18}/C)$$
 - Electric field atoms with arrows pointing away are pushing away, arrows pointing inwards are pulling in.
 - Voltage is the force required to move a charge agaisnt the electric field.
 - EMF = Voltage = Electric Potential
@@ -36,7 +36,7 @@
 - All circular batteries have 1.5V
 - Align batteries in Parallel (connect all pos and all neg to same side) will stay at 1.5V.
 - Align batteries in Series (pos to neg ad infinitum) adds/subtracts 1.5V each time.
-- Solar cell, light comes in through safety glass, reflects to stay in the system, then uses heat (light) to vcreate Power
+- Solar cell, light comes in through safety glass, reflects to stay in the system, then uses heat (light) to create Power
 - 
  outside, proton and neutron inside, pro=pos charge + electrons = neg charge
 - periodic number is how many protons your element has

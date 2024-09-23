@@ -6,7 +6,7 @@
 - wire resistance is assumed to be 0 for this class
 - $$R=\frac{pl}{A}$$ where p is the resistivity in CM-Ohms/ft, l = length in feet, and A = cross sectional area in circular mils, or CMs.
 - CM = thickness, larger wire has less resistivity, smaller wire has more.
-- resistivity is the value of a specific element, resistance can vary based on length of wire or thickness, resistivity is 
+- #Resistivity is the resistive value of a specific element, whereas resistance depends on length is a total amount.
 - Basic Electric Circuit
   - a voltage sourcee
   - a path
