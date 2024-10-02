@@ -1,0 +1,19 @@
+# Physics Lesson 9
+- Monday is first exam.
+  - Cover everything up to today. Wednesday is review.
+  - review materials on D2L weekly folder
+  - exam has a multiple choice and brief calculations, some free response questions
+- secret words
+  - Diode is an electrical device, only lets movement in one direction.
+  - Capillary is a very small blood vessel.
+- Rotational Motion and Centripetal Acceleration
+  - truck moves forward but the rotational acceleration on the wheel is increasing
+  - the form of a force that results in an object accelerating in a rotational direction is "Torque"
+  - turn around an axis is circular rotation or Motion
+  - tangential/linear speed and rotational/circular speed
+  - Centripetal force
+    - is a force that is fixed towards the center of a rotational path
+    - centripetal force is mass x tangential speed^2 over radius
+- Feeling a force pushed back upon us is necessary for human survival
+- a centripetal force can be used to simulate gravity
+- 

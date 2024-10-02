@@ -4,6 +4,7 @@
 - #Amperage amps are depicted by $$I=\frac{Q}{t}$$ where $$I$$ is Current in Amps, $$Q$$ is Charge in Coulombs, and $$t$$ is Time in Seconds.
 - #Conductance is the reciprocal of Resistance $$G=\frac{1}{R}$$ where $$G$$ is Conductance in Siemens, and $$R$$ is Resistance in Ohms.
 - #Wire-Resistance $$R=\frac{pl}{A}$$ where $$p$$ is the Resistivity in Circular Mill Ohms per Foot, $$l$$ is Length in Feet, and $$A$$ is the cross sectional area in Circular Mills.
+- #Ohms-Law $$I=\frac{V}{R}$$ where $$I = $$ Current, $$V = $$ Voltage, and $$R = $$ Resistance.
 
 
 ### SI (International System of Units)  
