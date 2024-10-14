@@ -1,0 +1,41 @@
+# Photonics Lesson 12
+- electromagnetic waves (light) have energy, they can do work
+- photovoltaic (pv)
+  - shine light on material, electrons are ejected
+- radio waves (light) can push electrons out of a wire (antenna) and we can use that to transfer information
+- trasnfer from an optical medium to an electronic medium
+- light waves (rules of electromagnetism)
+  - whenever a charged particle accelerates (change in velocity), it creates an electromagnetic wave (an EM wave is emitted)
+  - to make a radio wave, take an antenna and send charged particles out in some motion to create an EM wave
+- in an atom, electrons "orbit" a nucleus, but they do *not* emit light waves and do not lose energy
+- Intensity is how power is distributed over an area $$I=\frac{P}{A}$$ where $$P = $$ Power (watts) and $$A = $$ Area (square meters).
+- lasers are a single wavelength of light, columated
+  - high "peak" power, can be engineeered to release a lot of energy in a *very* small time (<1ns)
+- wave and wave attributes
+  - a particle's position in meters will oscillate over time
+  - an entire medium wil move in the same oscillating motion through space
+  - time through one cycle is a period (T)
+  - number of cycles in one second is the frequency (1/T)
+  - distance a wave travels in one period = $$\lambda$$
+  - the velocity is $$V=f\lambda$$ where $$f$$ is the frequency and $$\lambda$$ is the wavelength.
+  - wave is energy and momentum transfer
+  - the end of where a wave disturbance travels is a "barrier" (also interface, something changing from one medium to another)
+    - if a barrier is not fixed, free to move, the disturbance will reflect the disturbance back
+    - fixed barrier = medium connecting to barrier cannot move
+    - if a barrier is fixed, the disturbance will reflect in the opposite manner, flipped along the x axis, inverted
+  - amplitude is the local max/min of a wave relative to 0 in meters
+  - light acts the same, it hits a barrier and its "phase" either reflects or inverts
+  - when two disturbances meet they create a combined pulse and continue in their own directions
+    - disturbances co-exist
+    - when disturbances overlap, it's called "interference"
+    - when overlap occurs and the medium changes by more than either wave's amplitude but less than their sum, these are "regions of *constructive* interference"
+    - when overlap occurs and the waves overlap perfectly (same direction), this is "*perfectly* constructed interference"
+    - when overlap occurs and the medium changes by less than both wave's amplitude but more than 0, these are "regions of *destructive* interference"
+    - when overlap occurs and the peak of one wave and the valley of the other perfectly cancel eachother out, this is "*perfectly* destructed interference"
+  - when two waves overlap this is "superposition" which is another word for "region of interference"
+  - when multiple forces overlap and act on the same point in space, they are superposing on eachother, they are in superpostion
+- "AM" = amplitude modulation, voice is high frequency, being moved by low frequency "carrier waves", superimpose them on top of eachother
+  - modulating the carrier wave with the voice wave allows it to maintain distance while carrying high frequency
+- "FM" = frequency modulation?
+- charged particle creates an electric field around 
+- 

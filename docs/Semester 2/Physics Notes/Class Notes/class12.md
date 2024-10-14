@@ -1,0 +1,22 @@
+# Physics Lesson 12
+- Chapter 7 start
+- this is the most important part of our lives, in Mark's opinion
+- Work and Energy
+  - Energy is the "mover" of substances.
+  - Energy is observed when it is being *transferred* or *transformed*.
+  - Energy is conserved, there's a finite amount and it never changes.
+  - Work is $$W=Fd$$ where $$F = $$ Force in Newtons, $$d = $$ distance in meters.
+  - Work is in units of Joules $$J$$ which are Newton-meters, or $$4.18J=1$$calories.
+  - Energy is the *ability* to do work.
+  - Energy is the stuff needed to do work.
+  - "Net" work is the total work done on an object by all forces that act on it.
+  - "Positive net" work is when an object is sped up from the work. Force and movement in the same direction.
+  - "Negative net" work is when an object is slowed down from the work. Force and movement are not in the same direction.
+- Power
+  - Power is how *fast* work is done, or how fast energy is given away.
+  - Power is $$P=\frac{W}{t}$$ where $$t$$ is time in seconds.
+  - Power is in Joules per second or Watts $$W$$.
+- kgm^2/s^3 = Watts
+- mass * distance squared / seconds cubed
+- in engineering we have a term for 100w lightbulb using 10w to make light and 90w to heat the room, stupid
+- 1 square meter of sun = 1MW
