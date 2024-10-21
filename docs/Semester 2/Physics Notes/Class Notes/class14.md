@@ -1,0 +1,36 @@
+# Physics Lesson 14
+- 2 weeks from now exam
+- finish Work & Energy today
+- then wave/oscillatory motion
+- that's the final topic for the exam
+- then finally will be electrical stuff
+- net Work done on object is the change in kinetic energy $$\frac{1}{2}m(v_f)^2 - \frac{1}{2}m(v_i)^2$$
+- energy transforms without net loss or net gain
+- momentum is a vector, kinetic energy is a scalar and cannot be cancelled
+- potential energy $$PE=mgh$$
+- kinetic energy $$\frac{1}{2}mv^2$$
+- momentum $$M=mv$$
+- (simple) machines
+  - things that will create force multipliers
+  - change the direction of forces
+  - cannot create or destroy energy, cannot multiply work or energy, only forces
+  - $$W_i=W_o$$ so $$F_i*d_i=F_o*d_o$$.
+  - fulcrum of a lever can be configured so large displacement * small force = small displacement * big force
+- car break cylinder small plunger small force big plunger big force
+- hat pad on rotor need change 30-90k miles, move very small amount but force massive
+- why harder push multiple times? what pumping brake do?
+- important : efficiency = useful energy output / total energy output
+- space between sun and earth is not heat until the light transfers its electromagnetic radiation energy
+- solid = bound together atoms, liquid is loosely bound
+- water energy is ultimately created by the sun since water evaporate and fall back down higher up so we can use its potential energy again, gained by the sun
+- more energy from sun hits earth in 1 hour than all energy consumed by mankind in a year
+- batteries store energy in electro-chemical form 
+- mark opinion
+  - nuclear energy is relatively clean, no greenhouse gasses, etc.
+  - byproducts are very small compared to the amount of energy created
+  - opposite attract, likes repel, but in a nucleus the positively charged particles are so close to each other that they begin to attract eachother
+  - split an atom, the nuclear bond breaks and a ton of energy is released since the positively charged protons are pushing away from eachother
+  - kinetic energy from this explosion is then pushed into water and it heats up so much it becomes high pressured super heated steam, spins a turbine
+- geothermal heating is (in mark's opinion) *the* best way to heat your home
+- dig a hole 50ft down and you get some water that's ~52F, put it into a heat pump (steals heat from water), then dump the water back into the ground
+- 
