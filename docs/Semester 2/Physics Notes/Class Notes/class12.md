@@ -5,7 +5,7 @@
   - Energy is the "mover" of substances.
   - Energy is observed when it is being *transferred* or *transformed*.
   - Energy is conserved, there's a finite amount and it never changes.
-  - Work is $$W=Fd$$ where $$F = $$ Force in Newtons, $$d = $$ distance in meters.
+  - Work is $$W=Fd$$ where $$F = $$ Force in Newtons, $$d = $$ displacement in meters.
   - Work is in units of Joules $$J$$ which are Newton-meters, or $$4.18J=1$$calories.
   - Energy is the *ability* to do work.
   - Energy is the stuff needed to do work.
