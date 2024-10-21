@@ -1,0 +1,40 @@
+# Photonics Lesson 14
+- exam on nov 4th instead of nov 6th
+- talk briefly about electrical concepts
+- electric fields are normally represented by newtons/coulomb or volts/meter
+- neutral atom = same # of protons and electrons
+- lithium has 3 protons, so in a neutral state it would have 3 electrons
+  - number of neutrons determines the different isotope
+- protons and electrons are Fundamental Charge Carriers
+  - both carry 1 "fundamental charge" 
+  - which is 1.6E-19 Coulombs
+  - protons (10,000x the size of an electron) carry a positive fundamental charge
+  - electrons carry a negative fundamental charge
+- neutral object = same positive and negative charges, no net charge
+- charged object = more of either + or - charge than the other, has net charge
+- an Ion is an atom that has a net charge on it (pos = cation, neg = anion) e.g strip the electron off a hydrogen atom
+- proton beam therapy, accelerate it with electric fields
+  - proton oblation therapy, focus a beam of protons on a malignant tumor, penetrate skin without depositing energy until it reaches the tumor then dumps all its energy into the tumor, killing it
+- plasma is an ionized gas
+- positively charged particle creates an electric field, like a *fog* around it that communicates with other charged particles
+- neutral particle or atom does not have an electric field
+- arrows in every direction = E-field drawn
+- at a point away from the charge, the E-field will have a strength (N/C)
+- further away from charge, less strength
+- when a particle enters anothers' E-field, it feels a force $$F_p=qE$$ where $$q = $$ the new particle's charge, and $$E = $$ the strength of the field at that point.
+- N/C is a charge normalized force
+- IMPORTANT : The arrows of an E-field dictate the direction a *positively* charged particle would be forced.
+- negatively charged particle creates an E-field that is pointing inwards because it would pull a positively charged particle towards it
+- when a charged particle accelerates it emits an electromagnetic wave
+- an electromagnetic wave is a disturbance in both the E-field and B-field (magnetic field) that has direction and strength
+- magnetic field disturbance is ALWAYS perpendicular to the electric field
+- disturbance in different mediums may change the angle the disturbance is traveling
+- light is a disturbance in an EM-field
+- birefringement effect 
+- IMPORTANT : Polarization describes the directions in which an E-field vector oscillates while propagating through space.
+- linear polarization, circular polarization
+- electric fields have monopoles
+- static magnet, north south pole, magnet has dipoles
+- magnets always create circular magnetic field lines
+- never found a magnetic monopole
+- 
