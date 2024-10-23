@@ -1,0 +1,45 @@
+# Photonics Lesson 15
+- these slides online
+- when a charged particle accelerates as part of an oscillatory motion, it emits ripples, or oscillations, in its electric field, which also produces a magnetic wave (Maxwell)
+- A and B fields (electric, magnetic) are self-perpetuating
+  - a change in one produces a change in the other
+- light is also created by electron transitions (saved for later, light as particle talk)
+- EM waves do NOT require a medium to propagate, they can move through the vacuum of space
+- michelson-morley experiment 1885, biggest first experiment that showed no aether
+- throw ball from truck, person in truck sees 10m/s, person on side of road sees 110m/s
+- invarience of the speed of light, independant from the frame of reference of the observer
+  - length dialation and time dialation are the only solution to the speed of light being constant
+- electromagnetic spectrum
+  - light from sun is a superposition, a stew, of waves of different frequency
+  - long wavelength = low energy, low frequency
+  - short wavelength = high energy, high frequency
+  - frequencies
+  - 10^4-10^6 = raido waves
+  - 10^6-10^12 = micro waves
+  - 1^12-10^15 = visible and infrared
+  - 10^16-10^18 = ultraviolet
+  - 10^18-10^20 = x-ray
+  - 10^20+ = gamma ray
+  - infrared = BELOW red
+  - ultraviolet = ABOVE violet
+  - visible light
+    - low energy side/low frequency side 750nm
+    - high energy side/high frequency side 450nm
+  - lowest energy light waves (radio waves) can be 30000m of wavelength
+  - x rays just make an image of a shadow
+  - gamma rays interacting with certain nuclei, antiparticles can be created
+    - an electron interacting with a gamma ray can transform into a different particle called a positron
+  - energy ability to do work
+  - energy is stored and trasnferred by way of EM radiation
+  - power is the rate of energy transfer, energy/second
+  - intensity, or irradiance, is POWER per AREA
+  - (radiance, irradiance, intensity, small differences to this, but for this class we will be ignoring them)
+  - light manifests as a wave but shows particle behavior
+  - intensity of the light, is proportional to the square of the magnitude of the E-field 
+  - polarization describes the directions in which an E-field vector "points" as a wave propagates.
+  - helical wave, circular polarization
+  - imaging of light at a particular wavelength that has different polarizations
+  - different things that bounce light will change the polarization
+  #### distance amplitude of light is unchanging, but what is it?
+  #### min/max limit of light frequency? anything above or below radio/gamma?
+  - 
