@@ -1,0 +1,13 @@
+# ACDC Electronics Class 16
+- LAB 7 CANCELLED
+- connected to two nodes (sharing nodes) it's a parallel circuit
+- parallel circuits have more than one path for the current to follow.
+- current at voltage source is always equal, a Total
+- resistance total = reciprocal of the sum of the reciprocals of the resistors i.e $$R_T=\frac{1}{\frac{1}{R_1}+\frac{1}{R_2}+\frac{1}{R_3}}=(\frac{1}{R_1}+\frac{1}{R_2}+\frac{1}{R_3})^{-1}$$
+- the total resistance will always be less than or equal to the smallest resistor
+- for TWO resistors only, total resistance can be expressed as $$R_T=\frac{\frac{R1}{R2}}{R1+R2}$$
+- in paralell circuit, the voltage is always equal, the current is what changes
+- ohm's law still works for parellel circuits $$V=IR$$.
+- total current = sum of individual currents
+- Kirchoff's current law KCL
+  - sum of currents entering a node must also be the sum of currents exiting the node
