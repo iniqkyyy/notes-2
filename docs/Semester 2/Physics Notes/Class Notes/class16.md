@@ -1,0 +1,17 @@
+# Physics Lesson 16
+- $$V=f\lambda$$
+  - V is constant in a given medium, so a change in f is proprtionate to an inverse change in $$\lambda$$.
+- more waves
+- two waves interacting with eachother = interference
+  - also known as superposition, one superimposes onto the other
+- all waves through time can be expressed as a summation of sine waves
+  - forier analysis
+- noise cancellation is just injecting the opposite sounds earbud hears and then playing what you're playing on top
+- interference patterns crests and valleys overlapping from two interferences
+- MRI magnetic resonance imagnig
+  - nuclear magnetic resonance
+  - spin magnetic, atoms in body oscillate and create electromagnetic field
+- doppler effect
+  - as police car comes towards you it's high pitched until it passes then it's low pitched
+- bow waves
+  - 

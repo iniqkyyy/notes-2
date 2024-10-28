@@ -1,0 +1,51 @@
+# Photonics Lesson 16
+- the particle wave duality of light
+- energy of wave ~ amplitude squared
+- electron is in "energy well" around a nucleus
+- black body radiators
+  - object that is heated
+  - planck was exploring how light is emitted as a function of wavelength from black body
+  - as frequency went up, intensity (W/m^2) went up, but when the wavelength got too short the intensity would go down
+  - the peak intensity wavelength shifted as the temperature of the object changed
+- ultraviolet catasrophe
+  - classical wave theory suggests the curve should have continued to go up, infinite energy
+  - planck asked if everything connected by little springs oscillating at certain frequencies would emit light
+  - quantized energies, particle only accepts a certain energy or multiples of that energy
+- einstein said what if light is created of a little packet of energy?
+  - what if light isn't a wave?
+  - but rather a "flux" (rainshower) of particles
+  - where the energy of each particle is related to its frequency and not its amplitude
+  - energy of light particle = Kf, energy of beam of light is a multiple of that
+- planck came up with a number to curve fit his data, now called planck's constant
+- robert millikan
+  - **read story of kepler and tycho btw**
+  - shine light on metal of different colors
+  - measure the kinetic energy of the ejected electrons
+    - shine light and catch electrons emitted into a collector metal
+    - voltage source slightly negative, still receiving current measurement until current shuts off
+    - kinetic energy of the electrons should be equal to the potential energy of the "electrostatic" hill
+    - kinetic energy is $$KE=qV$$ where $$q = $$ charge and $$V = $$ voltage.
+    - brightness of light didn't create more ejected electrons
+    - higher frequencies produce more electron ejections
+    - frequency where electrons begin being expressed is called the "cutoff frequency"
+    - flux of light did not change energy of light
+    - you can hit an electron in the photostatic well with as much flux as you want, but you need a light with enough energy
+    - dim light makes low current, bright light makes high current
+    - all the light has to be at a sufficiently high frequency, thereafter the energy of each ejected electron will follow the energy of the well coupled with the kinetic energy of the electron emitted
+    - Millikan's equation : $$E_{\text{photon}}=hf=\Phi + {KE}_{e^-}$
+    - ${KE}=hf-\Phi$$
+    - light exists as the smallest packet of energy
+    - Planck's constant $$h=6.63\text{E-}34[\text{Js}]$, or $4.14\text{E-}15[\text{eVs}]$$
+      - c = speed of light
+      - electronvolt seconds = eVs
+    - energy of photon = hf = hc?/lambda
+    - any frequency of light that isn't enough to lift an electron off of a material either passes through the material or reflects
+- if light is a particle and can transfer its energy, does it have momentum?
+- it does, thank you deBroyley. the momentum of a photon is $$\frac{h}{\lambda}$$
+- light is quantized. it's always a whole number of photons. there's no such thing as a half photon.
+- all of this led to quantum mechanics and quantum physics
+- a lot of people worked on bringing together electromagnetic field theory like maxwell and the theory of quantum mechanics
+  - we can show mathematical equivalence between the photon energy as a particle, and the energy of the wave as it relates to the wavelength squared
+- UV is ionizing radiation, cause damage to cells
+- be cognisant of your UV budget, xray budget
+- 
