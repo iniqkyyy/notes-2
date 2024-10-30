@@ -1,0 +1,42 @@
+# Photonics Lesson 17
+- voltage is "the height of an electrical hill".
+  - $$U$$ is a variable for potential energy
+  - water at top of waterfall has potential energy $$U=mgh$$
+  - the height of a gravitational hill is analogous to voltage in an electrical circuit
+  - charge a metal plate with a lot of positive or negative net charge and you've created a a large electrical hill
+  - the charge of the plate *creates* the voltage
+  - place a positive particle a physical distance away from a negatively charged plate and you have given it electric potential energy
+- electricity isn't scary because of high voltage or high current, it's scary because of the POWER it can exert
+- $$\text{eV}$$ is the electron-Volt, quite literally the energy an electron has at one volt $$U_E={q_e}{V}=1.6\text{E-}19$$
+### Laser Safety
+- find document online
+- required to do this
+- must complete training Laser Safety Course (ID 19819)
+- email e-certificate to Mark
+- lasers are monochromatic, one frequency
+- lasers are usually collimated, narrow radiation spread
+- lasers are coherent, crests and troughs are all overlapping with like waves
+- LASER = Light Amplification by Stimulated Emission of Radiation
+  - radiation meaning similar to Light
+- light is dangerous due to frequency, not brightness
+- direct exposure: direct contact to light with eyeball
+- specular reflection exposure: reflected on flat surface directly into eye
+- diffuse reflection exposure: light diffused
+- Nominal Hazard Zone
+  - region where there is direct, reflected, or scattered light that is above a threshhold of maximum permissibility exposure (MPE)
+  - zone depends on whether or not the beam is direct, diverging, converging, or diffuse.
+- MPE is expressed in terms of the allowable exposure time for a given irradiance (power per area)
+- UV-C, UV-B (100nm-315nm) radiation is preferrentially absorbed into the cornea
+- same goes for IR-B, IR-C (1400nm-1mm)
+- UV-A is (315-400nm) preferrentially absorbed into the lens
+- same goes for selected wavelengths (700-3000nm)
+- IR-A (400nm-1400nm) more effectively transmits through your eye into your retina
+- find graph and save, skin penetration of radiation
+- proton tumor oblation
+- Class 1 and 1M lasers cannot cause damage typically
+- Class 2 usually blink response is fine
+  - Class 2M can be hazardous with enhancement devices
+- Class 3R lasers are typically not harmful but do not look into it
+- Class 4 lasers are capable of causing injury to eye and skin as well as being dangerous even diffusely reflected
+- most laser pointers are around class 2, but green ones are class 3 so dont look at them
+- irradiance = intensity for OUR purposes.

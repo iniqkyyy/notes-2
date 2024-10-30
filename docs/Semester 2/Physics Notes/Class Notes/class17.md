@@ -1,0 +1,16 @@
+# Physics Lesson 17
+- pocketsand
+- navicular
+- egregious
+- sound is a form of energy
+- most sound waves are produced by the vibrations of matter
+- under ordinary conditrions, the frequencies of the vibrating source and sound waves are the same
+- human hearting 20-20000Hz, below = infrasonic and above = ultrasonic
+- sound waves are made of compressions and rarefactions of longitudinal waves
+- sound can travel through any substance
+- speed of sound 330m/s at sea level at 0 deg
+- sound reflects, called an echo, multiple reflections called reverberation
+- sound can also refract, or bend, due to change in the medium that it is traveled through
+- ultrasound uses ultrasonic waves to reflect waves from the inside of our bodies, measuring the time it takes to reflect and map the difference
+- intensity is how power is spread out over an area
+- surface area of sphere scales with radius squared, therefore doubled radius = quadrupled surface area.
