@@ -32,8 +32,8 @@
     - you can hit an electron in the photostatic well with as much flux as you want, but you need a light with enough energy
     - dim light makes low current, bright light makes high current
     - all the light has to be at a sufficiently high frequency, thereafter the energy of each ejected electron will follow the energy of the well coupled with the kinetic energy of the electron emitted
-    - Millikan's equation : $$E_{\text{photon}}=hf=\Phi + {KE}_{e^-}$
-    - ${KE}=hf-\Phi$$
+    - Millikan's equation : $$E_{\text{photon}}=hf=\Phi + {KE}_{e^-}$$
+    - $${KE}=hf-\Phi$$
     - light exists as the smallest packet of energy
     - Planck's constant $$h=6.63\text{E-}34[\text{Js}]$, or $4.14\text{E-}15[\text{eVs}]$$
       - c = speed of light
