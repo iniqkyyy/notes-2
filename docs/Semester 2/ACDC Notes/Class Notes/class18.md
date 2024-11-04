@@ -11,7 +11,7 @@
   - R6 and R7 are in parallel with eachother, $$\text{R}_6\space\vert\vert\space\text{R}_7$$
     - this is in series with R5 so add in series $$\text{R}_5 + \text{R}_6\space\vert\vert\space\text{R}_7$$
   - R2 R3 and R4 are in series, so add $$\text{R}_2+\text{R}_3+\text{R}_4 = \text{R}_{234}$$
-  - $\text{R}_{234}$ is in parallel with $\text{R}_5 + \text{R}_6\space\vert\vert\space\text{R}_7$
+  - $$\text{R}_{234}$ is in parallel with $\text{R}_5 + \text{R}_6\space\vert\vert\space\text{R}_7$$
     - $$(\text{R}_{234})\space\vert\vert\space(\text{R}_5 + \text{R}_6\space\vert\vert\space\text{R}_7)$$
   - add in series with R1 and R8
     - $$\text{R}_T=\text{R}_{18}+(\text{R}_{234}\space\vert\vert\space(\text{R}_5 + (\text{R}_6\space\vert\vert\space\text{R}_7)))$$
