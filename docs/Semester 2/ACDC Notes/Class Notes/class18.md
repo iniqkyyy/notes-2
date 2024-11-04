@@ -5,7 +5,7 @@
 - NEXT MONDAY NO CLASLS VET DAY
 - final assignment due friday december 6th
 ## Series Parallel Circuits
-- combine parallel resistors into one resistor, solve circuit as Series $$R_T=\text{R}_1+(\text{R}2\space||\space \text{R}3)$$
+- combine parallel resistors into one resistor, solve circuit as Series $$R_T=\text{R}_1+(\text{R}2\space\vert\vert\space \text{R}3)$$
 - [for example](https://www.electronics-tutorials.ws/wp-content/uploads/2024/09/combination-series-parallel-circuits.jpg?fit=400%2C282)
   - R1 and R8 as series with everything else, no change needed
   - R6 and R7 are in parallel with eachother, $$\text{R}_6\space\vert\vert\space\text{R}_7$$
