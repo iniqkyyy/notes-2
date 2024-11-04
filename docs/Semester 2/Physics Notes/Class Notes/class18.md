@@ -1,0 +1,14 @@
+# Physics Lesson 18
+- exam has momentum, work energy, waves, oscillatory motion
+- resonance imaging
+- "in phase" means constructive interference
+- "out of phase" means destructive interference
+- forced vibration
+  - heavy machine vibrating floor underneath it
+- resonance 
+  - a phenomenon in which the frequency of forced vibratioons on an object matches the object's natural frequency
+- fundamental resonant condition is $$L=1/2\lambda$$
+- beat frequency is the frequency of the murmur between two sounds (or any wave) that are close to one another
+- beat frequency is $$\vert f_1-f_2\vert$$
+- gallopin gertie
+- 
