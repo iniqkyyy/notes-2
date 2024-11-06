@@ -19,4 +19,29 @@
 - Ammeter connected in PARALLEL.
 - Ohmmeter connected in SERIES.
 ### Series Circuits
-$$\text{R}_T = \sum_{n=1}^{\text{#ofR}}\text{R}_n$$
+- $$\text{R}_T = \sum_{n=1}^{\text{\#ofR}}\text{R}_n$$
+- Voltage drop across Series circuit sums to voltage source. (KVL)
+- Current is constant throughout series, labeled $$\text{I}_T$$
+- Voltage divider (voltage across a single resistor in a series circuit).
+  - $$V_x=V_S\frac{R_x}{R_T}$$
+- Power divider (power across a single resistor in a series circuit).
+  - $$P_x=P_S\frac{R_x}{R_T}$$
+### Parallel Circuits
+- $$\text{R}_T = (\sum_{n=1}^{\text{\#ofR}} \frac{1}{R_n})^{-1}$$
+- Voltage across parallel circuit is constant, labeled $$\text{V}_S$$
+- Current divider (current across single resisistor in parallel circuit).
+  - $$\text{I}_x=\text{I}_T(\frac{\text{R}_T}{\text{R}_x})$$
+### Series Parallel Circuits
+![for example](https://www.electronics-tutorials.ws/wp-content/uploads/2024/09/combination-series-parallel-circuits.jpg?fit=400%2C282)
+  - R1 and R8 are in series with everything else and eachother 
+    - $$\text{R}_1+\text{R}_8=\text{R}_{18}$$
+  - R6 and R7 are in parallel with eachother
+    -  $$\text{R}_6\space\vert\vert\space\text{R}_7$$
+  - this is in series with R5 so add in series 
+    - $$\text{R}_5 + (\text{R}_6\space\vert\vert\space\text{R}_7)$$
+  - R2 R3 and R4 are in series 
+    - $$\text{R}_2+\text{R}_3+\text{R}_4 = \text{R}_{234}$$
+  - this is in parallel with R5/6/7 
+    - $$(\text{R}_{234})\space\vert\vert\space(\text{R}_5 + \text{R}_6\space\vert\vert\space\text{R}_7)$$
+  - add in series with R1 and R8
+    - $$\text{R}_T=\text{R}_{18}+(\text{R}_{234}\space\vert\vert\space(\text{R}_5 + (\text{R}_6\space\vert\vert\space\text{R}_7)))$$
