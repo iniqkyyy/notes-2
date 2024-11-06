@@ -1,0 +1,15 @@
+# ACDC Electronics Class 19
+- Thevenin's Theorem
+  - easy testing single component
+  - $$\text{V}_\text{TH}$$ thevenin voltage is voltage across the two nodes
+  - $$\text{R}_\text{TH}$$ thevenin resistance is resistance of the circuit if the power supply was connected to the two nodes
+  - replace voltage source with wire, place voltage source between nodes
+- Maximum Power Transfer Theorem
+  - to have the most power (Watts) in a series circuit with two resistors R1 and RL, R1 = RL ~ max Watts
+- Superposition Theorem
+  - with multiple voltage sources
+  - leave one voltage source at a time, the rest are replaced (short for voltage source, infinity for current source)
+  - determine the current or voltage that you want to find with that source
+  - swap the sources
+  - to find the actual current, sum your results
+- 
