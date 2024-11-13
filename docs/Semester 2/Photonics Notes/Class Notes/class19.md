@@ -1,0 +1,141 @@
+# Photonics Lesson 19
+- Micron
+- community college manager at micron Kevin Phithak
+- K12 - community college
+- career path to technician role
+- 46yr old, 46k employees global, 17 companies
+- one employee 1250 patents by himself
+- DRAM NAND DHBM CUBE
+- chips act expand boise into fab instead of just R&D
+- only one fab site in US in virginia
+- products
+  - LPDDR5X low power memory in iphone 16
+  - new chip HBM3E
+    - 30% more power efficient than competitiors
+    - sold out first time ever
+    - 24GB capacity
+    - 1.2TB/s mem bandwidth
+- micron partner with NVIDIA
+- micron as green as they can be 
+- DEI initiatives
+  - equitable pay and inclusive benefits
+  - hiring from non-trad pathways
+- micron gives
+  - employees can donate money to causes they care about and micron will match it up to 2k per team member
+  - micron will pay up to 16 hours a year to do charity
+- about 2000 new jobs in boise
+- investing 10billion
+- will be a massive shift of chip mfg into the US
+- investing 100billion into clay new york
+  - megafab
+  - 2.4million sqft
+  - 9000 new micron employees
+  - project over 2 decades
+- timeline
+  - boise jobs open around fall 2025, chips coming out spring 2026
+  - new york 2027 spring jobs, 2028 chips
+- want internships
+  - tech
+  - 12 week program
+  - starting may ends early aug
+  - intern social events
+  - 1 floating holiday
+  - professional development (mentor)
+  - pay for relocation to boise
+  - subsidized housing, 250/month
+  - 200/month for transportation costs
+  - internships 
+    - may 12 - aug 1
+    - may 29 - aug 8
+    - june 2 - aug 22
+    - june 9 - aug 29
+  - deadline apply feb 28 2025
+  - 20 internships in boise, 25 in manassass VA
+  - intern offers by december
+- micron discounts
+  - 60% discount lunch
+  - buying vehicle from GM audi BMW
+  - amusement parks
+  - rental cars
+  - hotels
+  - REALLY good program for relocation
+    - either lump sum cash
+    - pay for closing costs and packing moving to boise and finding location, can break out of lease
+- 400hrs of time off can accrue rolls over yearly
+- 12hr shifts as technician
+- boise site amenities
+  - 2 cafeterias
+  - 2 gyms (cardio and weightlifting)
+  - ping pong and foosball
+  - basketball court
+  - frisbee golf
+  - volleyball court
+  - pickleball court
+- technician shifts
+  - day shifts from 6am-6pm either
+    - A shift SUNDAY MONDAY TUESDAY ALT WED
+    - C Shift THURS FRI SAT ALT WED
+  - night shift avail for equipment tech
+- process and equip technician
+  - process
+    - facilitate product wafer movement through processing areas
+    - maintain quality systems
+    - WIP management
+    - workstation efficiency
+    - special work requests
+      - if there's a process or tool that isn't working they need to run and qualify, problem solve
+    - work in the remote operations center, not in fab
+    - skills
+      - PC skills
+      - data analysis
+      - problem solver
+      - collaboration skills
+  - equipment
+    - wear suits, work in cleanroom fab
+    - do maintinence on tools and equipment
+    - each tool can cost up to 500m
+    - cleanroom 100x cleaner than operating room
+    - 300 air changes/hour
+    - skills
+      - mechanical aptitude, take apart and put together
+      - AC/DC theory
+      - electrical aptitude
+      - troubleshoot
+      - soft skills
+      - basic PC skills
+  - typical day
+    - gather pass down with your lead, then begin to
+    - do what high priorities are needed
+    - give your pass down to the other employee and let them know what's high priority
+  - 28-29$/hr starting
+    - Technician1-T2-T3-T4
+    - Engineer1-E2-E3-E4
+- chip development
+  - chips made on silicon wafer
+  - photolithography
+  - 5000x narrower than human hair
+  - each wafer 1000 processes
+  - over 1 month to make one chip
+  - proble
+    - probe and send/receive dye info
+    - only good dye that pass all tests will continue mfg process
+  - assembly
+    - thinned
+    - diamond saw cut
+    - solid gold wire to connect chip to board
+  - final tests
+    - extreme temp and conditions
+    - meet and exceed performance specification
+  - laser mark with part number
+  - optical scan to strict first
+  - antistatic packaging
+- internship pay 19$/hr but working to increase
+  - this is after 250/mo housing and free relocation and 200/mo transportation
+  - pay up to 10k of tuition assistance a year
+- chip 1700 steps
+- 1 FOUP 25 wafers
+- some tools up to 125 wafers
+- mark photonics relation
+  - using light beam to do lithography
+  - what we learn about electronics and implementation and usage of electronics will apply everywhere
+
