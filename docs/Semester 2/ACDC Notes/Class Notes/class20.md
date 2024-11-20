@@ -1,2 +1,29 @@
 # ACDC Electronics Class 20
-- 
+- chapter 7, the magnetic field
+- every force from a magnet always flows from north to south
+- electric current is the source of magnetism
+- magnetic force is called magnetic flux
+  - unit of flux is weber denoted by $$\phi$$
+    - determined by current, material, etc.
+  - unit of flux density is the weber/sqrmeter = tesla
+    - $$B=\frac{\phi}{A}$$
+  - 1 Tesla = 10,000 Gauss
+- Left hand rule, left thumb in direction of current, curve fingers in the direction of magnetic force
+- Permeability
+  - relative permeability is the ratio between absolute permeability over the permeability in vaccuum
+  - $$\mu_r = \frac{\mu}{\mu_0}$$
+  - $$\mu_0=4\pi\text{E-7}$$
+- reluctance
+  - opposite to magnetic
+  - A-t/Wb ampere-turns per weber
+  - $$\mathcal{R}=\frac{L}{\mu A}$$
+- magnetomotive force
+  - $$F_m=NI$$
+    - N number of turns of wire in coil
+    - I is current
+    - F is literally the force
+- Ohm's Law for magnetic circuits
+  - $$\phi=\frac{F_m}{\mathcal{R}}$$
+  - flux is like current
+  - magnetomotive force is like voltage
+  - reluctance is similar to resistance
