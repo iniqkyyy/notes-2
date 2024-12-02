@@ -18,7 +18,8 @@
   - lithium and cobalt chemical bonds (goodenough) can be recharged
 - light bulb filament is like attaching a straw to a pipe, friction of charged particles creates heat and light
 - resistor *regulates* current flow
-- resistance is inversely proprtional to cross-sectional area $A$, directly proportional to length $\ell$, and dependant on the material $\rho$
+- resistance is inversely proprtional to cross-sectional area $$A$$, directly proportional to length $$\ell$$, and dependant on the material $$\rho$$
   - $$R=\rho\frac{\ell}{A}$$
 - ohms law v=ir
+- alternating current (AC) in US is 60Hz, 120V
 - 
