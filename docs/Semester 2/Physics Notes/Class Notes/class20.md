@@ -1,0 +1,24 @@
+# Physics Lesson 20
+- last week of physics 
+- final next week on Monday (2pm - 3:50pm in same room)
+- week 15 assignment is *suggested* problems but they may be on the final
+- Dasher
+- Dopant
+- Overmorrow
+### Basic Ideas of Applications of Electric Concepts
+- charge flowing is like water flowing from high pressure to low pressure
+- see slides, water pump moving from low pressure to high pressure is analogous to how batteries work
+- metal electrons easily move, hence wires
+- saline in blood makes it conductive due to ions salt
+- batteries are ski lifts for charged particles
+- amps are gallons/minute etc, coulombs per second
+- work is done by pulling negative charges apart from positive ones (chemical electric)
+  - checmical batteries do checmical disintegration of zinc or lead in acid
+  - energy stored in checmical bonds is converted to electric potential energy
+  - lithium and cobalt chemical bonds (goodenough) can be recharged
+- light bulb filament is like attaching a straw to a pipe, friction of charged particles creates heat and light
+- resistor *regulates* current flow
+- resistance is inversely proprtional to cross-sectional area $A$, directly proportional to length $\ell$, and dependant on the material $\rho$
+  - $$R=\rho\frac{\ell}{A}$$
+- ohms law v=ir
+- 

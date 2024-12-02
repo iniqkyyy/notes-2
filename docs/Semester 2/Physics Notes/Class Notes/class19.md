@@ -14,6 +14,6 @@
 - Coulomb's Law
   - electrical force is directly related to the product of the charges, times a fudge factor K (9E9), and inversely related to the square of the distance between them
   - $$F_E=\frac{K\vert{q_1}\vert\vert{q_2}\vert}{d^2}$$
-  - similarly, the force of gravity is similar except the constant G is much smaller than the electrical force constant K (6.67E-11)
+  - similarly, the force of gravity is similar except the constant G (6.67E-11) is much smaller than the electrical force constant K (9E9)
   - $$F_G=\frac{Gm_1m_2}{d^2}$$
 - 
