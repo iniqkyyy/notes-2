@@ -22,4 +22,6 @@
   - $$R=\rho\frac{\ell}{A}$$
 - ohms law v=ir
 - alternating current (AC) in US is 60Hz, 120V
+- electrons are moving randomly due to thermal energy, circuit closed creates a push on *all* the electrons, like a wave disturbance
+  - the electric field propogates at the speed of light, the electrons are *not* moving through the circuit
 - 
