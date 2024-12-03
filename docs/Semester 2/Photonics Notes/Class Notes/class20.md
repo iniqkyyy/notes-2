@@ -1,0 +1,118 @@
+# Photonics Lesson 20
+- ADVR
+- engineered materials
+- electro-magnetics
+  - mix optical fields with RF fields and encode with RF signals
+- optical source, RF signal generator
+  - both electro-magnetic waves
+- almost no loss in fiber optic cable
+- ADVR works in visible light, their niche
+- couple the fields in visible and radio waves
+- ferroelectic, lithium niabate
+- thin layer lithium niabate, regular high capacitance, etc.
+- free space radio waves = free space laser
+- fiber optic cable = telephone cable
+- electro-optic modulator manipulates optical EM waves with RF EM waves
+- voltage over crystal makes the light moving through modulates the phase or intensity
+- intensity modulation = smaller amplitude when at valley of RF wave, higher amplitude when at peak of RF wave
+- phase modulation = higher frequency at peak, lower frequency at valley
+- DWMD CBAND telecom system, 40GHz band spacing WDM
+- applications
+  - fiber optic communication
+  - interferometric, moving reflection of waves in and out of phase
+    - flatness, shine laser down and measure the phase return
+  - spectroscopic measurement
+    - things we detect in the air absorb or reflect very specific wavelengths
+  - wavelength tuning and locking, mode locking lasers
+- turn RF into varying voltage, apply voltage across two gold bars, waveguide changes index of refraction in reaction 
+- effecting the light a very small amount thousands of times compounds into a full phase shift of the light
+- going from single band laser, adding a side band frequency that cancels out but can be extracted at the endpoint
+- mock zender interferometer
+  - take a laser beam, split into two, encode RF signal onto one side using phase modulation
+  - recombine split beams, creating an oscillating constructive or destructive interference in the endpoint (blinking)
+- ADVR makes EOMs that create large phase shifts for low voltage
+- $$\deltaOline=\frac{\pi}{\lambda}n^3r(V(\frac{L}{d})-*)$$
+  - wavelength lambda
+  - numerical index of materials n
+  - electro-optic coefficient r 
+  - applied voltage V 
+  - length of interaction L 
+  - interaction cross section d 
+  - losses * 
+- CAN control L d *
+  - big L
+    - limited by rf and optical waveguide losses, and substrate 
+  - small d 
+    - limited by fab constraints 
+  - minimize *
+    - rf and optical losses both degrade, rf MORE
+- AdvR makes devices that combine RF into optical
+- limit impedance by not creating reflection by keeping resistance similar
+- high speed RF packaging
+  - even slight change in impedance leads to massive shifts in phase shift 
+  - moving from coaxial to coplanar
+- tools used 
+  - soldering station
+    - need pins exactly placed, can break entire device
+  - microelectronic pick and place tool 
+    - vaccuum picks up, warms, solder
+  - hyper sonic wire bonder 
+    - takes gold, welds between the boards in the package
+  - vector network analylzer 
+    - detects frequency of RF wave entering and reflecting
+    - very finnicky
+    - multiple ports allows diagnosing not only problem, but location
+- fiber optic cables
+  - lasers have different connector types, need to have the right connector
+  - fiber, industry standard multi-mode, performance varies widely per application
+    - 30c to 20$ to move from amplification to polarization fiber cables
+  - strain relief boot, limits sharp bending of fiber optic
+  - fiber capillary, polished material to allow extraction of laser from cable 
+  - about 0.3 micron grit
+- waveguide modulator crystal (AdvR's expertise)
+  - as noted above, substrates (KTP, LN, TFLN, MgO:LN)
+  - optical waveguide types
+    - ion exchange
+      - kneeled proton exchange (put H+ in, get L+ out, polarizing)
+      - titanium indiffusion (pattern with LN, cook at 1000C+, titanium oxidizes and embeds into LN which stresses and makes waveguide, non-polarizing)
+    - ridge (diced with mech saw)
+    - ridge (wet-etched, pattern and chemically etched (or ion etched))
+    - combination of above, each benefit or detriment
+  - RF waveguide types  
+    - traveling wave 
+      - try to keep speed of optical wave and rf wave equal down the waveguide
+    - lumped element 
+      - big capacitor, RF goes on, reflects back off, stops working past a few GHz
+- fiber optic packaging 
+  - limit reflection mismatch
+  - angled substrate means light will not reflect back into laser (bad)
+  - fibers are industry standard, known sizes, keep waveguide sizes equal to fiber sizes
+  - optical waveguide fields
+    - electric field has to exist outside the bounds of the waveguide
+    - metal conductor cannot handle this, will create attenuation and ruin the waveguide by effectively shorting it
+  - 5 axis fiber coupling station for fiber capillary, x y z pitch yaw
+  - fiber coupled laser source
+  - coupling optics
+  - optical power meter 
+  - as lambda gets shorter, the defects become more important, tolerance becomes smaller
+- lower frequencies, longer device more efficient
+- higher frequencies, smaller device more efficient
+  - due to traveling wave, by end of longer device the index change is subtracting
+- in a lab can use very short device to flatten Vpi curve for ease of use and less calibration
+- atomic clock 
+  - small diode laser split 
+    - locking system and control loop
+      - amplify pulse modulation 
+      - second harmonic generation, splsitting frequency
+      - enter three tones into rubidium cell (correct frequency)
+      - turns into beat note signal onto photo detector
+      - use RF filters with known frequency to frequency lock laser into VERY specific frequency
+    - send locked laser into frequency comb
+      - bunch of laser lines with different spacing
+      - spacing and jitter
+      - double frequency
+      - take long end of comb, frequency double it to low end
+      - beat detector with original comb to lock signal (stop spacing wiggle, still have jitter)
+      - filter out middle wavelength, lock this with absolute frequency reference to stop jitter
+      - take end frequency and count low frequency with computer and can read clock 
+  - use this to read time change on plane in space to read GPS coordinates and change 10 meter shift to 10 cm shift 
