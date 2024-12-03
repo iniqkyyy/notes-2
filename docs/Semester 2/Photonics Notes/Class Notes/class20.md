@@ -116,3 +116,14 @@
       - filter out middle wavelength, lock this with absolute frequency reference to stop jitter
       - take end frequency and count low frequency with computer and can read clock 
   - use this to read time change on plane in space to read GPS coordinates and change 10 meter shift to 10 cm shift 
+- GET THIS GUY'S NAME NICK (TODD)
+- jobs
+  - bring tech in
+  - learn to polish 
+  - everyone does every step of manufacturing at AdvR 
+  - can go any direction
+  - not in volume manufacturing
+  - heavy detail oriented
+- a lot of parts are one offs, but some are making obsolete or bespoke products nobody makes anymore
+- "can you make this happen?" turns into a job
+- generally government, uni labs, and small startups, some traction in quantum computing
