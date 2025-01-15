@@ -1,6 +1,7 @@
 ## Directories
 - [[docs/Semester 1/dir]]
 - [[docs/Semester 2/dir]]
+- [[docs/Semester 3/dir]]
 ## Important Files
 - [[Math Notes/dict]]
 - [[Writing Notes/dict]]
