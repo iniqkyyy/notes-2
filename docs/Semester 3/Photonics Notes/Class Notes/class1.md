@@ -1,0 +1,27 @@
+# Photonics 101 Lesson 1
+### Overview
+- Barnard 110 lab, about 2/3rd of the time
+- maybe MMF cleanroom tour late semester
+- final presentation late semester on one of the lab topics
+- lecture outlines
+  - week 1-2 modules 1/2/3 EM Waves
+  - week 3 mod 4 absorption & transmission
+  - week 4 mod 5 polarization **heavy focus**
+  - week 5 mod 6 light in nature
+  - week 6-7 mod 7 materials
+  - week 8-13 mod 8 **heavy focus** on lenses
+  - week 14015 mod 9
+- Khan Academy helpful resources
+- get LAB NOTEBOOK
+- each student will be assigned ONE lab topic to completea full technical report
+  - focus is heavy on theory rather than results
+  - professional power point presentatio
+- light moves about 1 foot per nanosecond
+- review D2L stuff to remember everything
+- electrons stimulated to higher energy band around atom then allowed to drop simultaneously and create trillions of photons making a laser
+- #Wavefront the set of points where the wave has the same phase.
+- #Ray is the direction of propagation of a wavefront.
+- far from wave origin, the wavefront looks planar (tangent line of circle)
+- can turn planar wavefronts into a circular wavefront, take multiple parallel beams and converge or diverge them
+- when you have a planar wavefront, the rays are parallel, the light is collimated, and does not diverge
+- laser light is generally very collimated due to the use of an optical cavity

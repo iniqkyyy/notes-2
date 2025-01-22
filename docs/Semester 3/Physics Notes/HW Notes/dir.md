@@ -1,6 +1,0 @@
-# Physics HW Notes Directory
-- 
-
-
-
-

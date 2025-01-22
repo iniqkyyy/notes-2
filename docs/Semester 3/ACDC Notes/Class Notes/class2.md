@@ -1,0 +1,41 @@
+# ETEC 106 Lesson 2
+- starting right of circle, counterclockwise, degrees of circle on graph
+- phasor
+- radian is the angle when the arc is equal to the radius of a circle, there are 2pi radians in one complete revolution (360deg)
+  - 0 = 0, 90 = pi/2, 180 = pi, 270 = 3pi/2, 360 = 2pi
+- $${rad} = \frac{\pi rad}{180}{deg}$$
+- $${deg} = \frac{180}{\pi rad}{rad}$$
+- sine wave can be phase shifted, or "lagged", include plus or minus degree change in v=vsintheta
+- power delivered in phases, overlapped waves
+- DC wave plus AC wave, move AC wave up/down exactly as much as DC wave
+- current is ~ to voltage in AC circuits, when voltage is max then current is max, vice versa
+- you can use ohms law and watt's law on AC circuits, but the voltage and current MUST be rms values.
+- AC generator = alternator
+  - spin wire in magnet to make sine wave (moving towards = positive voltage, moving away = negative voltage)
+  - two magnet pairs (2n 2s) means two waves per revolution
+  - magnet can also be spun with wires surrounding
+- AC is easier to generate and more efficient, so convert to DC afterwards
+- AC motors
+  - induction motor is current induced by the changing current in the stator (moving part) which then creates the magnetic field
+  - synchronous motor has a magnet in the rotor
+- ideal pulse
+  - square wave
+  - not really achievable with a sine wave construction
+  - left edge up leading edge
+  - right edge down trailing edge
+  - left edge down leading
+  - right edge up trailing
+- real (non-ideal) pulse
+  - rise and fall times are measured as the time between 10% and 90% value
+  - pulse width is  measured as the time between 50% going up and 50% going down
+- square waveform
+  - period (matching like points)
+  - pulse width
+  - divide pulse width by period = duty cycle
+  - duty cycle = percentage of time wave is "on" vs "off" throughout period
+  - $$\frac{t_w}{T}*100\%$$
+- fundamental and harmonic waves, lineup at certain points to sum to a clean waveform
+- adding more odd harmonics you lead towards a square wave rather than a sine wave
+- oscilloscopes
+  - display to show ac signal waveform
+- AC power supply = function generator
