@@ -1,0 +1,27 @@
+# Photonics 101 Lesson 2
+- Lab Today
+- no formal lab report
+  - just make notes, write all calculations, etc.
+  - answer all questions from lab booklet in notebook
+- reflection and refraction
+  - page 20
+- Law of Reflection
+  - Incident light on surface will reflect.
+  - angle of incidence is equal to the angle of reflection
+  - angle measured from normal, normal can change over a surface depending on whether it's planar or not
+- interface = point of change from one medium to another
+- Specular reflection
+  - follows angle of incidence
+- Diffuse reflection
+  - caused by "rough" materials
+  - light "scatters" in many different directions
+- index of refraction (n)
+  - $$n=\frac{c}{v}$$
+  - where n = index of refraction, c = 3E8 (speed of light in vaccuum), and v = velocity of light in medium
+  - material with n = 2 would make light move half as fast as a vaccuum
+- #Snells-Law states that given the index of refraction (n) and the angle of incidence (theta), $${n}_{1}sin{\theta}_{1}={n}_{2}sin{\theta}_{2}$$
+  - therefore, if the IoR (n) of material #2 is larger than the n of material #1 the light will bend *towards* the normal, and *away* if n_2 < n_1
+  - "boundary conditions"
+- **would a high n in a see-through material show a time delay to account for the slower speed of light?**
+- #Critical-Angle is the point at which the angle of refraction is equal to 90 degrees. Anything above the critical angle becomes a Total Internal Reflection. This only works when n1 is MORE than n2.
+- 

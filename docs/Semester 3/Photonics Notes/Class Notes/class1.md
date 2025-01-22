@@ -10,7 +10,7 @@
   - week 5 mod 6 light in nature
   - week 6-7 mod 7 materials
   - week 8-13 mod 8 **heavy focus** on lenses
-  - week 14015 mod 9
+  - week 14-15 mod 9
 - Khan Academy helpful resources
 - get LAB NOTEBOOK
 - each student will be assigned ONE lab topic to completea full technical report

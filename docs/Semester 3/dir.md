@@ -1,4 +1,4 @@
-# Semester Two
+# Semester Three
 ## Directories
 - [[Semester 3/Photonics Notes/Class Notes/dir]]
 - [[Semester 3/Photonics Notes/HW Notes/dir]]
