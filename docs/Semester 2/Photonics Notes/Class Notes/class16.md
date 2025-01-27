@@ -35,7 +35,7 @@
     - Millikan's equation : $$E_{\text{photon}}=hf=\Phi + {KE}_{e^-}$$
     - $${KE}=hf-\Phi$$
     - light exists as the smallest packet of energy
-    - Planck's constant $$h=6.63\text{E-}34[\text{Js}]$, or $4.14\text{E-}15[\text{eVs}]$$
+    - Planck's constant $$h=6.63\text{E-}34[\text{Js}]\ \text{or}\ 4.14\text{E-}15[\text{eVs}]$$
       - c = speed of light
       - electronvolt seconds = eVs
     - energy of photon = hf = hc?/lambda
