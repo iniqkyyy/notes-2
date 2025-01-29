@@ -1,0 +1,30 @@
+# Photonics 101 Lesson 4
+- Beer's Law
+  - Concentration still $$I=I_0e^{-\alpha x}$$
+  - alpha is the extinction coefficient
+  - x is the concentration in decimal form
+- Blackbody Radiation
+  - Radiation = EM Emission
+  - The spectrum of light emitted from an object that absorbs all incident light, or as in a heated object.
+  - Objects will radiate across wavelength based on the internal heat energy it possesses
+  - 5000 Kelvin lightbulb means it is emitting the highest intensity around 5000K, not that it is 5000K hot.
+  - observations in the high frequency range gave rise tto our understanding of quantum oscillators and quantized energy
+- original atomic models
+  - plum pudding model
+  - rutherford model
+  - bohr model
+  - schroedinger model
+- electron cloud
+  - we assign probabilities of the electron being at a certain position in the cloud around an atom
+- atom structure
+  - nucleus
+  - multiple *discreet* orbital energy levels
+  - quantum mechancis state there are forbidden reigons where electrons reside, and only allowed energy levels where electrons can reside
+  - when atom is "excited" the electron will be sent to a higher energy level
+  - if electron has exactly enough energy to move an electron from one shell to another, THEN it is absorbed
+  - when the electron moves back to the "least effort" shell then a photon is again created based on the difference between the two energy levels
+  - energy levels define emission and absorption spectra
+  - incident photons with higher energy than any electron shell energy will rip the electron off the atom, ionizing it
+  - incident photons with energies not equal to energy level differences simply transmit
+- Coulombic Force between proton and electron = Gravitational Force
+- 

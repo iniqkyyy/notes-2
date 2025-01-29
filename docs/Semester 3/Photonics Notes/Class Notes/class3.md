@@ -8,7 +8,6 @@
 ## Absorption, Transmission, and Reflection
 - Light, when interacting with a material, will either :
 - Refract (Transmit)
-  - 
 - Reflect
 - Absorb
   - Characterizing materials based on what they asbsorb, called their absorption/spectral fingerprint
@@ -22,6 +21,7 @@
     - $$x = \text{thickness of material, same unit as }\alpha$$
 - energy of light in = energy of light out (reflect + refract + absorb)
   - $$100\% = r(\lambda)+t(\lambda)+\alpha(\lambda)+s(\lambda)$$
+  - reflect, transmit (refract), absorb, and specular reflect (in order above)
 - Emission Line Spectrum
   - more next class
   - all materials have specific wavelengths that are emitted, can graph with spikes in each wavelength it is emitting
