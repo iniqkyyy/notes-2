@@ -6,3 +6,23 @@
   - Capacitance is equal to total charge over volts. $$C = \frac{Q}{V}$$
   - $$W=\frac{1}{2}CV^2$$ where W is the energy, C is the capacitance, and V is volts
   - $$C=8.85\text{E-12}\frac{\epsilon_{r}A}{d}$$ where epsilon is the **relative** dielectric constant, A is the plate area, and d is the distance between the plates.
+  - Mica capacitors are small with high working voltage (can be high voltage before damaging capacitor)
+  - Ceramic capacitors have high dielectric values and high capacitance
+  - Plastic Film capacitors have high capacitance due to larger plate area
+  - ELectrolytic capacitors have very high capacitance but are less precise and have more "leakage" current, also they are polarized.
+  - Variable capacitors have small capacitance that can be adjusted manually
+  - if label has three numbers, read as ABx10^C, if no units are specified it is in picofarads.
+  - In Series
+    - Capacitance total in series is $$C_T=(\sum^{x}_{i=1}\frac{1}{C_i})^{-1}$$
+    - Voltage across capacitor $$V_x=V_S(\frac{C_T}{C_x})$$
+  - In Parallel
+    - Capacitance total in parallel is $$C_T=\sum^{x}_{i=1}C_x$$
+  - Capacitor blocks DC current, when the voltage in the capacitor equals the voltage of the source, all current stops. Only when the voltage source is removed can the negative charged plate equalize with the positive charged plate. Charging is exponential.
+  - Discharge through a resistor is also exponential.
+  - Waveform of the voltage in a resistor is opposite to the waveform of the voltage in the capacitor, current has the same shape as the waveform of the resistor.
+  - Universal time constant, where each time constant is equal to R*C.
+  - ![Universal Time Constant](https://ecstudiosystems.com/discover/textbooks/basic-electronics/wave-shaping/images/utc-chart.jpg)
+- Resistance/Reactance/Impedance
+  - Resistors have resistance but no reactance
+  - Capacitors and Inductors have reactance but no resistance.
+  - All components possess impedance so want to use that in AC circuit

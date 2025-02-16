@@ -1,0 +1,13 @@
+# Photonics 101 Catchup
+- Polarization
+  - Light can be polarized by selective absorption, reflection, double refraction, scattering, and optical activity.
+  - Electric field is a vector, can be thought of as having an x and a y component that defines its angle with respect to the y axis.
+  - $$E_x=E\sin{\theta} \ \text{ and } \  E_y=E\cos{\theta}$$
+  - Light can be linearly polarized, circularly polarized, or randomly polarized (flashlight, sunlight).
+  - Wave equation $$E_y(E_x, t) = A\sin(kx-\omega t + \Phi)$$
+    - A is the amplitude, k is the wave number (2pi/lambda), omega is the angular frequency, and phi is the phase
+  - In circular polarization, if the amplitudes of the x and y waves are not the same, the resultant vector would be an ellipse, elliptical polarization
+  - Polarizers selectively allows the passage of only certain orientations of the plane polarized light
+  - intensity = power over area
+  - Malus Law
+    - $$I=I_0\cos^2(\theta)$$ where theta is the angle change between two polarizers, effecting the intensity of the light transmitted.
