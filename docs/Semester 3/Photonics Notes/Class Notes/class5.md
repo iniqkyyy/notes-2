@@ -21,4 +21,17 @@
 - physically finding brewster's angle, you want "p" polarized light to find where it totally refracts
 - can use a polarizing beam splitter to get the poloarization of light we want to test for brewster's angle
 - beam splitter splits polarization, reflection is parallel, transmitted is perpendicular, when looking top down plane
-- 
+- Rayleigh Scattering
+  - when light hits particles that are smaller than its wavelength, causes blue sky
+  - $$I=I_0\frac{8\pi^4N\alpha^2}{\lambda^4R^2}(1+\cos^2\theta)$$
+  - where N = # of scatterers
+  - alpha = polarizability
+  - R = distance from scatterer
+  - theta = scattering angle
+  - this shows that the longer wavelength light is less scattered nad more transmitted, like red, while shorter wavelengths get reflected much more, like blue (sky)
+- Aurora
+  - oxygen and nitrogen have different wavelengths that are absorbed and emitted
+  - sun spits helium ions and electrons alongside lights
+  - earth magnetic field
+  - when positive particles from sun interact with earth magnetic field, it is repelled and pulled simultaneously in a circular motion towards the poles
+  - eventually after accelerating enough, they crash into the atmosphere, exciting nitrogen and oxygen in the atmosphere, eventually they de-excite and emit photons 
