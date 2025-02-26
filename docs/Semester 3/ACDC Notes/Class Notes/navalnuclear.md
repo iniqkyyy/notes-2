@@ -1,0 +1,12 @@
+# ETEC 106 Naval Nuclear
+- katrina ETEC
+- prime contractor
+- aircrafts and submersibles nuclear power
+- job listings update every 1-2wk
+- search category "Engineering & Science Support"
+- associate is baseline, intermediate next up with experience
+- nnl will supply financial support for higher education
+- internal training in other depts
+- training ship technicians will step foot on submarines
+- can speak to unit technical manager
+- 

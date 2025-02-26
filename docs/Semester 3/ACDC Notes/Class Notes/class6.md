@@ -1,0 +1,20 @@
+# ETEC 106 Lesson 6
+- RC Circuits
+  - V_R = resistor voltage
+  - V_C = capacitor voltage
+  - capacitor has 90 degree phase shift between voltage (leading) and current (reference)
+  - vr is reference, current is relative, vs lags, vc lags further
+  - Voltage Triangle
+    - a = V_R = I*R, b = VC = 
+    - $$\theta = \arctan{\frac{X_C}{R}}$$
+    - Impedance (Z) is total RC resistance
+    - $$Z = \sqrt{R^2+X_C^2}$$
+    - $$Z = 500 \angle 56 \degree \Omega$$
+  - In series RC circuit, Ohm's Law applies but R is replace with Z.
+    - $$V=IZ$$
+  - KVL for RC
+    - $$V_S=\sqrt{V_R^2+V_C^2}$$
+    - $$\theta=\arctan{\frac{V_C}{V_R}}$$
+    - can take impedance values and multiply by current IF current has no phase change
+- low pass filter, increase frequency => decrease V_C (output) therefore you can select frequencies that you want
+- 
