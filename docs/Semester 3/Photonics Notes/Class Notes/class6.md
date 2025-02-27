@@ -1,0 +1,74 @@
+# Photonics 101 Lesson 6
+- Filters
+  - Eliminate some component of light, polarizers act as a filter in one way
+  - Material Response to Radiation (light)
+    - Optical Responses
+      - Transmission
+      - Absorption
+      - Reflection
+    - Non-Optical Responses
+      - Thermal
+      - Chemical
+      - Mechanical
+- Window lets light through at specific ranges of wavelengths
+- Reflectivity depends on 
+  - wavelengths
+  - angle of incidence (AOI)
+  - polarization
+  - material
+  - chemical composition and structure of material
+  - material and surface state
+- Fresnel Equation
+  - t = transmitted, r = reflected, s = perpendicular, p = parallel
+  - $$t_s=\frac{2n_1\cos{\theta_i}}{n_1\cos{\theta_i}+n_2\cos{\theta_t}}$$
+  - $$r_s=\frac{n_1\cos{\theta_i}-n_2\cos{\theta_t}}{n_1\cos{\theta_i}-n_2\cos{\theta_t}}$$
+  - $$t_p=\frac{2n_1\cos{\theta_i}}{n_2\cos{\theta_i}+n_1\cos{\theta_t}}$$
+  - $$r_p=\frac{n_2\cos{\theta_i}-n_1\cos{\theta_t}}{n_2\cos{\theta_i}+n_1\cos{\theta_t}}$$
+- Material Scientists look at materials and look on an atomic level why they interact with light
+- scratch and dig
+  - the quantification of imperfections on a material
+  - scratch is the dimensions of a defect 
+  - dig is the diameter of a defect
+- mechanical or thermal stress can cause damage to an optical component
+- mfg process can leave unwanted particles, bubbles, minute cracks
+  - very bad with high power lasers, can reflect in unexpected direction
+- diverge laser beam onto a piece of paper "magnifying" whatever it traveled through optically
+- Laser Damage Threshold (LDT)
+  - limit at which an optic will be destroyed
+  - fluence = total energy/area
+  - intensity = power/area
+- light dump = dissipate energy of light to avoid damage to detector
+- Optical Filters
+  - material or element that selectively sends some light through, and not others, based on wavelength
+  - the properties of this are the "spectral radiometric" properties
+    - Peak Transmission (highest rate of transmission)
+    - Optical Density
+    - Full width half max (FWHM), wavelength band where transmission is > 50%
+    - Pass band, band at which light is transmitted > 5%
+    - slope rate of transmission (how little wavelength is "wasted" being transmitted that we don't want)
+  - Absorption Filters (Gel Filter)
+  - Reflection Filter (Dichroic Filter)
+  - Neutral Density Filter
+    - ideal: absorbs same amount of light across all wavelengths
+    - used to attenuate light
+    - dependent on the intensity
+  - step filter, allows wavelength to transmite above or below a threshhold
+  - band filter, allows a band of wavelengths to pass through and none else
+  - polarizing filter
+  - Transmittance
+    - $$t_1t_2e^{-\alpha_{\lambda} x}$$
+    - t1 t2 is the filter correction factor
+    - x is filter thickness
+- optical coating
+  - ARC = anti-reflective coating
+  - put one material onto another and turn into an optic that either transmits or reflects extremely well
+- Reflection
+  - $$R = [\frac{n_1-n_2}{n_1+n_2}]^2$$
+- Surface Reflection
+  - infinite reflections inside material losing energy every time, growing slower
+  - $$R_{ror}=1-[\frac{2n_r}{n_r^2+1}]$$
+  - where $$n_r = \frac{n_2}{n_1}$$
+    - where n2 is the refractive index of the window
+    - n1 is the refractive index of the medium surrounding the window
+- metal coatings are very broadband and highly reflective, cheap, not AOI dependant, and not polarization dependant
+  - however, they fail quickly, cannot do multiple layers to enhance reflectivity, and absorb slightly so heating is a problem in high power applications
