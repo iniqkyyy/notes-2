@@ -1,0 +1,51 @@
+# ETEC 106 Lesson 7
+- low pass filter
+  - output from capacitor after resistor, allows low frequency
+- voltage divider for RC circuits
+  - $$V_{OUT}=V_{IN}(\frac{X_C}{\sqrt{R^2+X_C^2}})$$
+- Cutoff frequency
+  - $$f_c=\frac{1}{2\pi RC}$$
+  - 3dB point on a 20log_10 scale
+  - 70.7% of total value is being passed
+  - phase angle is at -45deg
+- high pass filter
+  - output from resistor after capacitor, now it leads instead of lagging
+  - gain is A_V
+    - $$A_V=\frac{V_{OUT}}{V_{IN}}=\frac{R}{\sqrt{R^2+X_C^2}}$$
+  - same cutoff frequency, but reversed
+  - now it is positive 45deg phase angle
+- Parallel RC circuits
+  - instead of double reciprocal equations we just convert immediately
+  - conductance in Siemens
+    - $$G=\frac{1}{R}$$
+  - capacitive susceptance in Siemens
+    - $$B_C=\frac{1}{X_C}=2\pi fC$$
+  - admittance in Siemens
+    - $$Y=\sqrt{G^2+B_C^2}=\frac{1}{Z}$$
+  - current
+    - $$I_T=\sqrt{I_R^2+R_C^2}$$
+    - $$\theta=\arctan(\frac{I_C}{I_R})$$
+    - $$\theta=\arctan(\frac{R}{X_C})$$
+    - this theta is the reciprocal of the theta in series
+  - impedance
+    - $$Z=\frac{1}{\sqrt{(\frac{1}{R})^2+(\frac{1}{X})^2}}$$
+    - instead with conductance, capacitive susceptance, and admittance
+    - $$Y=\sqrt{G^2+B_C^2}$$
+  - ohms law
+    - $$V=\frac{I}{Y}$$
+    - $$I=VY$$
+    - $$Y=\frac{I}{V}$$
+- converting from parallel to series
+- $$R_{EQ}=Z\cos{\theta}\text{ and }X_{EQ}=\sin{\theta}$$
+- power in rc circuits
+  - true power (resistor) is the P=IV WATTS
+  - reactive power (across only capacitor) VOLT-AMPERES-REACTIVE = VAR unit
+    - $$P_R=I_{T}^2X_C$$
+  - apparent power (combined) VA (VOLT-AMPERES)
+    - $$P_a=I_T^2Z$$
+  - take resistance triangle (R XC Z) and multiply it by current for voltage, and again by current (or current squared) for power triangle
+- Power factor
+  - relationship between apparent and true power
+  - $$PF=\cos{theta}$$
+  - we want high power factor, meaning high true power and low apparent power
+

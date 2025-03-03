@@ -5,6 +5,7 @@
 - [[Semester 3/ACDC Notes/Class Notes/class4]]
 - [[Semester 3/ACDC Notes/Class Notes/class5]]
 - [[Semester 3/ACDC Notes/Class Notes/class6]]
+- [[Semester 3/ACDC Notes/Class Notes/class7]]
 - [[Semester 3/ACDC Notes/Class Notes/navalnuclear]]
 - [[Semester 3/ACDC Notes/Class Notes/catchup]]
 - [[Semester 3/ACDC Notes/dict]]
@@ -18,6 +19,7 @@
 [Semester 3/ACDC Notes/Class Notes/class4]: class4.md "ETEC 106 Lesson 4"
 [Semester 3/ACDC Notes/Class Notes/class5]: class5.md "ETEC 106 Lesson 5"
 [Semester 3/ACDC Notes/Class Notes/class6]: class6.md "ETEC 106 Lesson 6"
+[Semester 3/ACDC Notes/Class Notes/class7]: class7.md "ETEC 106 Lesson 7"
 [Semester 3/ACDC Notes/Class Notes/navalnuclear]: navalnuclear.md "ETEC 106 Naval Nuclear"
 [Semester 3/ACDC Notes/Class Notes/catchup]: catchup.md "ETEC 106 Catch Up"
 [Semester 3/ACDC Notes/dict]: ../dict.md "AD/DC Dictionary"
