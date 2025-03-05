@@ -45,3 +45,21 @@
     - $$(\text{R}_{234})\space\vert\vert\space(\text{R}_5 + \text{R}_6\space\vert\vert\space\text{R}_7)$$
   - add in series with R1 and R8
     - $$\text{R}_T=\text{R}_{18}+(\text{R}_{234}\space\vert\vert\space(\text{R}_5 + (\text{R}_6\space\vert\vert\space\text{R}_7)))$$
+### RC Circuits
+- Capacitors (units of Farads) store charge (volts) and release over time, also charge over time.
+  - $$C = \frac{Q}{V}$$
+    - C is capacitance, Q is charge, V is volts.
+  - $$W=\frac{1}{2}CV^2$$
+    - W is energy, C is capacitance, V is volts.
+  - $$C=8.85\text{E-12}\frac{\epsilon_{r}A}{d}$$
+    - C is capacitance, 8.85E-12*epsilon is the dielectric constant, A is the area of the plates, and d is the distance between plates.
+  - $$V_x=V_S(\frac{C_T}{C_x})$$
+    - Voltage divider for capacitors.
+  - Behave **opposite** to resistors, in parallel sum capacitance, in series take reciprocal of sum of reciprocals.
+  - Universal Time Consetant
+    - $$\tau=RC$$
+    - takes 5*RC seconds to fully charge/discharge
+  - Instantaneous Voltage
+    - $$v_c=V_F + (V_i - V_F)e^{\frac{-t}{RC}}$$
+- Reactance
+  - 

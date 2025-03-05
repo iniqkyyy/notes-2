@@ -1,0 +1,47 @@
+# Photonics 101 Lesson 8
+- geometric optics (ray optics)
+  - most integral part of this semester, longest time spent on this
+  - useful in describing geometrical aspects of imaging and magnification
+  - not useful for describing diffraction or interference effects
+- physical optics (wave optics)
+- Gaussian or paraxial (parallel and axis) optics
+- Relationship between collimated light and focal points of spherical lenses/mirrors
+- Ray-tracing techniques to locate the image plane & characteristics
+- Differences between thin and thick lenses
+- Basic properties of lenses
+- Refraction Mirrors
+  - assumptions
+    - Rays propagate in straight-line paths as they travel in a single medium
+    - Rays bend or split into two, at the interface between two dissimilar media
+    - Rays may follow curved paths in a medium where the refractive index changes
+    - Rays may be absorbed or reflected
+- Lenses
+  - a transparent refractive medium, with typically spherically shaped surfaces on the front and back
+  - convex (positive or converging) = focal point
+  - concave (negative or diverging) = spread
+  - Optic Axis or Principal Axis (PA)
+    - an axis normal to the lens surface that passes through the lens center -(-)-
+  - Focal Point
+    - the point where rays incident on a lens and *parallel to the PA* converge
+  - Focal Length
+    - distance between the lens **center** to the focal point
+  - Focal Place
+    - parallel rays will be focused to a point, somewhere on the plane of the focal point but not on the PA
+  - Lens radius of curvature
+  - the radius of the sphere the lens was taken from
+    - for spherical lenses
+      - $$r=2f$$
+      - radius = twice the focal length
+  - diagram like number line
+    - lens at 0
+    - number line is PA
+    - mark focal length positive and negative
+    - mark 2x focal length (lens radius) positive and negative
+  - images are optically reproduced pictures of objects, are where rays converge
+    - virtual image can be formed from concave lens, not real but our brain interprets it as real
+  - Thin lens approximation
+    - when drawing rays through a lens, just draw one bend instead of two and the approximation is practically fine
+  - concave lenses create virtual images, all rays "appear" to have originated from the focal point/plane opposite to the observation
+  - positive (or converging) lens will convert planar or spherical wavefronts to eachother.
+  - "distant" means about 10 focal lengths
+  - 
