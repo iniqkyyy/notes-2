@@ -1,0 +1,24 @@
+# ETEC 106 Lesson 9
+- Inductors in DC Circuits
+  - Remember for a "true" inductor you have a winding resistance
+  - energy
+    - $$W=\frac{1}{2}LI^2$$
+    - L is inductance
+  - Inductor is opposite of con
+  - when switch closes, voltage across resistor slowly builds current
+  - time constant
+    - $$\tau=L/R$$
+    - still 5 time constants to max/min current
+  - instantaneous current
+    - $$i=I_F+(I_i-I_F)e^{\frac{-R\tau}{L}}$$
+  - voltage slowly decreases as inductor charges, when voltage turned off total voltage is negative slowly increases back to zero
+- Inductors in AC circuits
+  - reactance
+    - $$X_L=2 \pi fL$$
+    - XL different from XC!!
+  - in series, add reactance like resistance
+  - in parallel, combine reactance with inveres sum of inverse values
+  - voltage leads current
+  - true power 
+    - $$I_{rms}^2R_W^2$$
+  - quality factor is XL/RW in series, otherwise apparent power/true power

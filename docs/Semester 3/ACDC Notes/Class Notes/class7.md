@@ -31,6 +31,7 @@
     - $$Z=\frac{1}{\sqrt{(\frac{1}{R})^2+(\frac{1}{X})^2}}$$
     - instead with conductance, capacitive susceptance, and admittance
     - $$Y=\sqrt{G^2+B_C^2}$$
+    - $$Z=\frac{X_CR}{\sqrt{X_C^2+R^2}}$$
   - ohms law
     - $$V=\frac{I}{Y}$$
     - $$I=VY$$
