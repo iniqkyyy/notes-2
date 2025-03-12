@@ -1,0 +1,31 @@
+# Photonics 101 Lesson 10
+- thick lens
+  - Zemax software package to predict image formation through thick lens
+- Lensmaker's Equation
+  - lens with different radius of curvature on each side
+  - $$\frac{1}{f}=(\frac{n_g-n}{n})(\frac{1}{r_1}-\frac{1}{r_2})$$
+    - where n is the IoR of surrounding material
+    - n_g is the IoR of the material
+    - r_1 is the radius of curvature of the front face lens
+    - r_2 is the radius of curvature of the rear face of the lens
+    - r_1 and r_2 are positive for convex, and negative for concave, surfaces
+- Multiple Lenses Ray Tracing
+  - take "image" of the first lens as the "object" of the second lens
+- if your eye has an image that converges too early then you are nearsighted
+- if your eye has an image that converges too late then you are nearsighted
+- F Number
+  - size of lens determines how much light is gathered
+  - focal length divided by the diameter of the lens
+  - F-stop
+  - F/#
+  - large f-number is brighter image but lower depth of focus
+  - depth of focus = how deep in a scene an image will stay in focus before becoming blurry
+  - small f-number is dimmer image with large depth of focus
+  - therefore objects in foreground/background simultaneously in focus
+- Numerical Aperture
+  - dimensionless
+  - numerical characterization of the range of angles over which a lens system can accept or emit light
+  - $$NA=n(\sin \theta)$$
+  - where n is the IoR of the imaging medium
+  - $$NA=\sqrt{n_1^2-n_2^2}$$
+  - for coupling into a fiber from air, only depends on IoR for the fiber core and cladding
