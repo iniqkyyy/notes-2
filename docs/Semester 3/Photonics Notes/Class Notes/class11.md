@@ -1,0 +1,66 @@
+# Photonics 101 Lesson 11
+- next wednesday second exam
+- technical lecture discussion next class
+  - oral report and document
+  - presentation
+- refracting telescopes
+  - refracting and reflecting telescopes different
+  - objective lens (first lens that captures light)
+    - size of lens determines light gathering, LG ~ d^2 where LG is gathering capability, d is diameter
+  - afocal system
+    - no focal point
+    - accepts collimated light, transmits collimated light
+    - can expand or reduce the size of the beam
+    - typically created by taking two positive lenses spaced by the sum of their focal length
+  - kepler telescope
+    - focus intra-lens (inbetween lenses) of two converging lenses that creates collimated light
+  - gallilean telescope
+    - no focus, one converging lens into a diverging lens, creating collimated light
+- reflecting telescopes
+  - gregorian
+  - newtonian
+  - cassegrain
+  - light in, hits primary mirror at back of telescope, bounces to secondary mirror, into eyepiece lens halfway through telescope
+- telescopes use massive lenses to collect an immense amount of light compared to our eyes, but shrinks the total light down to a size where our eyes can collect it all
+- light gathering lens/mirror is OBJECTIVE
+- the secondary lens/mirror is the EYEPIECE
+- arizona/rochester biggets optical places
+- magellan telescope in chile
+  - reflecting telescope made in arizona
+  - made of an array of spherical/parabolic mirrors
+  - like 7 of them
+  - around 7 meters in diameter
+  - all of them collect light and reflect onto a tiny mirror in front of the 7, then to eyepiece 
+  - tolerances of curvature to the order of 10s of nanometers on mirrors 7 meters across
+  - use interferometric measurements if mirrors are within tolerance
+  - size required due to truck overpass allowance
+- keplerian telescope
+  - rays through initial lens focus prior to the eyepiece lens
+  - eyepiece lens creates nearly collimated light that produces a virtual image that is massively magnified
+  - image is inverted
+- galilean telescope
+  - rays converge through positive light gathering lens, then diverged by a negative eyepiece lens, same effect
+  - image is upright
+- magnifying power
+  - $$MP=\frac{1}{m}=\frac{F_{obj}}{F_{img}}$$
+  - where F_obj is the objective lens focal length, and F_img is the image lens focal length
+- telescopes as beam expanders
+  - can use principals of a telescope to expand or reduce a beam of collimated light
+  - in such systems, collimated rays enter and exit, therefore the system has no focal length
+- microscopes
+  - function similarly
+  - objective lens with very short focal length
+  - dont need a large lens because we can push extra light onto the object so it can easily be collected
+  - a single lens is difficult to obtain larger than 5x magnification without distorting the image
+  - using multiple leses we can create a compound microscope
+  - after 400x magnification we get limited by diffraction, geometric optics fall apart
+  - i.e when the object is as small as the wavelength of the light, we can no longer treat the light as rays
+- electron microscopes
+  - electron beam shoot at small object
+  - receive backscattered electrons
+  - based on angle and energy, discern physical nature of what they bounce off
+  - create image from these electrons
+  - two types, scanning or
+  - tunnelling, electrons pass THROUGH a material and collected after object
+  - uses quantum tunnelling
+- 
