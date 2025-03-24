@@ -63,4 +63,5 @@
   - two types, scanning or
   - tunnelling, electrons pass THROUGH a material and collected after object
   - uses quantum tunnelling
+- microscope simulator in slides
 - 
