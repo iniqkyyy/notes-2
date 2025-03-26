@@ -1,2 +1,27 @@
 # ETEC 106 Lesson 10
-- 
+- RL series
+  - voltage and current in phase in resistor
+  - VR lags source, VL leads source
+  - angle of
+    - $$\arctan{\frac{X_L}{R}}$$
+  - ohms law still applies, with Z replacing R
+  - increase frequency, increase reactance, increase voltage drop across inductor
+  - L-> R low pass filter, only low frequency
+  - R -> L high pass filter, only high frequency
+- RL Parallel
+  - impedance
+  - $$\frac{R*X_L}{\sqrt{R^2+X_L^2}}$$
+  - current
+    - total current still pythagorean
+  - same reciprocal sub
+    - conductance G = 1/R
+    - susceptance B_L = 1/XL
+    - admittance Y = 1/Z
+- power in RL
+  - apparent = Z
+  - reactive = X
+  - true = R
+  - multiply impedance triangle by current to get voltage, again to get power
+  - power factor is cos of angle
+- cutoff frequency
+  - $$f_c = \frac{R}{2\pi L}$$
