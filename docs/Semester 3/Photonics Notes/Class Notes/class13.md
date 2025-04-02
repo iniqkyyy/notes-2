@@ -1,0 +1,12 @@
+# Photonics 101 Lesson 13
+- Reflecting Telescopes
+  - also has a primary/objective mirror and eyepiece/secondary mirror
+  - mirrors are cheaper than lenses and work in wider spectrums of wavelengths
+  - mirrors also only have to have one side polished, instead of the entire material
+  - lenses also cause chromatic abberation, i.e different colors focus to different points, reflection does not care about wavelength
+- Gregorian
+  - object light enters, reflects off mirror to second mirror, then out the "bottom" of the mirror
+- Newtonian
+  - simple mirror that reflects out the side to avoid costly mirrors
+- Cassegrain
+  - same as gregorian with different shape secondary mirror
