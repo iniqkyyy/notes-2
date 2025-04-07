@@ -1,0 +1,42 @@
+# Photonics 101 Lesson 14
+- presentation
+  - talk about a topic
+  - talk about APPLICATIONS of the topic
+  - talk about why its relevant
+  - talk about current research
+  - talk about experiment(s) relating to this topic
+  - my topic is Polarization Techniques including Waveplates and Brewster plates
+- Physical Optics
+- wave optics, no longer rays, just waves mechanics
+- works well when light interacts with features that are comparable to its wavelength, geometric optics (rays) no longer work at this point
+- wave equation 
+  - $$y(r, t)=y_0\sin(\frac{2\pi}{\lambda}(r-vt))$$
+  - y is amplitude of wave
+  - y0 is max amplitude
+  - r is position in space relative to origin
+  - v is wave velocity
+  - (2pi/lambda)(r-vt) is the phase angle
+- Huygens' Principle and Wavelets
+  - at any point on a wavefront, no matter how planar/irregular they are
+  - you can separate any points on the wavefront and they will behave as individual sources
+- thomas young double slit 1801
+  - took light source, allowed it to pass through an opening then through another two openings side by side
+  - this should allow two COHERENT waves to be produced through both slits
+  - this showed three interference fringes, i.e an interference pattern
+- this interference response resulting from wavefronts incident on obstacles/apertures is known as diffraction
+- PATH LENGTH difference determmines the phase offset at the "screen"
+- PLD
+  - $$\delta l = S_2P - S_1P = S_2Q = d * \sin{\theta}$$
+  - d is the slit spacing
+  - if PLD is a wavelength multiple, constructive
+  - if PLD is a half-wavelength multiple, destructive
+- fringe spacing always equal
+- distant screen, paths from each slit are approximately parallel
+- small angle approximation
+  - $$y=m\lambda D/d$$
+  - $$y_bright=\frac{\lambda D}{d}m$$
+  - this is from the central point to the m'th fringe
+  - $$\theta=\tan^{-1}{\frac{y_1}{D}}$$
+- $$d\sin{\theta}=m\lambda=my(\frac{d}{D})$$
+- can use this to determine spacing of atoms in a material, and to determine the purity of a lattice
+- diffraction only occurs when the feature being interacted with is similar to the wavelength of the light
