@@ -1,0 +1,25 @@
+# ETEC 106 Lesson 11
+- Series RLC circuits
+  - current and resistor in phase
+  - C 90deg offset from I 
+  - L -90deg offset from I
+  - total triangle is just absolute value of XL-XC
+    - $$X_\text{TOT}=\|X_L-X_C\|$$
+  - impedance
+    - $$Z_\text{TOT}=\sqrt{R^2+X_\text{TOT}^2}$$
+  - phase angle
+    - $$\arctan({\frac{X_\text{TOT}}{R}})$$
+  - voltage
+    - $$V_S=\sqrt{V_R^2+(V_C-V_L)^2}$$
+  - series resonance @ XL=XC
+    - at resonance, they completely cancel eachother out and the equivalent circuit is just the resistor
+    - $$f_r=\frac{1}{2\pi \sqrt{LC}}$$
+    - below fr, I leads
+    - at fr, I is in-phase
+    - above fr, I lags
+  - inductor has Q, remember this
+    - $$Q=X_L/R$$
+    - where R is the winding resistance
+  - bandwidth of an RLC band-pass circuit
+    - $$BW=\frac{f_r}{Q}$$
+  - 
