@@ -1,0 +1,27 @@
+# Photonics 101 Lesson 16
+- presentations on the 28th
+- next week clean room
+- diffraction limited optics
+  - unlike geometric point convergeance of light through a lens, light will actually be diffuse and not meet at an infinitesimally small point
+- airy disk
+  - central fringe region of a diffraction pattern
+  - diffraction limited angle is half the total angle of the airy disk
+- diffraction limited optics will always occur when light passes through an aperture
+- diffraction limit depicts the smallest possible size we can make an aperture
+- $$\theta=1.22\frac{\lambda}{D}$$
+- collimated light will by nature diverge
+- at some angular limit, the difference between two objects at that angle will no longer be discernable as individual waves of light
+- rayleigh criterion for resolution
+- the above equation states that when the first minima of the first object overlaps the peak (or center) of the other, this is the point at which discerning the objects is impossible due to diffraction
+- $$\tan \theta = \frac{R}{D}$$
+- this is where R is the peak spacing and D is the DIAMETER of the aperture
+- beam waist is where it is the most collimated, widening on either side
+- twice the rayleigh length is the region where the beam is most collimated
+- minimum spot size of a beam for a given lens diameter
+- $$d=\frac{1.22\lambda f}{D}$$
+  - where d is the spot size produced
+  - for imaging D is the diameter of the objective lens
+  - for lasers D is the size of the input laser beam
+  - f is the focal length of the lens
+- any difference from perfect is an abberation
+
