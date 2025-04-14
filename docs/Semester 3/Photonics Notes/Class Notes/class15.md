@@ -1,0 +1,20 @@
+# Photonics 101 Lesson 15
+- different wavelengths are diffracted differently
+- technical report and presentation on wednesday april 30th
+- draft on 23rd
+- far field diffraction
+  - need collimated light incident (distance Z) onto a diffraction aperture AND a large distance from the aperture to the screen (Z')
+  - generally the Z' distance needs to be above 100pir^2/lambda
+  - convex lens can reduce this distance
+- near field / fresnel diffraction
+  - you will still see diffraction patterns with short distances
+  - you will start to see fine pattern in the diffraction
+- fourier optics
+  - fourier transforms
+  - math technique that allows you to represent a waveform in time that is irregular in a summation of sine waves
+  - can do this in optcal context
+- diffraction will occur in any slit shape, but will change shape based on the feature taht the light passes through
+- a grating will create much more narrow brights/darks, reinforcing the diffraction of the light
+- transmission gratings (diffraction) will disperse light into its individual wavelengths
+- reflection grating
+- 

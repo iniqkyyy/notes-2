@@ -22,7 +22,7 @@
 - thomas young double slit 1801
   - took light source, allowed it to pass through an opening then through another two openings side by side
   - this should allow two COHERENT waves to be produced through both slits
-  - this showed three interference fringes, i.e an interference pattern
+  - this showed three interference fringes, i.e an intevrference pattern
 - this interference response resulting from wavefronts incident on obstacles/apertures is known as diffraction
 - PATH LENGTH difference determmines the phase offset at the "screen"
 - PLD
