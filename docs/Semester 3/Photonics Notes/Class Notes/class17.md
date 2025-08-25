@@ -1,0 +1,11 @@
+# Photonics 101 Lesson 17
+- oops paper due next wednesday
+- on a chip
+  - tungsten pillar coming up to allow wire (contact)
+  - doped silicon (conductive) portions act as wires in the surface
+  - metal-like material above undoped silicon
+  - apply voltage to metal-like material and you have created a capacitor, allowing current flow through chip
+  - this is a MOSFET bit
+  - if wire going to overlap just move up another layer (z-axis)
+- deposit films > pattern features in the films > etch them away > fill them up with new material
+- photoresist chemical makeup changes when exposed to light, making it much more resistant to etching agents
