@@ -1,0 +1,49 @@
+# Solid State Electronics Lesson 1
+- Presentation less than 30min?
+- Plagarize. Everything. Always.
+- 19th last presentation (november) and hope to finish class on 19th
+- 
+## Ch16 Diodes
+- Semiconductors
+- silicon etc has 4 valence electrons, wants 8
+- past the valence band, the conduction band is where electrons become mobile
+- electrons that jump to the conduction band are mobile
+- electrons will fill holes, leaving new holes, repeating.
+- 3 valence electron material added to make a hole, 5 to add an electron
+- Diodes
+- PN-junction, NP-junction
+- p-region is mostly holes, n-region is mostly electrons
+- forward bias
+- when attaching voltage across a diode, you're adding electrons to the n-region "pushing" the electrons across the NP barrier
+- **For a silicon diode, assume it is a 0.7V barrier.**
+- model of diode, resistors on p and n region, with a backward voltage source in the middle
+- when you reach bias voltage, the switch closes
+- reverse bias
+- electrons flowing into the P-region and cannot jump the gap, and now the negative is all on the p-region and the holes are all on the n-region
+- reverse breakdown
+- if you apply a high enough voltage for a long enough period of time the diode's part just start melting and falling apart
+- diode models
+  - ideal model has the current and voltage 90deg apart and no forward bias
+  - practical model is once we hit the forward bias voltage the current is on
+  - complete model includes the forward resistance where you lose some current for the voltage across the diode
+  - VT is the voltage threshhold/barrier
+  - VF is the forward voltage, giving ideal current
+  - little negative current when you reverse it
+  - BV voltage where reverse breakdown occurs
+  - technically a diode has a capacitance effect across the PN-junction
+- Half-wave Rectifier
+  - when an AC source goes through a diode, the diode doesn't work when the voltage is negative so you "recitfy" half the wave and only get an oscillating positive voltage
+  - $$V_{AVG} = \frac{V_{PEAK}}{\pi}$$
+  - $$V_{newpeak} = V_{peak} - 0.7V$$
+- Full-wave rectifier
+  - diodes facing both directions, one on pos and one on neg, only one is ever on
+  - $$V_{AVG}=2\frac{V_{PEAK}}{\pi}$$
+- Bridge Rectifier
+  - four diodes connected to both pos and neg
+  - watch video for more
+  - its output is the same voltage
+- Diode clipping circuits
+  - diode neg to pos with output in parallel
+- need robot parts by mid sept
+- download arduino
+- 
