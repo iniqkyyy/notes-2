@@ -1,0 +1,16 @@
+# Photonics Solid-State Lesson 1
+- Ken PHD Physics teacahing Solid State portion
+- Nate TA running lab
+  - next semester teaching full metro course
+- New lab we're the guinea pigs for wow!
+- one of one in whole state of MT, intended for this program first and foremost
+- 2:15-5:30 nominally
+- anticipate lecture 45-60min to lab time
+- 251 classroom in AJM is vacant on Thursday, but taken on Tuesday
+- push to 3 start tuesday
+- FINAL PLAN TUESDAY START 3 THURSDAY START 2:15 ALL IN AJM & END @ 6
+- e level
+- laser light created
+- build cavity
+- all about actual lasers
+- 
