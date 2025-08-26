@@ -1,0 +1,68 @@
+# Physics Dictionary
+## Measuring Things
+- #Changing-Units
+  - $$\frac{1\text{ min}}{60s}=\frac{60s}{1\text{ min}}=1$$
+  - We can multiply ratios by other ratios that equal 1 to change the units of an answer.
+- #Density
+  - Density is the mass (kg) per volume (m^3)
+  - $$\rho = \frac{m}{V}$$
+## Position, Displacement, and Average Velocity
+- #Position-and-Displacement
+  - A number line has an origin, positive direction, and negative direction.
+  - Position is determined on this axis.
+  - Displacement is a #Vector-Quantity on this axis.
+- #Vector-Quantity
+  - A quantity that has both a direction *and* magnitude, for example 15km east.
+  - $$\vec{v}$$
+- #Average-Velocity
+  - The change in position over time x(t), also the slope of a straight line that connects two points on the graph of x(t) or the position relative to time.
+  - $$v_{avg}=\frac{\Delta x}{\Delta t}=\frac{x_2-x_1}{t_2-t_1}$$
+- #Average-Speed
+  - The average speed includes *total* distance covered instead of the difference between point A and point B.
+  - $$s_{avg}=\frac{\text{total distance}}{\Delta t}$$
+- #Instantaneous-Velocity
+  - "Average velocity/speed" is not helpful in most applications, an instant velocity can be found by making the two points closer and closer until they are practically the same.
+  - $$v=\lim_{\Delta t \to 0}\frac{\Delta x}{\Delta t}=\frac{dx}{dt}$$
+- #Average-Acceleration
+  - The change in velocity over time, or the slope of v(t).
+  - $$a_{avg}=\frac{\Delta v}{\Delta t}$$
+- #Instantaneous-Acceleration
+  - Similarly to #Instantaneous-Velocity, average acceleration is not as helpful, and the acceleration at a point is more important.
+  - $$a=\frac{dv}{dt}=\frac{d^2x}{dt^2}$$
+- #Constant-Acceleration
+  - Most things in nature have constant acceleration like gravity.
+  - When acceleration is constant, velocity is predictable:
+    - $$v=v_0+at$$
+  - When velocity is growing linearly, position can be found as:
+    - $$v_{avg}=\frac{1}{2}(v_0+v)$$
+    - Therefore:
+    - $$x-x_0=v_0t+\frac{1}{2}at^2$$
+  - Time is unknown:
+    - $$v^2=v_0^2+2a(x-x_0)$$
+  - Acceleration is unknown:
+    - $$x-x_0=\frac{1}{2}(v_0+v)t$$
+  - Starting velocity is unknown:
+    - $$x-x_0=v_t-\frac{1}{2}at^2$$
+## Vectors
+- #Scalar
+  - A scalar has magnitude only, no direction.
+- #Vector
+  - A vector is a quantity with magnitude and direction.
+  - Any vector has components in two-dimensional coordinate axes given as:
+    - $$a_x=a\cos\theta \text{  and  } a_y=a\sin\theta$$
+  - A vectors magnitude can be expressed as:
+    - $$a=\sqrt{a_x^2+a_y^2} \text{  and  } \tan\theta=\frac{a_y}{a_x}$$
+- #Unit-Vector
+  - A unit vector is a vector with a magnitude of 1 and points in a direction along a single axis.
+  - Unit vectors in 3d space are labeled as:
+    - $$x+=\hat{i},\hspace{0.2cm}y+=\hat{j},\hspace{0.2cm}z+=\hat{k}$$
+  - Can express a vector as a scalar (coordinate) and unit vectors.
+    - $$\vec{a}=a_x\hat{i}+a_y\hat{j}+a_z\hat{k}$$
+- #Vector-Addition
+  - Vectors can be added geometrically by drawing them head-to-tail and connecting the first tail to the last head with a new vector.
+  - Vectors can also be added by components:
+    - $$\vec{r}=\vec{a}+\vec{b}$$
+    - Therefore (works with others as well):
+    - $$r_x\hat{i}=a_x\hat{i}+b_x\hat{i}$$
+- #Vector-Multiplication
+  - Multiplying a #Vector by a #Scalar, we get a new vector with magnitude 
