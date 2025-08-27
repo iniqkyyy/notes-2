@@ -1,0 +1,42 @@
+# Physics 1 Lesson 2
+- reading assignment still due Friday
+- wiley HW assignments
+- handout #2 optional problem mandatory
+- chapter 2 35 41 50 77
+- chapter 3 q 4 6 p 3 4 15 22 23
+- 3 day grace period from wed to fri is all we get unless severe issues, should be due wednesday
+- moments of inertia, highly suggest handout
+- **use handouts for help!**
+## Class
+- for car up/downhill problem help
+  - car going up and car going down hill at different speeds
+  - what is the average speed of the car
+  - spent far longer going up than going down
+  - going to be lower than the average of the two numbers
+- car traveling down a ramp, when does its instantaneous speed equal its average speed?
+- average v occurs halfway through time, and car spends more time at the top of the track so its before the halfway point
+- $$\Delta x, \vec{V}(t)=\frac{d\vec x}{dt}, \vec{a}(t)=\frac{d\vec{v}}{dt}=\frac{d^2\vec{x}}{t^2}$$
+- derivative of acceleration is jerk, then snap, crackle, and pop (literally)
+- $$v_{init}+\frac{dv}{dt}t=v_{final}$$
+- dv/dt IS acceleration, multiplying by t gives you a velocity gained during time t
+- $$v_{init}+at=v_{final}$$
+- if velocity changes like this, then position changes like:
+- $$\Delta x=v_it+\frac{1}{2}at^2$$
+- with no a
+- $$\Delta x=v_it+\frac{1}{2}(\frac{\Delta v}{t})t$$
+- elimiating time
+- $$v_f^2=v_i^2+2a\Delta x$$
+- eliminating vf
+- $$\Delta x=v_it+\frac{1}{2}at^2$$
+- taking integrals are doing derivatives backwards, just accept the formula and move on for now, learn in Calc 2
+- $$\bar{v}=v_f-v_i$$
+- these equations are the 4 kinematic equations, with one unknown eliminated, but ALL require a constant acceleration
+- 4 equations you can solve for 4 unknowns, but those equations require them to be different equations
+- we only used 2 equations to make the others, so we can only solve for 2 unknowns
+- **this is called One-Dimensional Motion**
+- girl on slope passed two brothers, first one at 2m/s second, after 10 seconds, at 10m/s
+- make a table of:
+  - $$\Delta x=d, \ \ \ v_0=2m/s, \ \ \ v_f=10m/s, \ \ \ a=?, \ \ \ t=10s$$
+  - easy to then find your unknowns using kinematic equations
+- explained Free Fall (check dict)
+- 

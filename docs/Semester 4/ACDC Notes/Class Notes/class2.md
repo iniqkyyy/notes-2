@@ -1,0 +1,23 @@
+# Solid State Electronics Lesson 2
+- half-wave reectifier leading to capacitor
+  - positive through diode and charge capacitor
+  - during negative, the capacitor is discharging
+  - repeat fast
+- arrow coming off diode = LED
+- special purpose diodes
+- zener
+  - angled line in front of triangle
+  - made to work during breakdown
+  - usually operate at 0.7v
+- varactor
+  - capacitor on the end of triangle
+  - varying diode
+  - change capacitance of diode material to change reverse voltage
+- led
+  - sometimes circle but always arrows coming out
+  - instead of pushing electron flow through wire, it pushes them out as light
+- photo
+  - gamma above diode, or arrows coming in
+  - like the light detector
+  - collects light energy
+- 
