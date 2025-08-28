@@ -88,3 +88,20 @@
   - $$\Delta\vec{r}=(x_2-x_1)\hat{i}+(y_2-y_1)\hat{j}+(z_2-z_1)\hat{k}$$
   - or
   - $$\Delta\vec{r}=\Delta x\hat{i}+\Delta y\hat{j}+\Delta z\hat{k}$$
+## Projectiles
+- #Projectile
+  - A projectile is a particle moving in a vertical plane with some initial velocity *always* under the effects of *only* free-fall acceleration g, which is downward. It is "projected" therefore "projectile".
+  - Given a launch angle, find horizontal and vertical components
+    - $$v_{0x}=v_0\cos{\theta_0} \ \ \  and \ \ \ v_{0y}=v_0\sin{\theta_0}$$
+- #Equations-of-Motion
+  - Given a projectile (only g effecting it)
+  - $$\Delta{x}=(v_0\cos{\theta_0})t$$
+  - $$\Delta{y}=(v_0\sin{\theta_0})t-\frac{1}{2}gt^2$$
+  - $$v_y=v_0\sin{\theta_0}-gt$$
+  - $$v_y^2=(v_0\sin{\theta_0})^2-2g(\Delta{y})$$
+- #Projectile-Trajectory
+  - Given starting x and y positions are 0.
+  - $$y=(\tan{\theta_0})x-\frac{gx^2}{2(v_0\cos{\theta_0})^2}$$
+- #Projectile-Horizontal-Range
+  - Horizontal distance from launch point at which the particle returns to the launch height.
+  - $$R=\frac{v_0^2}{g}\sin{2\theta_0}$$
