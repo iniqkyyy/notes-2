@@ -12,4 +12,8 @@
 - Pre-lab is LONG for next week, have to go through the whole Uncertainty section
   - either 220 or 137 AJM for lab
 ## Class
-
+- clicker question
+  - red ball thrown up at 30m/s off cliff, blue ball 30m/s down
+  - land at the same time?
+  - yes, the red ball thrown up will return to the starting position with equal velocity downwards rather than up
+  - 

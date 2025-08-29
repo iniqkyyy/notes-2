@@ -46,12 +46,15 @@
 - #Constant-Acceleration-Formulas
   - Formulas to solve for a given unknown **ASSUMING CONSTANT ACCELERATION**
 
+
 | Formula 	| DeltaX 	| a 	| vf 	| vi 	| t 	|
 |---	|---	|---	|---	|---	|---	|
 | $v=v_i+at$ 	|  	| y 	| y 	| y 	| y 	|
 | $\Delta x=\bar{v}t=\frac{1}{2}(v_i+v_f)t$ 	| y 	|  	| y 	| y 	| y 	|
 | $\Delta x=v_it+\frac{1}{2}at^2$ 	| y 	| y 	|  	| y 	| y 	|
 | $v^2=v_i^2+2a(\Delta x)$ 	| y 	| y 	| y 	| y 	|  	|
+
+
 ## Vectors
 - #Scalar
   - A scalar has magnitude only, no direction.
