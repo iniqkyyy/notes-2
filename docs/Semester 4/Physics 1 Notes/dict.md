@@ -105,3 +105,20 @@
 - #Projectile-Horizontal-Range
   - Horizontal distance from launch point at which the particle returns to the launch height.
   - $$R=\frac{v_0^2}{g}\sin{2\theta_0}$$
+- #Constant-Acceleration-Formulas
+$$\begin{table}[!ht]
+    \centering
+    \begin{tabular}{|l|l|l|l|l|l|l|l|l|l|}
+    \hline
+        a & b & ~ & ~ & ~ & ~ & ~ & ~ & ~ & ~ \\ \hline
+        a2 & b2 & ~ & ~ & ~ & ~ & ~ & ~ & ~ & ~ \\ \hline
+        ~ & ~ & ~ & ~ & ~ & ~ & ~ & ~ & ~ & ~ \\ \hline
+        ~ & ~ & ~ & ~ & ~ & ~ & ~ & ~ & ~ & ~ \\ \hline
+        ~ & ~ & ~ & ~ & ~ & ~ & ~ & ~ & ~ & ~ \\ \hline
+        ~ & ~ & ~ & ~ & ~ & ~ & ~ & ~ & ~ & ~ \\ \hline
+        ~ & ~ & ~ & ~ & ~ & ~ & ~ & ~ & ~ & ~ \\ \hline
+        ~ & ~ & ~ & ~ & ~ & ~ & ~ & ~ & ~ & ~ \\ \hline
+        ~ & ~ & ~ & ~ & ~ & ~ & ~ & ~ & ~ & ~ \\ \hline
+        ~ & ~ & ~ & ~ & ~ & ~ & ~ & ~ & ~ & ~ \\ \hline
+    \end{tabular}
+\end{table}$$
