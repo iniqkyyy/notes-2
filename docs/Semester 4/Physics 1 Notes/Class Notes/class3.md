@@ -5,4 +5,4 @@
   - make robots/arduinos
   - NASA internships
   - conferences 
-  - meeting today @ barnard atrium second floor w/ pizza and games 
+  - meeting today @ barnard atrium second floor w/ pizza and games 5:10pm
