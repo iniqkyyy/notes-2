@@ -43,6 +43,15 @@
     - $$x-x_0=\frac{1}{2}(v_0+v)t$$
   - Starting velocity is unknown:
     - $$x-x_0=v_t-\frac{1}{2}at^2$$
+- #Constant-Acceleration-Formulas
+  - Formulas to solve for a given unknown **ASSUMING CONSTANT ACCELERATION**
+
+| Formula 	| DeltaX 	| a 	| vf 	| vi 	| t 	|
+|---	|---	|---	|---	|---	|---	|
+| $v=v_i+at$ 	|  	| y 	| y 	| y 	| y 	|
+| $\Delta x=\bar{v}t=\frac{1}{2}(v_i+v_f)t$ 	| y 	|  	| y 	| y 	| y 	|
+| $\Delta x=v_it+\frac{1}{2}at^2$ 	| y 	| y 	|  	| y 	| y 	|
+| $v^2=v_i^2+2a(\Delta x)$ 	| y 	| y 	| y 	| y 	|  	|
 ## Vectors
 - #Scalar
   - A scalar has magnitude only, no direction.
@@ -105,20 +114,3 @@
 - #Projectile-Horizontal-Range
   - Horizontal distance from launch point at which the particle returns to the launch height.
   - $$R=\frac{v_0^2}{g}\sin{2\theta_0}$$
-- #Constant-Acceleration-Formulas
-$$\begin{table}[!ht]
-    \centering
-    \begin{tabular}{|l|l|l|l|l|l|l|l|l|l|}
-    \hline
-        a & b & ~ & ~ & ~ & ~ & ~ & ~ & ~ & ~ \\ \hline
-        a2 & b2 & ~ & ~ & ~ & ~ & ~ & ~ & ~ & ~ \\ \hline
-        ~ & ~ & ~ & ~ & ~ & ~ & ~ & ~ & ~ & ~ \\ \hline
-        ~ & ~ & ~ & ~ & ~ & ~ & ~ & ~ & ~ & ~ \\ \hline
-        ~ & ~ & ~ & ~ & ~ & ~ & ~ & ~ & ~ & ~ \\ \hline
-        ~ & ~ & ~ & ~ & ~ & ~ & ~ & ~ & ~ & ~ \\ \hline
-        ~ & ~ & ~ & ~ & ~ & ~ & ~ & ~ & ~ & ~ \\ \hline
-        ~ & ~ & ~ & ~ & ~ & ~ & ~ & ~ & ~ & ~ \\ \hline
-        ~ & ~ & ~ & ~ & ~ & ~ & ~ & ~ & ~ & ~ \\ \hline
-        ~ & ~ & ~ & ~ & ~ & ~ & ~ & ~ & ~ & ~ \\ \hline
-    \end{tabular}
-\end{table}$$
