@@ -2,6 +2,7 @@
 - [[docs/Semester 1/dir]]
 - [[docs/Semester 2/dir]]
 - [[docs/Semester 3/dir]]
+- [[docs/Semester 4/dir]]
 ## Important Files
 - [[Math Notes/dict]]
 - [[Writing Notes/dict]]
@@ -18,6 +19,7 @@
 [docs/Semester 1/dir]: <docs/Semester 1/dir.md> "Semester One"
 [docs/Semester 2/dir]: <docs/Semester 2/dir.md> "Semester Two"
 [docs/Semester 3/dir]: <docs/Semester 3/dir.md> "Semester Three"
+[docs/Semester 4/dir]: <docs/Semester 4/dir.md> "Semester Four"
 [Math Notes/dict]: <docs/Semester 1/Math Notes/dict.md> "Math Dictionary"
 [Writing Notes/dict]: <docs/Semester 1/Writing Notes/dict.md> "Writing Buzzword Dictionary"
 [Math Notes/class-overview]: <docs/Semester 1/Math Notes/class-overview.md> "Math Class Overview"

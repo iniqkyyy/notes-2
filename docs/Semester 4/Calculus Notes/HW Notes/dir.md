@@ -1,4 +1,4 @@
-# AD/DC HW Notes Directory
+# Calculus 1 HW Notes Directory
 - 
 
 

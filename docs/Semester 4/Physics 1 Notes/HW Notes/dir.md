@@ -1,4 +1,4 @@
-# AD/DC HW Notes Directory
+# Physics 1 HW Notes Directory
 - 
 
 
