@@ -1,0 +1,11 @@
+# Calculus 1 Lesson 4
+- $$P'(2)=\lim_{h\to0}\frac{P(2+h)-P(2)}{h}=\lim_{h\to0}\frac{25000e^{0.7(t+h)}-25000e^{0.7(2)}}{h}$$
+- $$=\lim_{h\to0}25000e^{1.4}(\frac{e^{0.7h}-1}{h})$$
+- cannot fix parenthesis
+- #Derivative-Function
+  - Let f be a function and x any value in its domain. We define the derivative of f, a new function called f' by:
+  - $$f'(x)=\lim{h\to0}\frac{f(x+h)-f(x)}{h}$$
+  - providing the limit exists.
+- #Graphing-Derivative
+  - Where f(x) is flat, f'(x)=0.
+  - In each non-zero intervals, figure out the approximate slope of the steepest point and approximate a tangent line's slope. Plot that point and "curvily" connect it to your next-adjacent zero-points.
