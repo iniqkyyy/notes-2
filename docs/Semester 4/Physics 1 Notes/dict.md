@@ -117,3 +117,11 @@
 - #Projectile-Horizontal-Range
   - Horizontal distance from launch point at which the particle returns to the launch height.
   - $$R=\frac{v_0^2}{g}\sin{2\theta_0}$$
+## Uniform Circular Motion
+- #Circular-Motion
+  - If a particle travels along a circle or arc of radius r at constant sped v, it is said to be in uniform circular motion and has acecleration of constant magnitude:
+    - $$|\vec{a}|=\frac{v^2}{r}$$
+  - The direction of which is towards the center of the circle, meaning it is centripetal.
+  - The time it takes to complete a circle, or its period of revolution, is:
+    - $$T=\frac{2\pi r}{v}$$
+## Forces
