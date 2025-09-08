@@ -1,0 +1,13 @@
+# Calculus 1 Lesson 6
+- #Increasing-Decreasing-Function
+  - Given a function f(x) defined on (a,b):
+    - f is *increasing* provided for all y, z in (a,b), if y < z then f(y) < f(z)
+    - f is *decreasing* provided for all y, z in (a,b), if y < z then f(y) > f(z)
+- #Concavity
+  - Let f be a differentiable function on (a,b):
+    - f is concave up (positive) on (a,b) if f' is increasing on (a,b)
+    - f is concave down (negative) on (a,b) if f' is decreasing on (a,b)
+    - f has no concavity (0) on (a,b) if f' is constant on (a,b)
+- #Second-Derivative
+  - $$f''(x)=\lim_{h\to 0}\frac{f'(x+h)-f'(x)}{h}$$
+- 

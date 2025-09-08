@@ -36,3 +36,14 @@
     - $$\bar{V}_{[a-h, a]}=\frac{f(a)-f(a-h)}{h}$$
   - #Central-Difference
     - $$\bar{V}_{[a-h, a+h]}=\frac{f(a+h)0-f(a-h)}{2h}$$
+- #Increasing-Decreasing-Function
+  - Given a function f(x) defined on (a,b):
+    - f is *increasing* provided for all y, z in (a,b), if y < z then f(y) < f(z)
+    - f is *decreasing* provided for all y, z in (a,b), if y < z then f(y) > f(z)
+- #Concavity
+  - Let f be a differentiable function on (a,b):
+    - f is concave up on (a,b) if f' is increasing on (a,b)
+    - f is concave down on (a,b) if f' is decreasing on (a,b)
+    - f has no concavity on (a,b) if f' is constant on (a,b)
+- #Second-Derivative
+  - $$f''(x)=\lim_{h\to 0}\frac{f'(x+h)-f'(x)}{h}$$
