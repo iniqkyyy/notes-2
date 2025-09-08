@@ -125,3 +125,21 @@
   - The time it takes to complete a circle, or its period of revolution, is:
     - $$T=\frac{2\pi r}{v}$$
 ## Forces
+- #Force
+  - is the Push and Pull of an object. A force is a Vector with a magnitude and direction.
+- #Newtons
+  - is the measurement of #Force, about the weight force of a small apple, also known as a kg-m/s^2
+- #Contact-Force
+  - #Pushes
+    - Friction, Normal.
+  - #Pulls
+    - Tension
+- #Non-Contact-Force
+  - The forces exerted by gravity, magnets, and electrostatic.
+- #Freebody-Diagram
+  - Drawing all #Force vectors acting on your object. Summing these gives you a #Net-Force.
+- #Net-Force
+  - The sum of all #Force vectors on an object, resulting in an acceleration if non-zero.
+- #Normal-Force
+  - A #Force directed perpendicular to the plane the object is exerting its force on.
+

@@ -76,4 +76,3 @@
     - $$|\vec{a_{centripetal}}|=\frac{v_{tangential}^2}{r}$$
   - This formula is DIFFICULT to derive, so just try to remember it. It will be extremely important.
   - Somewhat explanation, if you doubled the speed around the track, the acceleration quadruples. If you halved the radius you still get a different delta velocity, specifically doubled.
-
