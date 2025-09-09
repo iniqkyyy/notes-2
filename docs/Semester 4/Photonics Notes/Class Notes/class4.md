@@ -1,0 +1,32 @@
+# Photonics 1 Lesson 4
+- thursday start at 3pm
+- **headwaters tech hub**
+- big research program
+- not exclusively for MSU but mostly (hope Gallatin)
+- 52bil CHIPS act carve-out (multiple billions)
+- establish tech hubs that nominally focused on design instead of research
+- capitalize regions of country that are underdeveloped rather than places like silicon valley or austin texas
+- montana was identified as a tech hub locality on remote-sensing technology enabled by photonic capabilities
+- building and enhancing private sector jobs
+- kickoff thursday/friday for people around the state looking to invest here
+## Class
+- #Natural-Frequency
+  - A system will have a "want" to oscillate at a specific frequency regardless of amplitude, only dependant on the "length of the string".
+- #Resonance
+  - A system that is oscillating at a #Natural-Frequency or a multiple of it.
+- pipe of given length requires an antinode at open side and a node at the closed side to be resonant
+- open-ended pipe of given length requires an antinode at both the open sides
+- two fixed barriers (guitar string) requires node at both ends
+- basically fixed barrier = node, free barrier = antinode
+- for double fixed or double free barriers
+  - $$\lambda=\frac{2L}{m}$$
+  - where L is the length of the material, m is an integer
+- for opposite barriers
+  - $$\lambda=\frac{2L}{m}$$
+  - where L is the length of the material, m is an integer PLUS 0.5
+- Resonant cavity
+  - creating light in a container, confining the light by having it achieve a resonant condition in its container
+  - excitation mechanism makes a medium the light is traveling through "gain" energy
+  - one side is not a perfect mirror and allows a very small percentage of it out (the laser)
+- a single emission of a photon leads to a stimulation of nearby electrons to emit a photon of coherent light
+- 
