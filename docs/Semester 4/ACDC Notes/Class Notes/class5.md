@@ -1,0 +1,26 @@
+# Solid State Electronics Lesson 5
+- TRANSISTORS!!!
+  - Three terminals
+  - Active region acts as amplifier
+  - Saturation is fully on
+  - Cut-off is fully off
+  - Bipolar junction transistors (BJT)
+    - Emitter (E), base(B, gate, middle), and collector(C)
+  - NPN arrow goes towards the emitter, PNP arrow goes towards the gate (always towards the "N")
+  - When a small current flows from the B to the E (voltage drop of around 0.7V) current can flow from C>E
+  - Kinda like two diodes pointing towards the B
+  - Usually labeled Q
+  - BJT Reverse and forward biasing
+    - for NPN
+      - BC is reverse biased
+      - BE is forward biased
+    - for PNP
+      - flipped
+  - BJT Currents
+    - $$I_E=I_C+I_B$$
+    - $$I_C=\alpha_{DC}I_E$$
+      - alpha is similar to gain (or efficiency) from the collector to the emitter, typically around 0.95-0.995
+    - $$I_C=\beta_{DC}I_B$$
+      - beta is amplification gain typically between 20-300
+  - Voltage divider 
+    - $$V_B=\frac{R_2}{R_1+R_2}V_{CC}$$
