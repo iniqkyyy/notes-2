@@ -1,0 +1,35 @@
+# Photonics 1 Lesson 5
+- atomic bands
+- when bonds are made, electron energy levels could change
+- in molecules, both electron energy, vibrational energy, and rotational energy
+- atoms have energy LEVELS, molecules have energy BANDS
+- $$\equiv$$ 
+- means "is defined as"!
+- valence shell
+  - at 0K, the highest energy level that is filled
+- conduction shell
+  - the next higher energy level above the valence shell, i.e the first unfilled level when no rotation or vibrational energy is present
+- band gap
+  - the difference between the energy requirements for the conduction and valence shells
+- energy transfer in an atom
+- radiative (photon)
+- collisional (momentum/kinetic energy)
+- lattice vibrations called phonons (acoustic)
+  - if resonant, elastic collisions
+- direct band-gap and indirect band-gap
+  - at different momentum energies, the valence energy level increases and the conduction energy level decreases
+  - direct means valence max and conduction min are at same momentum
+  - indirect means valence max momentum is different from conduction min momentum
+- blackbody radiation
+  - a true blackbody would have 100% absorptivity and 100% emissivity
+  - we have things around 99% that would be called greybodies
+  - the sun is treated typically as a blackbody
+- incandescent optical sources
+  - just blackbodies
+  - when you heat something up in oxygen, they want to burn
+  - we heat up tungsten in a thin filament so it can emit most of its energy on the outside instead of inside
+  - put it in an inert gas like halogen so it doesn't burn
+  - boom incandescent bulb
+- make something into a plasma and look at what light comes out = know what was in the dirt
+- put electron up in high energy, send a photon that WOULD be absorbed to that energy, and the electron drops and you get two photons out that are coherent
+- 
