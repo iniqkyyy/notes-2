@@ -1,0 +1,11 @@
+# Photonics 1 Lesson 6
+- Shine light on gain medium to excite electrons to a higher energy level.
+- #Injected-Current
+  - Creates a population inversion
+- Laser diode activates at a lasing voltage
+- Critical to account for wavelength fluctuations and lasing voltage based on temperature of the laser diode
+- mirror on each side of gain medium, one highly reflective to lasing wavelength and one partially reflective
+- #Population-Inversion
+  - Metastable state, or long-lived state, slightly lower than pump energy
+- Only get stimulated emission when everything else is already stimulated, otherwise it'll just get reabsorbed
+- 
