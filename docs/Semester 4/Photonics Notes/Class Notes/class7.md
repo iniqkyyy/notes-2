@@ -1,1 +1,31 @@
 # Photonics 1 Lesson 7
+- #Population-Inversion
+  - A higher number of electrons are in a high energy state compared to a low energy state. Achieved by populating a high energy level that is quasi-stable (longlasting).
+  - $$I=I_0e^{+\sigma_{21}(N_2-N_1)x}$$
+- From textbook:
+  - Population Inversion
+  - Seed Photons
+  - Resonant Cavity
+  - Mirrors (HR and coupler)
+- #Four-Level-Laser
+  - Rises to pump level
+  - Rapidly de-populates to a metastable state.
+  - Drops from metastable to a new level that is above ground that rapidly de-populates to ground.
+  - From ground back to pump level.
+  - Due to photons being in the lower level for such a short time, the chance of it being populated when other photons of E2,N2->E4,N4 stimulate them (they're at ground, not E4,N4)
+- Semiconductor Diode Laser -> Pumps Yag gain medium
+- #Laser-Oscillator-Options
+  - Plane-parallel (r1=r2=inf)
+  - Spherical (r1=r2=L/2)
+  - Long-radius (r1=r2>L)
+  - Confocal (r1=r2=L)
+  - Hemispherical (r1=L, r2=inf)
+- #Laser-Gain-Equation
+  - Electrons per loop
+  - $$n_{loop}=R_1R_2G_A^2(1-L)n_0$$
+  - Where R1 and R2 are fractional reflectives, G_A is photon multiplier per pass (gain), n_0 is the initial photon population, and L is a loss factor per pass due to absorption, scattering, and diffraction.
+  - Gain per loop
+  - $$G_L=R_1R_2G_A^2(1-L)$$
+  - Gain per loop also
+  - $$G_L=R_1R_2(1-A_1)(1-A_2)G_A^2$$
+  - As relate to the absorptivity of the mirrors, G_A relates the amplifier gain per length of the gain medium
