@@ -47,3 +47,17 @@
     - f has no concavity on (a,b) if f' is constant on (a,b)
 - #Second-Derivative
   - $$f''(x)=\lim_{h\to 0}\frac{f'(x+h)-f'(x)}{h}$$
+- #Point-Evaluation
+  - There is a point on a graph at an x value. You can plug the number into the function an get a valid answer.
+- #Continuity
+  - No holes, gaps, or vertical asymptotes in the graph, i.e the curve is connected.
+  - $$\lim_{x\to a^-}f(x)=\lim_{x\to a^+}f(x)=f(a)$$
+  - If a function is continuous at x=a, then its limit must also exist at x=a.
+- #Differentiability
+  - A function f is differentiable at x=a whenever f'(a) is defined.
+  - Note: there must be a tangent line at x=a. Looking at the graph it should be locally linear.
+- #Local-Linearization
+  - To find the slope-function for the tangent line at point x=a of f(a).
+    - $$L(x)=f(a)+f'(a)(x-a)$$
+    - Might remember it as
+    - $$y=y_1+m(x-x_1)$$
