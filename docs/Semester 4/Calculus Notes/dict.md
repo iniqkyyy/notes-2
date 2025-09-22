@@ -62,6 +62,13 @@
     - Might remember it as
     - $$y=y_1+m(x-x_1)$$
 - #Power-Rules
-  - $$\frac{d}{dx}(c)=0$$
-  - $$\frac{d}{dx}(x^n)=nx^{n-1}$$
-  - $$\frac{d}{dx}(a^x)=\ln{a} \cdot a^x$$
+  - Constant
+    - $$\frac{d}{dx}(c)=0$$
+  - Polynomial
+    - $$\frac{d}{dx}(x^n)=nx^{n-1}$$
+  - Power
+    - $$\frac{d}{dx}(a^x)=\ln{a} \cdot a^x$$
+  - Constant Multiplier
+    - $$\frac{d}{dx}(c\cdot f(x))=c\cdot f'(x)$$
+  - Sum/Difference
+    - $$\frac{d}{dx}(f(x)\plusmn g(x))=f'(x)\plusmn g'(x)$$
