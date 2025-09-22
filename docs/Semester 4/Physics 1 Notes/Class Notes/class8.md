@@ -33,7 +33,7 @@
   - upward force
     - $$N-W+T\sin{\theta}=ma$$
   - right force
-    - $$T\cos{theta}-f=ma_x$$
+    - $$T\cos{\theta}-f=ma_x$$
 
 ## N3L
 - All forces on an object experience an equal and opposite force.

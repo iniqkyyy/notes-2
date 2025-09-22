@@ -12,7 +12,7 @@
   - No surface motion, harder to calculate.
 - #Kinetic-Friction
   - Relative motion of surfaces, easier to calculate.
+  - $$f_k=\mu_mN$$
 - Friction force is proportional to normal force, i.e linearly related to the mass of hte object
-- $$f_k=\mu_mN$$
 - Friction is not related to surface area either.
 - man im checked out rn

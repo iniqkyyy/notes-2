@@ -61,3 +61,7 @@
     - $$L(x)=f(a)+f'(a)(x-a)$$
     - Might remember it as
     - $$y=y_1+m(x-x_1)$$
+- #Power-Rules
+  - $$\frac{d}{dx}(c)=0$$
+  - $$\frac{d}{dx}(x^n)=nx^{n-1}$$
+  - $$\frac{d}{dx}(a^x)=\ln{a} \cdot a^x$$

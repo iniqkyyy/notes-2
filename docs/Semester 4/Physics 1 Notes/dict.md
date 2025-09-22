@@ -143,14 +143,7 @@
 - #Normal-Force
   - A #Force directed perpendicular to the plane the object is exerting its force on.
 
-\text{Density} : \rho = \frac{m}{V} \\
-\text{Constant Acceleration Kinematics}
-\begin{bmatrix}
- Formula&  \Delta{x}&  v_0&  v_f&  a&  t&\\
- v=v_i+at&  &  \sqrt{}&  \sqrt{}&  \sqrt{}&  \sqrt{}&\\
- \Delta x=\bar{v}t=\frac{1}{2}(v_i+v_f)t&  \sqrt{}&  \sqrt{}&  \sqrt{}&  &  \sqrt{}&\\
- \Delta x=v_it+\frac{1}{2}at^2&  \sqrt{}&  \sqrt{}&  &  \sqrt{}& \sqrt{}&\\
- v^2=v_i^2+2a(\Delta x)&  \sqrt{}&  \sqrt{}&  \sqrt{}&  \sqrt{}& &\\
-\end{bmatrix}\\
-\text{Circular Motion Period} : T=\frac{2\pi r}{v}\\
-\text{Circular Motion Acceleration} : |\vec{a_{c}}|=\frac{v^2}{r}
+## Friction
+- #Kinetic-Friction
+  - Relative motion of surfaces, easier to calculate.
+  - $$f_k=\mu_mN$$
