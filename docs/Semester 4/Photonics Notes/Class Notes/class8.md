@@ -1,0 +1,21 @@
+# Photonics 1 Lesson 8
+- #Q-Switching
+  - Essentially a fast shutter between the active medium and HR mirror. Relates to Quality Factor describing the amount of energy lost over 1radian of the oscillation. High QF = resonance, Low QF = no gain.
+  - Types of Q-Switches:
+    - Mechanical
+      - Imagine a disk with cuts in it, rotating in front of the laser. Sometimes lasing will occur, sometimes it will not. When it is not occurring, energy is building in the gain medium.
+    - Electro-Optic
+      - Near the exit mirror, you have a PBS and a Pockel's cell. The pockel's cell will change polarization based on voltage, cancelling out light that passes through both or allowing free passing.
+    - Acoustic-Optic
+      - In an Acoustic-optic cell, a vibrational wave is used to diffract the light and avoid stimulated emission.
+- In springs, stiffness and distance stretched are related to the force felt by the object, but at a certain point this relation becomes non-linear.
+- A material can be polarized (separate from light), it realizes a separatation of its electrons and protons in reaction to an applied E-field, perpendicular to the voltage.
+- Light traveling through a material is applying an E-field, which is both absorbed by the material AND "polarizes" it.
+- At a certain intensity (high E-fields around E7), the electrons can emit a second harmonic generated photon, double the frequency, since the E-field effect is now non-linear and based on double the frequency of the incident light.
+- Non-linear materials that are common
+  - Potassium titanyl phosphate KTP
+  - Ammonium dihydrogen phosphate ADP
+  - Potassium dihydrogen phosphate KDP
+  - lithium niobate LiNbO3
+  - Beta barium borate and lithium triborate
+  - 
