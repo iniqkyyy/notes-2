@@ -147,3 +147,16 @@
 - #Kinetic-Friction
   - Relative motion of surfaces, easier to calculate.
   - $$f_k=\mu_mN$$
+
+## Energy
+- #Energy
+  - Is the capacity for something do do work. Measured in Joules.
+  - Final energy is the initial plus the amount of work done on the object.
+    - $$E_f=E_i+W$$
+- #Work
+  - Is a vector dot product, the amount of energy exerted on an object.
+    - $$W=\vec{F}\Delta{\vec{x}}$$
+- #Kinetic-Energy
+  - The energy of a moving object. Increases/decreases based on net force on the object.
+    - $$\text{KE}=\frac{1}{2}mv^2$$
+- See #Vector-Multiplication
