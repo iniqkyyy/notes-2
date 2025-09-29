@@ -80,7 +80,7 @@
   - Multiplying a #Vector by a #Scalar, we get a new vector with magnitude V*S. 
   - Multiplying a #Vector by a #Vector, we get a new vector with magnitude and direction relative to the inputs.
     - Dot product = ONLY a Scalar, no direction
-      - $$\vec{a}\cdot\vec{b}=ab\cos{\theta}$$
+      - $$\vec{a}\cdot\vec{b}=|a||b|\cos{\theta}$$
       - Real multiplication
       - $$\vec{a}\cdot\vec{b}=(a_x\hat{i}+a_y\hat{j}+a_z\hat{k})(b_x\hat{i}+b_y\hat{j}+b_z\hat{k})$$
       - You only need to multiply terms with equal unit vectors, because ij=0, ik=0, jk=0.
