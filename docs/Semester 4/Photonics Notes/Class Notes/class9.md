@@ -1,0 +1,17 @@
+# Photonics 1 Lesson 9
+- Review wavelength and power in a laser, #Population-Inversion
+- #Linewidth
+  - The width of the energy *band* in a given laser system. Given in Hz.
+  - Caused by energy shifting due to collisions of atoms, thermal shifting, and doppler effect shifting (complicated, relative to motion of emitter and observer).
+  - Homogeneous broadening is where every atom is affected the same, inhomogeneous broadening is affected by lattice irregularities, like doppler broadening.
+- #Resonance-Modes
+  - Longitudinal
+    - Standing waves where there is a node (zero) at each mirror.
+    - #Free-Spectral-Range
+      - $$\Delta f=\frac{c}{2n\ell}$$
+      - Where l is the cavity length, n is the index of refraction, and c is the speed of light.
+  - Transverse
+    - Spatial patterns of light observed across a beam cross-section when magnified on a screen.
+    - Photons with different angles, changing path length difference.
+    - Lowest-order mode is TEM00 where light travels directly through the center.
+- 
