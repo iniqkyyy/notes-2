@@ -170,7 +170,10 @@
 - #Kinetic-Energy
   - The energy of a moving object. Increases/decreases based on net force on the object.
     - $$\text{KE}=\frac{1}{2}mv^2$$
-- See #Vector-Multiplication
+- #Conservation-of-Energy
+    - $$KE_f+PE_f=KE_i+PE_i+W_{ext}$$
+    - This is equivalent to
+    - $$\frac{1}{2}mv_f^2+mgh_f=\frac{1}{2}mv_i^2+mgh_0+\vec{F}\cdot{\Delta{\vec{r}}}$$
 
 ## Springs
 - #Spring-Constant
