@@ -1,0 +1,16 @@
+# Solid State Electronics Lesson 8
+- JFET
+  - $$V_{GS}=-I_DR_S$$
+  - $$V_D=V_{DD}-I_DR_D$$
+  - $$V_{DS}=V_{DD}-I_D(R_D+R_S)$$
+- D-MOSFET
+  - only n-channel
+  - VG=VS so VGS=0
+- E-MOSFET
+  - VGS=VDS
+  - gate is tied to the drain
+- #Transconductance
+  - Relates the current through the output to the voltage across the input, given by g_m.
+  - $$g_m=\frac{I_d}{V_gs}$$
+  - Usage in gain formula.
+    - $$A_V=\frac{V_{out}}{V_{in}}=\frac{I_dR_d}{V_{gs}}=g_mR_d$$

@@ -142,11 +142,17 @@
   - The sum of all #Force vectors on an object, resulting in an acceleration if non-zero.
 - #Normal-Force
   - A #Force directed perpendicular to the plane the object is exerting its force on.
+- #Ideal-Banked-Turn
+  - This equation is derived from splitting the normal force into its vertical (opposing gravity) and horizontal (turning) forces and simplifying.
+    - $$\tan{\theta}=\frac{v^2}{gr}$$
 
 ## Friction
 - #Kinetic-Friction
-  - Relative motion of surfaces, easier to calculate.
+  - The opposing force to movement while two surfaces are sliding against each other and in motion.
   - $$f_k=\mu_mN$$
+- #Static-Friction
+  - The opposing force to movement while two surfaces are unmoving.
+  - $$f_s\leq \mu_sN$$
 
 ## Energy
 - #Energy
@@ -156,7 +162,21 @@
 - #Work
   - Is a vector dot product, the amount of energy exerted on an object.
     - $$W=\vec{F}\Delta{\vec{x}}$$
+  - The work of a *constant* force can be simplified to:
+    - $$W=Fd\cos{\theta}$$
+- #Power
+  - The rate of work done on an object, measured in Watts or Joules/second.
+    - $$P=\frac{W}{t}=Fv\cos{\theta}$$
 - #Kinetic-Energy
   - The energy of a moving object. Increases/decreases based on net force on the object.
     - $$\text{KE}=\frac{1}{2}mv^2$$
 - See #Vector-Multiplication
+
+## Springs
+- #Spring-Constant
+  - The "stiffness" of a spring that relates to its resistance to change.
+    - $$F=-kx$$
+    - Where F is the restoring force by the spring, k is the spring constant, and x is the displacement from equilibrium.
+- #Spring-Work
+  - The work done on an object by a spring is the area under the curve of the graph of force against displacement from equilibrium.
+    - $$W_s=\frac{1}{2}kx_i^2-\frac{1}{2}kx_f^2$$
