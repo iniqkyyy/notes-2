@@ -61,7 +61,7 @@
     - $$L(x)=f(a)+f'(a)(x-a)$$
     - Might remember it as
     - $$y=y_1+m(x-x_1)$$
-- #Power-Rules
+- #Derivative-Rules
   - Constant
     - $$\frac{d}{dx}(c)=0$$
   - Polynomial
@@ -72,3 +72,16 @@
     - $$\frac{d}{dx}(c\cdot f(x))=c\cdot f'(x)$$
   - Sum/Difference
     - $$\frac{d}{dx}(f(x)\plusmn g(x))=f'(x)\plusmn g'(x)$$
+  - Product
+    - $$\frac{d}{dx}(f(x)g(x))=f(x)g'(x)+f'(x)g(x)$$
+  - Quotient
+    - $$\frac{d}{dx}(\frac{f(x)}{g(x)})=\frac{f'(x)g(x)-f(x)g'(x)}{g(x)^2}$$
+- #Trig-Derivatives
+  - $$\sin x=\cos x$$
+  - $$\cos x=-\sin x$$
+  - $$\tan=\frac{\cos^2x+\sin^2x}{\cos^2x}=\frac{1}{\cos^2x}=\sec^2x$$
+  - $$\cot$$
+  - $$\sec x=\frac{\sin x}{\cos^2 x}=\tan x \sec x$$
+  - $$\csc$$
+- #Evaluation-Bar-Notation
+  - $$\frac{dy}{dx}\biggr|_{x=a}=y'(a)$$
