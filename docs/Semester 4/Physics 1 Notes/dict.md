@@ -167,9 +167,16 @@
 - #Power
   - The rate of work done on an object, measured in Watts or Joules/second.
     - $$P=\frac{W}{t}=Fv\cos{\theta}$$
+- #Instantaneous-Power
+  - The power at a moment in time.
+  - $$P_{inst}=\frac{dW}{dt}=\vec{F}\cdot\vec{v}$$
 - #Kinetic-Energy
   - The energy of a moving object. Increases/decreases based on net force on the object.
     - $$\text{KE}=\frac{1}{2}mv^2$$
+- #Potential-Energy
+  - The energy stored by a system such as gravity or a spring.
+  - For gravity
+    - $$PE_g=mgh$$
 - #Conservation-of-Energy
     - $$KE_f+PE_f=KE_i+PE_i+W_{ext}$$
     - This is equivalent to
@@ -183,3 +190,18 @@
 - #Spring-Work
   - The work done on an object by a spring is the area under the curve of the graph of force against displacement from equilibrium.
     - $$W_s=\frac{1}{2}kx_i^2-\frac{1}{2}kx_f^2$$
+
+## Momentum
+- #Momentum
+  - The willingness of an object to maintain its movement or lack thereof.
+  - Measured in kgm/s
+  - $$\vec{p}=m\vec{v}$$
+- #System-Momentum
+  - Related to total sum mass and the center of mass's velocity.
+  - $$\vec{P}=M\vec{v_{com}}$$
+- #Center-of-Mass
+  - In a multi-particle system the center of mass will not be exactly in one particle, instead somewhere else.
+  - $$\vec{r}_{com}=\frac{1}{M}\sum_{i=0}^{n}m_i\vec{r_i}$$
+  - This follows from
+  - $$x_{com}=\frac{m_1x_1+m_2x_2}{m_1+m_2}$$
+

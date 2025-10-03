@@ -76,12 +76,21 @@
     - $$\frac{d}{dx}(f(x)g(x))=f(x)g'(x)+f'(x)g(x)$$
   - Quotient
     - $$\frac{d}{dx}(\frac{f(x)}{g(x)})=\frac{f'(x)g(x)-f(x)g'(x)}{g(x)^2}$$
+  - CHAIN!
+    - For when you have a composite function, derivative of the outside (copy of the inside) times the derivative of the inside.
+    - Always start on the outside function.
+    - $$\frac{d}{dx}f(g(x))=f'(g(x))g'(x)$$
 - #Trig-Derivatives
   - $$\sin x=\cos x$$
   - $$\cos x=-\sin x$$
-  - $$\tan=\frac{\cos^2x+\sin^2x}{\cos^2x}=\frac{1}{\cos^2x}=\sec^2x$$
-  - $$\cot$$
+  - $$\tan x=\frac{\cos^2x+\sin^2x}{\cos^2x}=\frac{1}{\cos^2x}=\sec^2x$$
+  - $$\cot x=-\csc^2x$$
   - $$\sec x=\frac{\sin x}{\cos^2 x}=\tan x \sec x$$
-  - $$\csc$$
+  - $$\csc x=-\cot x \csc x$$
 - #Evaluation-Bar-Notation
   - $$\frac{dy}{dx}\biggr|_{x=a}=y'(a)$$
+- #Composite-Function
+  - A function inside a function.
+    - $$f(g(x))$$
+    - or
+    - $$(f\circ g)(x)$$
