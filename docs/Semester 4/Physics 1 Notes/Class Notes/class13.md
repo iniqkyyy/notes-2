@@ -16,5 +16,3 @@
   - Friction on a carpet, the shorter the path the less energy lost.
 
 - Could paul lift dumbbells to eequal the power of the tour de france? No he would die, but your physics professor doesn't dope.
-
-- guy on mountain die haha
