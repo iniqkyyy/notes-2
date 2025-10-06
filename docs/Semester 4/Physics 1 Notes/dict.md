@@ -124,6 +124,9 @@
   - The direction of which is towards the center of the circle, meaning it is centripetal.
   - The time it takes to complete a circle, or its period of revolution, is:
     - $$T=\frac{2\pi r}{v}$$
+- #Centripetal-Force
+  - The net centripetal force on a particle is directed toward the center of curvature of the particle's path.
+    - $$F=\frac{mv^2}{R}$$
 ## Forces
 - #Force
   - is the Push and Pull of an object. A force is a Vector with a magnitude and direction.
@@ -205,3 +208,16 @@
   - This follows from
   - $$x_{com}=\frac{m_1x_1+m_2x_2}{m_1+m_2}$$
 
+## Impulse
+- #Impulse
+  - This is the change in momentum an object feels during a collision.
+    - $$\vec{p}_f-\vec{p_i}=\Delta \vec{p}=\vec{J}$$
+  - If you take the equation:
+    - $$F=\frac{dp}{dt}$$
+  - And solve for a change in p, you must find the area under the curve of F(t)
+    - $$J=\Delta{p}=\int_{t_1}^{t_2}F\ dt$$
+  - Side note, impulse is the integral of force over time, and work is the integral of force over displacement, very similar concept.
+- #Integrals
+  - I suppose we're learning integrals from prelecs for physics.
+  - If you have a polynomial it is easy to integrate, just increase exponent by 1 and divide by the same number:
+    - $$\int_{x_1}^{x_2}ax^2+bx=\left[ \frac{ax^3}{3}+\frac{bx^2}{2}\right]_{x_1}^{x_2}=(\frac{ax_1^3}{3}+\frac{bx_1^2}{2})-(\frac{ax_2^3}{3}+\frac{bx_2^2}{2})$$
