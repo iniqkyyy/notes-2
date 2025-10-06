@@ -64,7 +64,7 @@
 - #Derivative-Rules
   - Constant
     - $$\frac{d}{dx}(c)=0$$
-  - Polynomial
+  - Exponent
     - $$\frac{d}{dx}(x^n)=nx^{n-1}$$
   - Power
     - $$\frac{d}{dx}(a^x)=\ln{a} \cdot a^x$$
@@ -87,6 +87,11 @@
   - $$\cot x=-\csc^2x$$
   - $$\sec x=\frac{\sin x}{\cos^2 x}=\tan x \sec x$$
   - $$\csc x=-\cot x \csc x$$
+- #Hyperbolic-Derivatives
+  - $$\sinh x=\cosh x$$
+  - $$\cosh x= \sinh x$$
+- #General-Derivative
+  - For a given function f(x), f^(n)(x) is defined as the nth derivative.
 - #Evaluation-Bar-Notation
   - $$\frac{dy}{dx}\biggr|_{x=a}=y'(a)$$
 - #Composite-Function
