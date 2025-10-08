@@ -202,13 +202,17 @@
 - #System-Momentum
   - Related to total sum mass and the center of mass's velocity.
   - $$\vec{P}=M\vec{v_{com}}$$
+- #Linear-Momentum
+  - If a system is closed and isolated such that no net external force acts on it, then the linear momentum must be constant regardless of internal changes.
+  - $$\vec{P}_i=\vec{P}_f$$
 - #Center-of-Mass
   - In a multi-particle system the center of mass will not be exactly in one particle, instead somewhere else.
   - $$\vec{r}_{com}=\frac{1}{M}\sum_{i=0}^{n}m_i\vec{r_i}$$
   - This follows from
   - $$x_{com}=\frac{m_1x_1+m_2x_2}{m_1+m_2}$$
-
-## Impulse
+- #Inelastic-Collision
+  - When two inelastic bodies collide, the kinetic energy of the two-body system is not conserved, but if the system is closed and isolated, the total linear momentum *must* be conserved, such that:
+    - $$\vec{p}_{1i}+\vec{p}_{2i}=\vec{p}_{1f}+\vec{p}_{2f}$$
 - #Impulse
   - This is the change in momentum an object feels during a collision.
     - $$\vec{p}_f-\vec{p_i}=\Delta \vec{p}=\vec{J}$$
