@@ -80,6 +80,9 @@
     - For when you have a composite function, derivative of the outside (copy of the inside) times the derivative of the inside.
     - Always start on the outside function.
     - $$\frac{d}{dx}f(g(x))=f'(g(x))g'(x)$$
+  - Natural Log
+    - The derivative of the natural log is the reciprocal of the inside.
+      - $$\frac{d}{dx}\ln(x)=\frac{1}{x}$$
 - #Trig-Derivatives
   - $$\sin x=\cos x$$
   - $$\cos x=-\sin x$$
@@ -87,6 +90,13 @@
   - $$\cot x=-\csc^2x$$
   - $$\sec x=\frac{\sin x}{\cos^2 x}=\tan x \sec x$$
   - $$\csc x=-\cot x \csc x$$
+- #Inverse-Trig-Derivatives
+  - $$\frac{d}{dx}\sin^{-1}x=\frac{1}{\sqrt{1-x^2}}$$
+  - $$\frac{d}{dx}\cos^{-1}x=\frac{-1}{\sqrt{1-x^2}}$$
+  - $$\frac{d}{dx}\tan^{-1}x=\frac{1}{x^2+1}$$
+  - $$\frac{d}{dx}\cot^{-1}x=\frac{-1}{x^2+1}$$
+  - $$\frac{d}{dx}\sec^{-1}x=\frac{1}{x\sqrt{x^2-1}}$$
+  - $$\frac{d}{dx}\csc^{-1}x=\frac{-1}{x\sqrt{x^2-1}}$$
 - #Hyperbolic-Derivatives
   - $$\sinh x=\cosh x$$
   - $$\cosh x= \sinh x$$
