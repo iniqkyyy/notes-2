@@ -109,3 +109,12 @@
     - $$f(g(x))$$
     - or
     - $$(f\circ g)(x)$$
+## Implicit Functions
+- Assuming other variables "have x inside of them" so don't treat as constant.
+- #Explicit-Function
+  - The output is separated (solved for).
+- #Implicit-Function
+  - The inputs and outputs are mixed together.
+- #Implicit-Derivative
+  - Just take the derivative of each side with respect to x and solve for dy/dx.
+  - 
