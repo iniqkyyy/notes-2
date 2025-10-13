@@ -225,3 +225,31 @@
   - I suppose we're learning integrals from prelecs for physics.
   - If you have a polynomial it is easy to integrate, just increase exponent by 1 and divide by the same number:
     - $$\int_{x_1}^{x_2}ax^2+bx=\left[ \frac{ax^3}{3}+\frac{bx^2}{2}\right]_{x_1}^{x_2}=(\frac{ax_1^3}{3}+\frac{bx_1^2}{2})-(\frac{ax_2^3}{3}+\frac{bx_2^2}{2})$$
+
+## Rotation
+- #Rigid-Body
+  - An object is a rigid body if all parts of a body rotate around a fixed axis locked together.
+- #Rotation-Angle
+  - A full rotation is 1 revolution = 360deg = 2pi radians.
+  - $$\theta=\frac{s}{r}$$
+  - Where s = the arc length of a circular path of radius r and angle theta.
+- #Angular-Velocity
+  - An average velocity can be given by:
+    - $$\omega_{avg}=\frac{\Delta\theta}{\Delta t}$$
+  - Or, the instantaneous angular velocity can be given by:
+    - $$\omega=\frac{d\theta}{dt}$$
+  - These are both vectors, with directions given by a right-hand rule. Positive for counterclockwise and negative for clockwise.
+- #Angular-Acceleration
+  - Likened to translational acceleration, average angular acceleration is:
+    - $$\alpha_{avg}=\frac{\Delta\omega}{\Delta t}$$
+  - And instantaneous angular acceleration is:
+    - $$\alpha=\frac{d\omega}{dt}$$
+- #Constant-Angular-Acceleration
+  - See #Constant-Acceleration for the full rundown, which applies word for word here with position replaced by theta, velocity replaced by omega, and acceleration replaced by alpha.
+
+| Formula 	| $$\Delta\theta$$ 	| $$\alpha$$ 	| $$\omega_f$$ 	| $$\omega_i$$ 	| t 	|
+|---	|---	|---	|---	|---	|---	|
+| $$v\omega=\omega_i+\alphat$$ 	|  	| y 	| y 	| y 	| y 	|
+| $$\Delta \theta=\bar{\omega}t=\frac{1}{2}(\omega_i+\omega_f)t$$ 	| y 	|  	| y 	| y 	| y 	|
+| $$\Delta \theta=\omega_it+\frac{1}{2}\alphat^2$$ 	| y 	| y 	|  	| y 	| y 	|
+| $$\omega^2=\omega_i^2+2\alpha(\Delta \theta)$$ 	| y 	| y 	| y 	| y 	|  	|
