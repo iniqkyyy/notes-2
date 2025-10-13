@@ -249,7 +249,7 @@
 
 | Formula 	| $$\Delta\theta$$ 	| $$\alpha$$ 	| $$\omega_f$$ 	| $$\omega_i$$ 	| t 	|
 |---	|---	|---	|---	|---	|---	|
-| $$v\omega=\omega_i+\alphat$$ 	|  	| y 	| y 	| y 	| y 	|
+| $$v\omega=\omega_i+\alpha t$$ 	|  	| y 	| y 	| y 	| y 	|
 | $$\Delta \theta=\bar{\omega}t=\frac{1}{2}(\omega_i+\omega_f)t$$ 	| y 	|  	| y 	| y 	| y 	|
-| $$\Delta \theta=\omega_it+\frac{1}{2}\alphat^2$$ 	| y 	| y 	|  	| y 	| y 	|
+| $$\Delta \theta=\omega_it+\frac{1}{2}\alpha t^2$$ 	| y 	| y 	|  	| y 	| y 	|
 | $$\omega^2=\omega_i^2+2\alpha(\Delta \theta)$$ 	| y 	| y 	| y 	| y 	|  	|
