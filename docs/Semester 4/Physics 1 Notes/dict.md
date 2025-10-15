@@ -246,6 +246,21 @@
     - $$\alpha=\frac{d\omega}{dt}$$
 - #Constant-Angular-Acceleration
   - See #Constant-Acceleration for the full rundown, which applies word for word here with position replaced by theta, velocity replaced by omega, and acceleration replaced by alpha.
+- #Angular-Linear-Variables
+  - Linear Position
+    - $$s=\theta r$$
+    - where theta is in radians and r is the radius
+  - Linear Velocity 
+    - $$v=\omega r$$
+    - where omega is the angular speed (rad/s)
+  - Linear Acceleration
+    - Tangential Component
+      - $$a_t=\alpha r$$
+      - where alpha is the angular acceleration
+    - Radial Component
+      - $$a_r=\frac{v^2}{r}=\omega^2r$$
+  - Period
+    - $$T=\frac{2\pi r}{v}=\frac{2\pi}{\omega}$$
 
 | Formula 	| $$\Delta\theta$$ 	| $$\alpha$$ 	| $$\omega_f$$ 	| $$\omega_i$$ 	| t 	|
 |---	|---	|---	|---	|---	|---	|
@@ -253,3 +268,14 @@
 | $$\Delta \theta=\bar{\omega}t=\frac{1}{2}(\omega_i+\omega_f)t$$ 	| y 	|  	| y 	| y 	| y 	|
 | $$\Delta \theta=\omega_it+\frac{1}{2}\alpha t^2$$ 	| y 	| y 	|  	| y 	| y 	|
 | $$\omega^2=\omega_i^2+2\alpha(\Delta \theta)$$ 	| y 	| y 	| y 	| y 	|  	|
+
+## Wheel
+- #Wheel-Velocity
+  - $$v_{com}=\omega R$$
+    - Where R is the radius of the wheel, omega is the angular speed of the wheel relative to radius R, and vcom is the linear speed of the wheel's center of mass.
+- #Torque
+  - A turning or twisting action due to a force F.
+  - If a force is exerted at a point given by the position vector r relative to the axis, then the magnitude of the torque is
+    - $$\tau=rF_t=r_{\perp}F=rF\sin(\phi)$$
+    - Where F_t is the component of F perpendicular to r and phi is the angle between r and F. The quantity r_perp is the perpendicular distance between the rotation axis and an extended line running through the F vector. This line is called the line of action of F and r_perp is called the moment arm of F. Similarly, r is the moment arm of F_t
+  - SI unit ise Newton-Meter, positive if it rotates a body right-hand and negative if left-hand.
