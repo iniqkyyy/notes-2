@@ -117,4 +117,5 @@
   - The inputs and outputs are mixed together.
 - #Implicit-Derivative
   - Just take the derivative of each side with respect to x and solve for dy/dx.
-  - 
+- #Implicit-Trick
+  - $$\frac{dx}{dy}=\frac{a}{b} \text{ then } \frac{dy}{dx}=\frac{b}{a}$$
