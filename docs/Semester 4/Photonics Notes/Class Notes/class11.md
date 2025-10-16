@@ -1,2 +1,79 @@
 # Photonics 1 Lesson 11
+- Dr Kenneth A Krauss
+  - PhD from MSU
+- R&D for gov and commercial contractors
+- Solid state physics!
+- wow this is impressive
+- all subatomic particles are either Bosons or Fermions
+- Bosons
+  - have integer spin of 0, 1, 2, etc.
+  - photons
+- Fermions
+  - have half-integer spin of 1/2, 3/2, etc.
+  - electrons
+- pauli exclusion principal -> fermions cannot occupy the same energy state
+- Principal quantum number
+  - the orbit number
+- azimuthal quantum number
+- magnetic quantum number
+- spin quantum number
+
+## Thermodynamics Basics
+- Zeroth law of thermodynamics
+  - If two systems are in thermal equilibrium with a third system, they are in thermal equilibrium with each other.
+- First law
+  - Any energy in a system cannot be destroyed, only change forms
+- Second law
+  - S, the total entropy of an isolated system, can never decrease over time
+  - natural processes tend to move towards a state of greated disorder or entropy
+- Third law
+  - as the temperature of a system approaches absolute zero, its entropy approaches zero
+- Boltzmann
+  - $$S=k_B\ln{M}$$
+  - S is entropy where M is the number of microstates accessible to a system, and k_B is a constant
+  - macrostates are like temperature, volume, etc.
+  - deduced that all microstates are equally probable
+
+## Particles
+- Like molecules, you can follow any classical particle with a velocity and position and.
+- In quantum particles, however, you cannot determine the difference between two particles. They are indistinguishable.
+- Heisenberg Uncertainty
+  - $$\frac{\delta x}{\delta P}\geq\frac{\hbar}{2}$$
+- permutations of 3 E-level 2P system
+  - classical - 9
+  - boson - 6
+  - fermion - 3
+- because all are equally probable:
+- classical permutations:
+  - you can have AB, BA, CA, AC, BC, CB
+  - $$P(g, n)=\frac{g!}{(g-n)!}$$
+- quantum permutations
+  - you can only have AB, AC, BC
+- degeneracy of 4, that means we have 4 states within the same energy
+- for given energy level with degeneracy g and number of occupying particles n
+  - $$m_j=\frac{g_j!}{n_j!(g_j-n_j)}$$
+- total energy of a system
+  - $$U=\sum_jn_j\epsilon_j$$
+- system will always maximize entropy
+- maximize these formulas by setting derivative to 0 (peak or valley)
+- see deriving fermi dirac
+- lagrange multiplier
+- final result of required n for maximum entropy of fermions
+  - $$\bar{n}_i=\frac{1}{e^{\epsilon_i-\epsilon_F}/k_BT+1}$$
+- for classical you get something else
+- the Boltzmann distribution shows the distribution of all particles in a closed system
+- fermions is 1/(a+1), bosons is 1/(a-1), and classical is just a where a is the whole exponent portion
+- fermi goes to 1 horizontally, bose goes to infinity
+- as heat is applied to fermi electrons, 50% chance to be at the fermi energy level, at 0K, all particles will be at fermi energy level
+- fermi energy level is the middle of the gap between the valence band to conduction band
+- electrons are strange!
+  - $$E=\frac{e}{4\pi \epsilon_0 r^2}$$
+  - where r is the radius of the electron, but we have never determined the size of an electon, and as r tends toward 0 its energy will go up to infinity
+- well actually electrons don't exist as particles, but instead an excitation of a field
+- field theory
+  - electrons are a vibration in the electron field, this is why all electrons are identical
+- gamma ray can excite two electrons simultaneously
+- in a vacuum there are virtual particles that fluctuate and the only rule that applies is that the total energy must be zero (virtual particle + hole)
+- the cause of spontaneous emission is the virtual particle interacting with the electron causing it to drop
+- Dirac said that in Quantum Electrodynamics (QED), that describes the interaction between current and EM potential. This was successful in explaining the phenomenom of spontaneous emission.
 - 
