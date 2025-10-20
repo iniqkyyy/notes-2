@@ -76,4 +76,3 @@
 - in a vacuum there are virtual particles that fluctuate and the only rule that applies is that the total energy must be zero (virtual particle + hole)
 - the cause of spontaneous emission is the virtual particle interacting with the electron causing it to drop
 - Dirac said that in Quantum Electrodynamics (QED), that describes the interaction between current and EM potential. This was successful in explaining the phenomenom of spontaneous emission.
-- 
