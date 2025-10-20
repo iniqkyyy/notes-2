@@ -34,5 +34,5 @@ $$\text{Density} : \rho = \frac{m}{V} \\
 \text{Center of Mass} : \vec{r}_{com}=\frac{1}{M}\sum_{i=0}^{n}m_i\vec{r}_i\ \ \& \ \ x_{com}=\frac{m_1x_1+m_2x_2}{m_1+m_2}\ \ \& \ \ 
 \text{Impulse}= \frac{dp}{dt}\\
 \text{Arc Length} : s=\theta r\ \ \& \ \ \text{Period} : T=\frac{2\pi r}{v}=\frac{2\pi}{\omega}\\
-\text{Linear Velocity} : v=\omega r\ \ \& \ \ \text{Tangent Acceleration} : a_t=\alpha r\ \ \& \ \ \text{Radial Acceleration} : a_r=\frac{v^2}{r}=\omega^2r
+\text{Linear Velocity} : v=\omega r\ \ \& \ \ \text{Tangent Acceleration} : a_t=\alpha r\ \ \& \ \ \text{Radial Acceleration} : a_r=\frac{v^2}{r}=\omega^2r$$
 
