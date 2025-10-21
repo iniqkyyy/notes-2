@@ -1,0 +1,58 @@
+# Photonics 1 Lesson 12
+- Bohr's model relates energy levels and shells of an atom
+- quantum numbers
+  - $$n,\ \ell,\ m\ell, \ ms$$
+  - principal, azimuthal (angular momentum), magnetic, spin
+  - integers, integers from 0-(n-1), integers from -ell-+ell, +1/2 or -1/2
+- for example, S orbital  (ell=0)
+  - holds 2 electrons, one spin up and one spin down
+- P orbital (ell=1)
+  - holds 6 electrons, ell ranges from -1, 0, 1 and each has a spin up and down, so 6 total
+- 2 atoms close together, the electron clouds start to interact
+  - keeps similar states, however they must have a small gap between their energy levels, i.e s1_1 < s1_2
+- Band Nomenclature
+  - Valence Band
+    - The outer atomic electrons loosely bound to the nucleus of the atom.
+  - Conduction Band
+    - Next energy level above the energy level that naturally contains the outermost electrons. I.e it is unfilled at 0K.
+  - Forbidden Band
+    - The space between the valence and conduction bands.
+- **what determines the spacing between energy bands for different material**
+- **how does the conduction band overlap the valence band in a metal if it's defined as unfilled at 0K and valence is filled at 0K?**
+- lattice structures
+  - simple cubic, body centered (b-atom in center of cube), face-centered (b atoms on faces of cubes)
+- Schrodinger equation w/ bloch theorem
+  - The potential in the schrodinger equation (V(r)) MUST have periodicity of constant a, i.e you can move it somewhere a specific distance and it would be equal (V(r+a)=V(r))
+  - abstract momentum that looks like and behaves like momentum although it is NOT a momentum
+  - $$p_{crystal}=\hbar k$$
+  - for a one-dimensional bloch state, at any point k, an electron must have an energy of Ek
+  - the values of k are determined by the crystal symmetry and produce the brilloin zone of allowed solutions to the schrodinger equation
+  - basicaly within a band, there are certain energy levels that are allowed and others that are not
+  - everything between -a-+a can be a k value (portion of a lattice gap)
+- brillouin zone center point is called gamma so 2gamma = the repetition portion of e^iz
+  - $$\gamma$$
+- on a silicon lattice (hexagonal with square faces)
+  - didn't follow well enough to take notes
+  - look up band physics later
+- bands can be engineered to change the band gap size
+- if lattices are not the same when two materials are touching, it creates strain on the materials
+- phonons
+  - vibrations of the crystal lattice
+  - if all the nuclei want to be a certain distance away and one vibrates, the nucleus that it moved towards will also vibrate
+  - adheres to certain modes when constricted to a certain length of atoms
+  - can practically work with atoms as if they are all attached by springs, electrons will make it abnormal 
+- #Crystal-Momentum
+  - relates to the symmetry of the crystal and the solutions of the schrodinger equation, NOT real momentum
+- #Phonon-Momentum
+  - relates to the vibration of atoms within a lattice LITERAL movement, real momentum
+- scattering
+  - if the phonons are creating a vibration that compacts multiple nuclei together, you're creating a spot of extra positive potential therefore can deflect electrons around it
+- remind about moving from gamma to L and gamma to X
+- for solar cells, you make a thick piece of silicon so that photons entering the material can meet a phonon that moved the atom (in k-space) into a location where the energy of the photon can be absorbed
+- so as you move a nucleus within a lattice, its energy gaps change relative to the lattice surrounding it based on the solutions to the schrodinger equation.
+- taylor expansion
+  - we can rearrange to solve for an "effective mass" in an "effective kinetic energy" equation that are NOT the real mass or kinetic energies
+  - this "effective mass" becomes positive near the bottom of the band, and negative near the top of the band
+  - this means that the electron can behave as a positive particle if it has a negative "effective mass"
+  - as effective mass changes while moving through k-space, the electron's conductivity is changing
+- direct bandgap is when the valley of the conduction band and the peak of the valenvce band overlap at the gamma point
