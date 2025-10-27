@@ -261,6 +261,16 @@
       - $$a_r=\frac{v^2}{r}=\omega^2r$$
   - Period
     - $$T=\frac{2\pi r}{v}=\frac{2\pi}{\omega}$$
+- #Moment-of-Inertia
+  - The closer the mass is to the center of mass, the lower the coefficient of I, relating to the ratio of energy converted to translational and 
+  - Typically (for symmetric rotation objects) some constant (ratio of translational to rotational energy) times M(center of mass) R(radius) squared.
+    - $$I=cMR^2$$
+- #Rotational-Kinetic-Energy
+  - $$KE_{rot}=\frac{1}{2}I\omega^2$$
+    - Where I is the moment of inertia and omega is the rotational velocity.
+- #COM-Velocity
+  - $$V_{com}=\sqrt{(\frac{2}{k+1})gh}$$
+    - Given that k is the coefficient of the moment of inertia and gh relates to the starting potential energy minus the ending potential energy.
 
 | Formula 	| $$\Delta\theta$$ 	| $$\alpha$$ 	| $$\omega_f$$ 	| $$\omega_i$$ 	| t 	|
 |---	|---	|---	|---	|---	|---	|

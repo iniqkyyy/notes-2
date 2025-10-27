@@ -1,0 +1,11 @@
+# Calculus 1 Lesson 17
+- #Local-Min-Max
+  - Local mins and maxes always correspond with locations where the derivative is either 0 or undefined.
+- #Critical-Number
+  - A function f has a critical number at x=c provided that c is in the domain of f and either f'(c)=0 or f'(c) dne.
+  - $$(∃δ>0 s.t. ∀x,∣x−c∣<δ⟹f(x)≤f(c))⟹(c∈dom(f)∧(f′(c)=0∨¬∃f′(c)))$$
+- #First-Derivative-Test
+  - Let p be a critical number of a continuous function that is differentiable near p:
+    - If f' changes from postiive to negative at p, then p is a local max.
+    - If f' changes from negative to positive at p, then p is a local minimum.
+    - If f' does not change signs at p, then p is neither a max nor min, local or not.
