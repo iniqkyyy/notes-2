@@ -1,0 +1,20 @@
+# Solid State Electronics Lesson 9
+- Operational amplifier (Op-amp)
+  - input voltage multiplier
+  - two inputs, one inverting other noninverting
+  - the two inputs are technically connected by a high resistance R_IN
+  - the output has a resistance but usually less than 100
+  - diff amp filters noise
+    - equal emitter currents (IRC/2)
+    - collector equals emitter current
+    - differential mode = inputs out of phase, common mode = inputs in phase
+    - in common mode, inputs being in phase means outputs are out of phase, therefore cancelling out
+    - Common Mode Rejection Ratio
+      - $$\text{CMRR}=\frac{A_{v(d)}}{A_{cm}}=20\log(\frac{A_{v(d)}}{A_{cm}})$$
+      - Where A_v(d) is the gain of an ideal differential mode, and A_cm is the gain of the common mode.
+  - Open loop gain
+    - $$A_{OL}=\frac{V_{out}}{V^{+}-V^{-}}$$
+  - frequency vs gain chart, keep gain above half power
+  - want to stay below the cutoff frequency
+- Slew rate = slope of voltage vs. time
+- 
