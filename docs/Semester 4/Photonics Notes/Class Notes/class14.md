@@ -1,0 +1,99 @@
+# Photonics 1 Lesson 14
+- Photon Detector
+  - Absorbs the energy of a photon as charge in a charge carrier (electrons)
+- Thermal detectors
+  - Absorb energy of a photon as heat and detects the change in heat using a changing electrical resistivity
+- Photodetector steps
+  - Absorb
+    - electromagnetic energy, photons, are absorbed producing energic free electrons
+  - Transport
+    - 
+  - Collect
+- Diffusion Currents
+  - Arises from the movement of charge carries from a region of high concentration to a region of low concentration
+  - When a pn junction diffuses, there's a negative voltage on the p-side and positive voltage on the n-side
+  - this creates a drift current, where a diode with no external bias will tend towards a drift current flowing from n->p type
+  - but the diffusion current, the holes flowing p->n, will cancel this out at equilibrium
+  - 
+- Solar Cells
+  - Video for detail at the end of slides
+  - np junction with light shining on it will create high energy electrons that jump the gap from n->p
+  - when electron and hole recombine without being collected by the front and back electrical contacts, this is just heat energy and it is "lost"
+- Mobility
+  - Electron and hole mobility can be determined as a "speed" (mu), solar cells use a high mobility n-type and low mobility p-type
+  - this is caused by a change in effective mass between an n-type and p-type, with n-type having lower effective mass
+  - valence band is typically more complex as its composed of more energy levels
+  - this means we have low efficiency transporting holes and they are more likely to scatter when interacting with phonons
+- Indium Arsenide
+  - Direct bandgap
+  - small effective mass for the conduction band because it is a very sharp parabola
+  - light holes (sharp parabola) have higher mobility 
+  - heavy holes (flat parabola) have lower mobiltiy
+  - this means you have two types of holes, some that move easily and some that move poorly
+  - electrons instead will always have a low effective mass, meaning you have much more mobile electrons compared to holes
+- Solar Cell Efficiency
+  - Shockley-Queisser limit for the efficiency of a solar cell relates the efficiency to the bandgap
+  - Maxes out around 1.5eV at 31%
+  - To get large voltage difference you need a large bandgap
+  - However this decreases the likelihood of photon absorption
+  - Silicon has the bandgap around 1.5eV meaning it has similarly high efficiency
+  - Basically, at low bandgap, electrons can freely relax to band edges rather than migrating to the metal contacts, but at high bandgaps, less photons are able to be absorbed
+- Triple Junction solar cells
+  - 39.5% terrestrial and 34.2% space efficiency
+  - Not used because it's way too expensive and cost inefficient
+  - Use a layer of high bandgap material to absorb the high energy photons, but losing most low energy photons
+  - Use a SECOND layer of lower bandgap material to absorb to lower energy photons that passed through the previous layer
+  - Use a THIRD to do the same
+  - there's so many solar cell designs that have varying efficiency and prices, look at NREL Best Research-Cell Efficiencies graph
+- Measuring Light Intensity
+  - Metrics in Photodetectors
+    - Responsivity
+      - $$R=\frac{I_P}{P_o}$$
+      - How much input current for output power.
+      - Silicon can only detect so little energy photons before its less than the bandgap energy (forbidden)
+      - Other materials like germanium and indium-gallium-arsenide can detect smaller energy photons like IR
+    - Quantum Efficiency
+      - $$r_i=\frac{I_p/e}{P_o/h\nu}$$
+    - Noise-Equivalent Power (NEP)
+      - Measure of the sensitivity of a photodeteector, basically just how discernable is your detector compared to its noise
+      - Caused by dark current, even in the dark there's thermal excitation in the electrons in the sensor, causing a constant noisy current despite no light
+      - Measureed in Watts/sqrt(Hz) because if you integrate for half a second that is the power you can discern
+      - Typically in the 10^-12 to 10^-19 watts ffrom silicon to superconductors
+    - Detectivity
+      - 1/NEP
+  - Some photodiodes are made similar to triple level solar cells and have multiple layers of different material that will absorb more photons (compound detector)
+- Detectors can be photovoltaic or photoconductive
+  - Creating voltage or current
+  - Photovoltaic cell is a solar cell
+    - This minimizes dark current
+  - Photoconductive cell is a REVERSE biased diode
+    - This creates a current flow when electrons are excited
+    - Increases sensitivity, reduces junction capacity that increases high frequency response
+    - Extends range of linear response (more wavelengths can be detected)
+- Materials and Applications
+  - Silicon -> solar cells and sensors
+  - Germanium -> IR deteectors
+  - Cadmium Sulfide -> Photocopiers, imaging devices
+  - Cadmium Slenide -> Light sensors, applications
+  - Indium Tin Oxide -> Touchscreens, tarnsparent electronics
+  - Polyvinyl Carbazole -> Photocopying
+- Photoconductors
+  - As a photoconductor heats up, its resistivity changes
+  - Just a resistor that changes with the amount of light shone on it
+- Avalanche Photodetector
+  - Creates many electrons from a single photon
+  - Reverse biased until right before the breakdown (at shoulder), then add a little light and it will cause a massive avalanche amplification of current for a single photon
+  - Some have gains of up to 1000
+- PIN Diode
+  - N-type over p-type with a large intrinsic region
+  - Can apply a large voltage on the intrinsic portion, which acts like a raging river where the moment an electron hole pair enters the intrinsic material it getse swept away, increasing efficiency
+- Phototransistor
+  - Literally just a transistor turned on by way of photon collection reducing/increasing width of depletion region of the base/gate
+  - Better amplification because you're collecting from two
+- Nanowire Detector Single Photon Detection
+  - Superconductor wire exposed to a photon causes a little heat, ruining its superconductivity
+  - Single photon cameras made as an array of a ton of nanowires all put on a bus system to take images of single photons
+- Photomultiplier tube
+  - Works by photoemission
+  - Vaccuum tube that absorbs a photon by way of emitting an electron that bounces between dynodes collecting multiple electrons until it hits an anode that reads out an electrical signal based on a single photon
+-  
