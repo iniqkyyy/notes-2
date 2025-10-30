@@ -1,0 +1,23 @@
+# Photonics 1 Lesson 15
+- in a pn junction the diffusion current is created by holes and electrons migrating across the boundary, and the drift current is the push they feel from the already-migrated holes and electrons, and in equilibrium this cancels to create net 0 current
+- Types of Lasers
+  - Liquid (dye)
+  - Solids (Solid-state)
+  - Semiconductor
+- Semiconductor lasers
+- Internal Quantum Efficiency (IQE)
+  - Light vs heat output
+  - GaAs is around 90-100%
+  - Silicon is less than 1%, because it's an indirect bandgap
+- Heterojunction laser diodes
+  - Basically the junction you want the light contained in is encased in a junction of other material that is much wider, meaning when the photon is in the gap of the desired material, it cannot exit its band with any of the surrounding energy levels
+- the thinner the quantum well, the higher the current, and the narrower linewidth
+- Organic LED
+  - Uses organic materials that have a depletion region that you can push current through
+  - Even further you can put a filter above each portion of the sectioned OLED to make it a more pure wavelength of light desired
+- Quantum Dots
+  - Make a sphere of atoms, and based on their size you can change the light they output when stimulated by external laser
+  - As you make the dot smaller, the bands split into more discrete energy levels
+- An organic semiconductor-based plastic would be like a plastic bag that you can fold up in your pocket and pull it out like a flashlight
+- Titanium: Sapphire laser needs to be pumped, however it's extremely cost-effective and can be on a chip, you can get one with power supply for ~40$
+- 
