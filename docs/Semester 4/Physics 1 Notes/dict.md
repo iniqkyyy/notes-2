@@ -298,3 +298,9 @@
     - Where G is 6.67E-11 with units to convert kg^2/m^2 to N
     - Negative indicating an attractive force, directed in r-hat indicating towards each other.
   - g (the 10m/s^2) is therefore GM/r^2 = ~10
+- #Gravitational-Field
+  - $$\vec{g}=\frac{\vec{F}}{m}=-G\frac{M}{r^2}\hat{r}$$
+- #Gravitational-Potential
+  - $$=V_g=-\frac{GM}{r}$$
+- #Gravitational-Potential-Energy
+  - $$E=mgh=-\frac{GMm}{r}$$

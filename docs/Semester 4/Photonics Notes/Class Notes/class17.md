@@ -1,0 +1,19 @@
+# Photonics 1 Lesson 16
+- Imagers today
+- MOS Capacitor
+  - Metal -> Oxide -> Silicon n-channel -> Potential well (with p-type around it)
+  - Light will excite an electron in the n-channel, which is then captured in the potential well
+  - "Stores" light as electrons.
+- Charge Coupled Device
+  - Bunch of MOS capacitors transferring electrons in a line to produce an image
+  - Dynamic Range = Bit Depth = related to the number of electrons that can be stored in each MOS before blooming (bleeding edge) occurs
+- Fill factor
+  - The % of light converted to electrons, 100% is all and 0% is none.
+- Filters
+  - Filter out red and green so you only get an electron rise when blue light hits
+  - Bayer filter is half green, quarter red, quarter blue, because we're the most responsive to yellow/green
+  - Can also use a rotating large filter to capture a red, blue, and green image sequentially then recombining
+  - Could instead use a three-chip design where you split the light with a prism and collect it with separate CCDs
+- Problem: CCD has a linear response to increased luminance, but your eyes are more responsive at low luminance and less responsive at high luminance
+- To avoid noise in your MOS, put a tiny p-type layer ABOVE the n-type to push the electrons down instead of up
+- back-illuminated structure has the circuitry UNDER the photo-diode rather than surrounding it, this means its more responsive
