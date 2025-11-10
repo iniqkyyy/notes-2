@@ -304,3 +304,22 @@
   - $$=V_g=-\frac{GM}{r}$$
 - #Gravitational-Potential-Energy
   - $$E=mgh=-\frac{GMm}{r}$$
+
+## Oscillators
+- #Period
+  - $$T=\frac{2\pi}{\omega}$$
+  - Where, on a spring, omega is
+    - $$\sqrt{\frac{k}{m}}$$
+    - Where k=spring constant and m=mass of object
+  - Where, on a simple pendulum, omega is
+    - $$\sqrt{\frac{g}{R}}$$
+    - Where g=gravity acceleration, and R is the length of the arm
+- #Simple-Harmonic-Motion
+  - Any time a system has a restoring force:
+  - $$\frac{d^2x(t)}{dt^2}+\omega^2x(t)=0$$
+  - Where x(t) is
+    - $$x(t)=X_{max}\cos(\omega t+\Theta)$$
+    - $$x'(t)=-\omega X_{max}\sin(\omega t+\Theta)$$
+    - $$x''(t)=-\omega^2X_{max}\cos(\omega t+\Theta)$$
+  - This shows that where the angular acceleration is max is where the position is lowest (sign is flipped), and angular velocity is the highest when position is 0.
+  - Note that the theta is the phase angle.
