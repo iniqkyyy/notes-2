@@ -1,0 +1,41 @@
+# Amanda's Presentation
+- Comparators
+  - Zero level Detection
+    - Inverting input that is grounded is the "reference" of the op-amp
+    - As the signal crosses the grounded signal, you get a max or min, basically a square wave from an ac wave
+  - Non-zero leve ldetection
+    - Uses a voltage divider, when VIN is at the reference you get a max, and vice versa, so instead of a perfect square wave you have a single pulse followed by a constant negative voltage
+  - Applications
+    - Analog-to-digital for computers
+    - Voltage-level detection
+- Summing Amplifiers
+  - Output voltage is proportional to the NEGATIVE sum of the inputs
+  - rf=r1/2/3
+- Averaging amplifier
+  - rf=r1 divided by number of resistors
+- Scaling adder
+  - Each voltage input has a weight determined by resistor size
+- Applications
+  - Summing = audio to mix 
+  - averaging = audio to reduce noise
+  - averaging = medical systems to get exact AC
+- Integrator
+  - Uses capacitor as the feedback resistor
+  - Does integration
+- Differentiator
+  - has a capacitor as the INPUT and resistor as the feedback
+  - does differentiation
+- Applications
+  - differentiator -> detects edges
+- Oscillators
+  - Produces an AC output from a DC input
+  - Wien-bridge
+    - Lead-lag RC circuit, r+C + R||C
+    - Kinda just makes a pulse of 1/3 the peak from vin
+  - Triangle-wave
+    - Uses a comparator with 2 trigger points and an integrator to produce triangle waves
+  - Square-wave relaxation
+    - Based on the charging/discharging of an oscillator
+- Applications
+  - signal generators
+  - clock generation for timing signals
