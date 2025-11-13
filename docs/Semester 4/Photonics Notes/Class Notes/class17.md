@@ -1,4 +1,4 @@
-# Photonics 1 Lesson 16
+# Photonics 1 Lesson 17
 - Imagers today
 - MOS Capacitor
   - Metal -> Oxide -> Silicon n-channel -> Potential well (with p-type around it)

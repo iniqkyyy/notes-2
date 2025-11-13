@@ -1,0 +1,104 @@
+# Photonics 1 Lesson 18
+- Quantum Computing WOO
+- around 58 billion per year in quantum initiatives by goverments around the world
+- deep pockets surrounding this stuff due to encryption primarily being obsolete once quantum computing is achieved
+- google, ibm, microsoft, amazon, intel, psiquantum
+- focusing in infrastructure and basic research, as well as cloud access and hardware scaling
+- feynman big proprietor of quantum computing
+- Quantum Qubit
+  - They can exist in multiple states all at the same time, with each state adding together and interfering like waves to define the overall quantum state. Wave functions.
+  - When you observe a final answer, only one component is observed and instead the wave function collapses.
+  - Entanglement
+    - Take two particles and set them in such a way that measuring one gives you information about the other.
+- QC Characteristics
+  - Wave-particle duality
+  - Superposition
+  - Coherence
+  - Entanglement
+  - Measurement of a quantum system fundamentally changes it to a single state
+- Qubit State
+  - $$\ket\Psi=\alpha \ket0 + \beta \ket1$$
+  - Alpha and beta squared must be equal to 1, such that the probability is distributed by the different states.
+  - Suppose you represent a qubit as the ground state at the north pole, and on state at the south pole
+    - You can have a mixture of z-up and z-down 
+    - Basically, in a sphere with radius 1, alpha and beta are the complex multiplier that rotates the vector around the sphere, maintaining that any inscribed triangle still adheres to alpha^2+beta^2=radius=1
+    - Whatever alpha is, beta will be the complementary cosine of the angle of arcsin(alpha)
+- Deutsch-Jozsa algorithm
+  - Came up with an esoteric problem that a classical computer would take a very long time to complete, and showed that a quantum computer could complete it in no time at all.
+- Scott Aaronson
+  - How much information is encoded in a qubit?
+  - BEFORE measuring you have 2^n states
+  - AFTER you measure, you only have n bits
+  - So how many classical bits are "in" n qubits.
+  - We don't know exactly, but we are (believed to be) on the path to determine that experimentally.
+  - It is likely above 2n and below 2^n, as those would be the extrema.
+- So how can we extract information from something that is probabilistic by nature and non-repeatable.
+- RSA
+  - Take two large numbers, p and q, such that n=PQ, to find p and q you must check every number between 0 and sqrt(n), until you find either p or q. If n is a 2000-digit number, then the chance of you finding p or q is effectively zero (with classical computers)
+  - BUT we cannot prove that there is no classical algorithm for factoring primes.
+  - In quantum computers, however, Peter Shor showed with his '94 algorithm that a quantum computer could easily break RSA encryption in an operation scaling of a constant times d^3, whereas classical is a constant times d^1/3
+- Number sieve OG method
+  - Find all primes up to your number N by checking divisibility of all smaller primes, stopping at sqrt(N)
+- How to build a Quantum Computer?
+  - Superconducting Qubits
+  - Trapped Ions
+  - Cold Atoms
+  - Photonics!
+  - Nonabelian Anyons (Majorana)
+- Quantum Gates
+  - MUST be reversible, superposition-maintaining, and entanglement-maintaining.
+  - Physically, a gate can be created as a laser pulse with precise energy that will manipulate either alpha or beta in the previous equation.
+  - X Gate
+    - $$\begin{bmatrix}\alpha\\ \beta\end{bmatrix}\times\begin{bmatrix}0&1\\ 1&0\end{bmatrix}=\begin{bmatrix}\beta\\ \alpha\end{bmatrix}$$
+  - To apply gates are high fidelity (consistency), and to compelte many in a row, you need special technology.
+  - IonQ has the record of 99.99% two-qubit gate fidelity.
+  - Holy grail is 6 9's, to get a high likelihood of accurate answer without error correction.
+- Superconductors
+  - Nobel prize 2025 in physics was given to three guys who are working toward superconductor qubits.
+  - Josephson junctions allow you to keep electrons apart by an insulator that was thin enough that they could still tunnel through. This behaves like an artificial atom.
+  - According to Clarke, if you design the circuit properly you could have actual tunneling of objects larger and more useful than just a couple of electrons.
+  - In a superconductor qubit, you can encode the logical states (ket0 and ket1) to correspond to distinct energy levels in the circuit.
+  - At a superconductive level, the electrons join up as pairs, Cooper pairs, and form a current where there is no resistance .
+  - Cooper pairs can behave as if they were a single particle that fills the entire electrical circuit. QM describes the collective state using a shared wave function.
+  - Because of this property, all of the electrons could tunnel simultaneously.
+  - Detect state by observing the number of electrons tunneling at any given point in time. Wow.
+- Trapped Ion
+  - NIST makes atomic clocks using trapped ions
+  - In 1995, David Wineland became the first man to create a single atom quantum logic gate and became the first to quantum teleprot information in massive particles in 2004.
+  - Two types of qubits using electronic states
+    - Hyperfine (two ground states of a hyperfine state)
+      - This is the tiny energy difference between stuff like 2s vs 2p orbitals.
+    - Optical state (Ground and excited state)
+  - IonQ's Quantum world congress 2025 Keynote trapped Ion images shown
+    - They say atoms and ions are "pure"
+    - Trapping ions in an array of manipulatable locations
+    - The ion trap cannot work with a fixed voltage, the ion will leave
+      - Instead you need a rapidly oscillating voltage, such that the *average* field traps the ions in all three dimensions.
+        - Like a ball on a sadlle then spinning it.
+    - To cool, uses Doppler cooling to get sub-thousandth degrees, and laser side-band cooling to get even lower.
+      - Doppler cooling is using a laser thats slightly less energy than the ion, if the ion moves towards the laser it will absorb the laser photon, and it will kick another photon back the other direction that will slowly get rid of momentum energy (heat)
+    - Can create an entanglement by adding slight momentum to two ions simultaneously.
+    - To read the answer, after completing the computation, shine a resonant laser on all the ions simultaneously so they all collapse at the same time. When you look at the pattern of the collapses, it will follow the probability distribution and be able to be quantified as a result.
+    - Vacuum pump keeps air from interacting by keeping pressure at 10^-11 Torr
+    - Their current claim to fame is that they have 100 qubits, a gate can be performed on any two of them, and their fidelity is 99.99%
+    - IonQ claims to have 80000 logical Qubits by 2030.
+- Caltech took 6100 cesium atoms in optical tweezers
+  - They don't have the machinery to make gates for these qubits, but they did show they could hold them.
+- Photonic Qubits
+  - Can use many different parts of light like angular frequency, polarization, etc. to encode information in photons that are unaffected by heat and air pressure.
+  - PsiQuantum says they can build a photonic qubit array that will be helpful.
+  - The issue is that fidelity is quite low.
+- Over the past 4 years, google, USTC, and Xanadu have claimed "QC supremacy" on contrived sampling using small noisy QCs.
+  - But these have not been shown to be able to do the real computations required for use.
+- Wineland said
+  - The problem is that qubits fail due to errors in setup, error in vaccuum, error in gates, etc.
+  - You need to be able to do at least 10000 operations and keep things in sync and perfect for it to be useful.
+- Applications of Quantum Computing?
+  - Material science
+  - High-energy physics that cannot be completed in real life
+  - Quantum chemistry
+- Julich Supercomputing Center
+  - Produced a classical computer that simulated a 50 qubit quantum computer. TWO DAYS AGO??
+- Industry absolutely needs quantum-engaged people in technician and engineer roles to keep moving forward, and they don't have enough people.
+- MSU QCORE facility is 12600sqft scientific labspace for quantum
+- 
