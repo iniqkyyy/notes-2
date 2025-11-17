@@ -39,3 +39,7 @@
 - Applications
   - signal generators
   - clock generation for timing signals
+## Thomas 
+- Low-pass active filter = an RC circuit into the non-inverting op-amp pin.
+- High-pass active filter = a CR circuit into the non-inverting op-amp pin.
+- 
