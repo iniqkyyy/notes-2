@@ -1,0 +1,21 @@
+# Metrology Lesson 3
+- Focimeter (faux-kim-it-er)
+  - Basically just a lens system that can be "interrupted" by a testing lens, and moving the reticle you can determine the focal length of the tested lens using:
+    - $$\text{BFL}=(\frac{1}{d_{focimeter}}-\frac{d_{reticle}}{d^2_{focimeter}})^{-1}$$
+  - ONLY BFL
+- Reciprocal magnification
+  - Use a lens to image something in two different places, with object distance p/p' and image distance q/q', specifically where p'=q and q'=p.
+  - $$EFL_{system}=\frac{d}{mag-mag'}=\frac{d}{mag-\frac{1}{mag}}$$
+  - Where d is the distance between each lens placement, and mag is the magnification of the first image, and mag' is just the inverse of mag since the distances are equal.
+  - ONLY EFL
+  - Sidenote 4F system:
+    - when object distance = 2f, image distance = 2f
+    - if you had this scenario you just divide the distance between object and image by 4.
+- Traveling microscope
+  - microscope has very tight foci therefore collecting reflected light from a microscope and finding maximum intensity will be a very specific distance that will be the focal length, specifically BFL
+  - very simple theory, however need long translation ranges with high precision
+- Ronchi Auto-Imaging
+  - Place two ronchi rulings, one that you can move on the z-axis, and place the lens between and move until the image of the first overlaps the second, meaning you're at the 4F
+  - Can do the same with a single ronchi ruling and a mirror, determine when the auto-image is formed (it overlaps on the object) at the ROC, or 2f.
+  - pretty quick, also gives aberrations from ronchigram, however only works with single, thin, positive optics, and doesn't distinguish EFL or BFL
+- 

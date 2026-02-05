@@ -1,0 +1,26 @@
+# Metrology Lesson 2
+- Effective focal length = from principal plane.
+- Back focal length = from FINAL optical surface.
+- Principal planes
+  - thick lenses (and systems) have two principal planes front and back
+- EFL important for the F/#
+- BFL important for opto-mechanical
+- flange focal length is just an important distance relative to attacahing things together
+- Aperture Stop
+  - smallest thing light goes through in an optical system
+- Entrance pupil
+  - Go to object space and ray trace the aperture stop to find the magnification and therefore the "light collection size" of the system
+- F/#
+  - EFL/Diameter_EP
+- With no iris, might need clear aperture
+- Clear aperture usually < 95% of the actual lens diameter, just an effective "size" of the lens while mounted and accounting for edge error
+- FOV
+  - Maximum incidence angle which results in image formation
+- Numerical aperture
+  - $$NA=n\sin(\theta_{hOut})=\frac{n}{2F/\#}$$
+- Depth of Focus
+  - Range of distances in the z-axis around the focal plane at which the spot size is diffraction limited
+  - Basically just an area around the focal plane where you aren't that unfocused because of diffraction
+- Airy Disk
+  - $$D_{Airy}=\frac{\lambda}{2NA}$$
+- 

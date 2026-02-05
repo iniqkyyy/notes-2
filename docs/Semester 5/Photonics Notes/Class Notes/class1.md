@@ -1,0 +1,28 @@
+# Metrology Lesson 1
+- Overview material
+- Calibration is always first priority
+- Next is material sepcs such as IoR, transmission/reflectance, specular/diffuse, contrast, uniformity, size, etc.
+- Imaginary part of the refractive index is related to the absorptivity, which is inversely related to emissivity for blackbodies.
+- refractiveindex.info cool to see material IoR
+- specular reflection = smooth
+- rough surface = diffuse reflection
+- heterogenous inside = specular reflection but diffuse transmission
+- rough everywhere = diffuse reflection and transmission
+- Ronchi Rulings are repeating patterns on glass/mirrored surfaces like a diffraction grating
+- USAF 1951 target is a collection of Ronchi Rulings
+- PTFE (Spectralon)
+  - Common as relative calibration targets
+  - As near perfect diffuse reflector as possible
+  - Used for calibration
+- #Radiance
+  - W/m^2*sr
+  - $$L=\frac{P}{\Omega A}$$
+  - sr is the solid angle relative to source vs receiver FOV
+- #Luminance
+  - L_V in lm/m^2*sr
+  - replaces watts with lumens
+  - lumens are relative to human visual response, adapted for night/day viewing
+  - candella is lumen/sr already so it could also be candella/m^2
+- Moire' Patterns
+- Relies on Ronchi rulings to generate patterns similar to those from traditional interferograms
+- 
