@@ -1,2 +1,46 @@
 # Metrology Lesson 4
+- Wavefront Sensors
+- Shack Hartmann
+- tiny lenses followed by even smaller pixels to collect light
+- the local slope of each wavefront segment will determine where the light gets focused by the lenslet
+- can use just four pixels and use the proportion of power on each pixel to determine the slope
+- pros
+  - fast alignment
+  - high temporal resolution
+- cons
+  - low spatial resolution
+  - dynamic range depends on tilt
+    - dynamic range is the difference between max and min local slopes
+- Pyramid WFS
+- splits light into four images, if no aberrations then they all match
+- pros
+  - more sensitive than shack hartmann, reduced noise on the CCD pixels (further away so no cross-talk)
+  - reduced airy disk diameter
+- cons
+  - requires mechanical movement
+- Roddier test (wavefront curvature sensing)
+- still lenslet array
+- mechanically move the detector backwards, taking images before and after the focal plane of the lenslet
+- pros
+  - high sensitivity to low-order aberrations
+  - tunable gain for varying intensity sources
+- cons
+  - slow measurements
+  - low sensitivity to high-order aberrations
+- interferometer (mach-zehnder)
+  - split beam through beam splitter, send through two lenses, keep one unchanged, send the other through a pinhole at the focal plane
+  - interfference pattern shows aberrations
+- pros
+  - high spatial and temporal resolution
+- cons
+  - slow alignment
+  - large footprint
+  - vibration sensitive
+- reading interferograms
+  - like reading a topographical map
+  - no way to know which way is up or down, therefore phase shift becomes critical
+  - change phase to find what is peak and what is valley
+  - with interferometry we're looking at phase first, then interference
+  - a perfect wavefront with no aberrations would just be one color
+- optical power = how fast/strong something focuses light, or similar
 - 
