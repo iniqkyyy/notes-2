@@ -1,0 +1,39 @@
+# Metrology Lesson 6
+- mach-zehnder interferometer
+  - same split and two arms, but recombined in both a "positive" and "negative" image (1pi phase shift)
+  - pros
+    - flexible setup
+    - tunable contrast
+    - captures all output power
+  - cons
+    - extremely sensitive to environment
+    - high coherence requirement (need to fix OPD on the reference arm)
+- sagnac
+  - split but go in a loop
+  - only when the system is rotating, the photons have angular momentum, which causes phase shift
+  - fiber can be used to increase size of the loop, which will increase sensitivity to rotation
+  - pros
+    - extremely stable
+  - cons
+    - extremely limited to only rotation detection
+- point diffraction
+  - semi-transparent element with pinhole (smaller than airy disk), making two different "images"
+  - moving the lens in front can "scan" the wavefront along the z-axis
+  - pros
+    - low environmental sensitivity
+    - no refernce surface
+    - small footprint
+  - cons
+    - hard to tune fringe contrast
+- fabry-perot etalon
+  - collimate source -> etalon cavity reflects light many times -> focused -> airy disk interferogram
+  - distance between fringes determines the wavelength allowed to propogate
+  - $$nd\cos({\theta})=\frac{m\lambda}{2}$$
+  - Finesse determines the sharpness
+  - Coefficient of Finesse
+    - $$\frac{4r}{(1-r)^2}$$
+  - Free-Spectral Range
+    - $$FSR=\frac{\lambda^2}{2nd}$$
+  - Finesse
+    - $$\mathcal{F}=\frac{\pi\sqrt{F}}{2}=\frac{\pi\sqrt{r}}{1-r}=\frac{FSR}{\Delta\lambda}$$
+- 

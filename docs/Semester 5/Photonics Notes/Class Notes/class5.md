@@ -1,0 +1,33 @@
+# Metrology Lesson 5
+- Interferometers
+- test arm and refernce arm are the whole idea
+- split beam, recombine, observe interference
+- fizeau interferometers split the beam with a partial reflection and a true reflection, with spatial re-alignment done somehow at the end
+  - high-quality optic
+  - less vibration sensitive
+  - reference can be the mirror or the glass
+  - pros
+    - self-referencing, laser/thermal stability
+    - high spatial resolution
+    - simple
+  - cons
+    - vibration sensitivity
+    - curvature limits
+    - contrast tuning (power inefficient)
+    - spurious fringes
+- shearing interferometers have one piece of glass that reflects twice into the eye piece
+  - typically only used for collimation
+  - pros
+    - simple
+    - self-referencing
+    - common path (vibration insensitivity)
+  - cons
+    - limited use
+    - mainly qualitative
+    - low dynamic range
+- twyman green interferometers
+  - just a michelson but you have a lens + mirror on one arm, you can do planar and spherical wavefronts
+  - not fun to set up
+- all of this falls under the umbrella of optical coherence tomography
+- 
+
