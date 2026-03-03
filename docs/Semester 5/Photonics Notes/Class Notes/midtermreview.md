@@ -1,0 +1,62 @@
+- IoR complex
+  - $$n+ik$$
+  - k is the absorption
+- Radiance
+   - $$L\left[\frac{W}{m^2sr}\right]=\frac{P}{\Omega A}$$
+   - power divded by the area times the solid angle in steradians
+- F/#
+  - $$F\#=\frac{EFL}{D_{EP}}$$
+  - dep is the entrance pupil diameter
+  - this changes based on index of refraction
+- EFL
+  - $$\frac{d}{M-1/M}$$
+  - where d is the distance the lens moved from location 1 to location 2 and M is the magnification
+- NA
+  - $$n\sin{\theta_{hOut}}\approx\frac{n}{2F\#}$$
+  - this does not change based on index of refraction
+- airy disk
+  - $$D_{Airy}=\frac{\lambda}{2NA}\approx2.44\lambda F\#$$
+  - increase entrance pupil = smaller airy disk
+- depth of focus
+  - $$\approx\plusmn2\lambda(F\#)^2$$
+- OPD
+  - $$n_2d_2-n_1d_1$$
+- phase shift
+  - $$\Delta\phi=\frac{2\pi}{\lambda}OPD$$
+- WFE wavefronterror
+  - $$WFE(h,\rho,\psi)=W_{020}\rho^2+W_{111}h\rho\cos{\Psi}...$$
+  - h image height, rho height of ray as it passes through the aperture, psi angle of the ray of aperture
+  - the W's are constant coefficients (psidel coefficient)
+- contrast
+  - $$\frac{E_{max}-E_{min}}{E_{max}+E_{min}}$$
+  - the contrast of anything is how bright is bright and how dark is dark
+- MTF
+  - $$MTF(\xi)=\frac{contrast_{image}(\xi)}{contrast_{object}(\xi)}$$
+  - xi is spatial frequency
+  - MTF is a relative contrast between an image and object at a given spatial frequency
+- cutoff spatial frequency 3db
+  - $$\xi_c=\frac{1}{\lambda F\#}\approx\frac{2NA}{\lambda}$$
+- etalon spectral filter
+  - $$\frac{m\lambda}{2}=nd\cos{\theta_i}$$
+  - d is the distance between the two plates
+  - theta is the incidence angle inside the plates
+  - output is a set of wavelengths that are allowed through, ordered by m=1,2,3...
+  - peaks on a spectral filter wavelength to power graph
+- finesse ratio
+  - $$\frac{4r}{(1-r)^2}$$
+  - how sharp an etalon focuses
+  - how narrow the peaks are on the previously mentioned graph
+- free spectral range
+  - $$\frac{\lambda^2}{2nd}$$
+  - distance between peaks on the previously mentioned graph
+- finesse
+  - $$\mathcal{F}=\frac{\pi\sqrt{F}}{2}=\frac{\pi\sqrt{r}}{1-r}=\frac{FSR}{\Delta\lambda}$$
+  - all previous terms combined
+- coherence length
+  - $$L_{coh}=\frac{c}{n\Delta \nu}=\frac{\lambda^2}{n\Delta \lambda}$$
+- abbay limit
+   - $$\delta=\frac{\lambda}{2NA}$$
+   - minimum distance between two points where they remain technically resolvable based on the diffraction limit 
+- fringe contrast/visibility
+  - $$\mathcal{V}=\frac{2\sqrt{I_{ref}I_{test}}}{I_{ref}+I_{test}}$$
+

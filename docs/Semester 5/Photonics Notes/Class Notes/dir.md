@@ -6,6 +6,7 @@
 - [[docs/Semester 5/Photonics Notes/Class Notes/class5]]
 - [[docs/Semester 5/Photonics Notes/Class Notes/class6]]
 - [[docs/Semester 5/Photonics Notes/Class Notes/class7]]
+- [[docs/Semester 5/Photonics Notes/Class Notes/midtermreview]]
 - [[docs/Semester 5/Photonics Notes/Class Notes/class8]]
 - [[docs/Semester 5/Photonics Notes/Class Notes/class9]]
 - [[docs/Semester 5/Photonics Notes/Class Notes/class10]]
@@ -76,3 +77,5 @@
 [docs/Semester 5/Photonics Notes/Class Notes/class6]: class6.md "Metrology Lesson 6"
 
 [docs/Semester 5/Photonics Notes/Class Notes/class7]: class7.md "class7"
+
+[docs/Semester 5/Photonics Notes/Class Notes/midtermreview]: midtermreview.md "midtermreview"
