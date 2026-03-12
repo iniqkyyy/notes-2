@@ -1,0 +1,29 @@
+# Metrology Lesson 8
+- signals & noise
+  - Dark signal inherent to the detector
+  - Background signal includes anyy light not intended to be gathered
+  - $$V_{det}=\mathcal{R}(P_{sig}+P_{bkg})+V_{dark}+\epsilon$$
+    - epsilon is the noise
+    - fancy R is the responsivity
+  - linear operation
+    - plot "noise current/voltage/ohms" against optical power and the graph will show the "Noise Equivalent Power" NEP which will give you a responsivity
+    - as you approach saturation of the detector, you lose the linearity
+    - dynamic range is the range of input powers where you remain in the linear operation
+- flat field correction
+  - the most common non-uniformity correction (NUC)
+  - pixel arrays have different responsivity for each pixel (hot and cold, or center vs edge vignette)
+  - this requires a scene with constant radiance (integrating sphere) and adjust the pixels of the original image referencing that uniform image
+- radiometric calibration
+  - vary the scene radiance and record device readings
+  - take measurements at all possible operating parameters (gain, temperature, etc.)
+- spectral calibration
+  - relative spectral response is a curve with values between 0 and 1
+    - $$RSR(\lambda)=\frac{\mathcal{R}(\lambda)}{\mathcal{R}(\lambda_{peak})}$$
+  - applies on top of a radiometric calibration by multiplying RSR by R and the peak wavelength
+- spatial calibration
+  - mapping pixel coordinates to real-world coordinates
+  - take a picture of a grid, feed to algo, get rid of distortion like fish-eye
+- temporal calibration
+  - in photonics, this is mostly relating to time-of-flight LiDAR ranging where range, Z, is proportional to time, t
+  - set targets at known distances, and use algo to synchronize your multiple detectors to the pulse you get from that distance
+- always calibrate as close to intended use case as possible

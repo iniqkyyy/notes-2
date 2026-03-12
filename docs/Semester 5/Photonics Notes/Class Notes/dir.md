@@ -79,3 +79,5 @@
 [docs/Semester 5/Photonics Notes/Class Notes/class7]: class7.md "class7"
 
 [docs/Semester 5/Photonics Notes/Class Notes/midtermreview]: midtermreview.md "midtermreview"
+
+[docs/Semester 5/Photonics Notes/Class Notes/class8]: class8.md "Metrology Lesson 8"
