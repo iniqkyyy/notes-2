@@ -81,3 +81,5 @@
 [docs/Semester 5/Photonics Notes/Class Notes/midtermreview]: midtermreview.md "midtermreview"
 
 [docs/Semester 5/Photonics Notes/Class Notes/class8]: class8.md "Metrology Lesson 8"
+
+[docs/Semester 5/Photonics Notes/Class Notes/class9]: class9.md "Metrology Lesson 9"
